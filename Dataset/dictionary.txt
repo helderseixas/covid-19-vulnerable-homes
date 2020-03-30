@@ -1,0 +1,15 @@
+*Column dictionary
+DATA_RESPOSTA: Date that the student or worker answer the questionary.
+VINCULO: Role of person on IFNMG.
+CAMPUS: IFNMG there are 11 campi: Almenara, Araçuaí, Arinos, Diamantina, Janaúba, Januária, Montes Claros, Pirapora, Porteirinha, Salinas e Teófilo Otoni.
+TIPO_DOMICILIO: Categories of residence.
+IDADE_0_9: Quantity of people with 0 - 9 years old that live in this residence.
+IDADE_10_39: Quantity of people with 10 - 39 years old that live in this residence.
+IDADE_40_59: Quantity of people with 40 - 59 years old that live in this residence.
+IDADE_MAIS_59: Quantity of people with more than 59 years old that live in this residence.
+DOENCA_CRONICA: Quantity of people that live in this residence and there are some disease: cardiovascular disease, diabetes, chronic respiratory disease, hypertension or cancer.
+QUARTOS_DOMICILIO: Quantity of bedroom there are in this residence.
+ESTUDANTES: Quantity of people that live in this residence there are students.
+PROFESSORES: Quantity of people that live in this residence there are teacher.
+SERVICOS_ESSENCIAIS: Quantity of people that live in this residence there are workers in this areas: medical services, police, fire department, supermarket, butcher, bakery, pharmacies, gas station and others.
+INFORMAIS_AUTONOMOS: Quantity of people that live in this residence there are informal or self-employed workers.

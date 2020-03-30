@@ -1,0 +1,810 @@
+DATA_RESPOSTA,VINCULO,CAMPUS,TIPO_DOMICILIO,IDADE_0_9,IDADE_10_39,IDADE_40_59,IDADE_MAIS_59,DOENCA_CRONICA,QUARTOS_DOMICILIO,ESTUDANTES,PROFESSORES,SERVICOS_ESSENCIAIS,INFORMAIS_AUTONOMOS
+26/03/2020 00:45:12,Professor,Januária,Casa,1,2,0,0,0,3,0,2,0,1
+26/03/2020 01:21:16,Aluno,Januária,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 01:24:41,Aluno,Januária,Casa,3,2,1,0,1,3,2,0,0,0
+26/03/2020 01:27:01,Professor,Januária,Casa,0,2,2,0,2,4,2,2,0,0
+26/03/2020 02:04:27,Aluno,Januária,Casa,0,4,0,0,0,3,3,1,0,1
+26/03/2020 02:42:10,Professor,Januária,Casa,0,2,2,0,0,4,2,1,0,1
+26/03/2020 02:51:23,Aluno,Januária,Casa,0,2,1,0,0,3,2,0,0,0
+26/03/2020 06:05:56,Tecnico administrativo,Januária,Casa,0,2,2,0,2,2,3,1,0,0
+26/03/2020 07:03:08,Aluno,Januária,Casa,1,4,0,0,0,2,4,0,0,1
+26/03/2020 07:03:32,Professor,Januária,Casa,1,1,0,0,0,3,1,1,0,0
+26/03/2020 07:12:57,Professor,Araçuaí,Casa,2,2,0,0,0,3,2,2,0,0
+26/03/2020 07:27:08,Aluno,Januária,Casa,0,2,0,0,0,2,2,0,0,0
+26/03/2020 07:46:50,Aluno,Januária,Casa,0,3,2,0,0,3,3,0,0,2
+26/03/2020 08:04:45,Aluno,Januária,República,0,6,0,0,2,3,3,0,1,2
+26/03/2020 08:18:37,Professor,Montes Claros,Casa,0,0,1,0,1,2,0,1,0,0
+26/03/2020 08:25:04,Professor,Januária,Casa,0,0,0,2,2,3,1,2,0,0
+26/03/2020 08:35:32,Tecnico administrativo,Januária,Casa,2,3,0,0,0,3,4,0,0,0
+26/03/2020 08:52:20,Aluno,Januária,República,3,0,0,0,1,3,3,0,0,1
+26/03/2020 08:58:04,Professor,Almenara,Casa,0,1,2,0,1,3,1,1,0,0
+26/03/2020 09:21:06,Professor,Januária,Casa,1,1,2,0,1,2,2,1,1,0
+26/03/2020 09:28:47,Professor,Januária,Casa,2,2,0,0,0,4,2,1,1,0
+26/03/2020 09:29:45,Aluno,Januária,Casa,0,4,2,0,6,3,3,1,0,0
+26/03/2020 09:33:08,Aluno,Januária,Casa,0,4,0,0,1,3,3,0,0,0
+26/03/2020 09:35:03,Professor,Januária,Casa,1,2,0,0,0,3,0,2,0,0
+26/03/2020 09:37:30,Aluno,Januária,Casa,0,1,3,2,0,3,1,1,0,0
+26/03/2020 09:37:40,Aluno,Januária,Casa,0,4,0,0,0,2,2,0,0,1
+26/03/2020 09:37:52,Aluno,Januária,Casa,1,4,1,1,0,4,5,1,0,0
+26/03/2020 09:38:39,Professor,Januária,Casa,2,2,0,0,0,3,1,1,0,1
+26/03/2020 09:39:46,Aluno,Januária,Casa,0,2,1,0,2,3,3,1,0,0
+26/03/2020 09:40:21,Aluno,Januária,Casa,0,2,2,1,3,4,2,0,0,1
+26/03/2020 09:40:27,Aluno,Januária,Casa,5,3,1,0,1,4,3,0,2,0
+26/03/2020 09:43:04,Aluno,Januária,Casa,0,4,2,0,0,3,1,0,0,2
+26/03/2020 09:43:40,Aluno,Januária,República,0,5,1,0,0,5,4,0,2,0
+26/03/2020 09:44:42,Professor,Januária,Casa,0,2,0,0,1,2,2,1,1,0
+26/03/2020 09:46:07,Professor,Teófilo Otoni,Casa,0,2,0,2,0,3,1,1,0,0
+26/03/2020 09:46:49,Aluno,Januária,Casa,6,1,4,1,1,3,1,0,1,1
+26/03/2020 09:47:00,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,1,0
+26/03/2020 09:47:06,Aluno,Januária,Casa,0,2,2,0,1,3,1,0,1,0
+26/03/2020 09:47:18,Aluno,Januária,Casa,0,1,2,2,4,5,1,0,0,0
+26/03/2020 09:48:09,Aluno,Januária,Casa,0,2,2,0,0,3,1,0,0,2
+26/03/2020 09:49:34,Aluno,Januária,Casa,1,3,1,0,0,4,3,0,2,0
+26/03/2020 09:49:44,Aluno,Januária,Casa,0,1,2,0,1,2,1,1,0,1
+26/03/2020 09:50:10,Aluno,Januária,Casa,0,1,2,0,1,4,1,0,2,0
+26/03/2020 09:50:59,Aluno,Januária,Casa,1,2,1,0,0,2,2,0,0,1
+26/03/2020 09:51:23,Aluno,Januária,Casa,0,2,2,0,2,3,3,0,0,0
+26/03/2020 09:52:37,Aluno,Januária,Casa,1,2,1,0,0,3,2,0,2,0
+26/03/2020 09:54:21,Professor,Januária,Casa,0,2,0,0,0,2,0,1,0,0
+26/03/2020 09:55:01,Aluno,Januária,Casa,1,3,0,0,1,3,2,0,2,0
+26/03/2020 09:55:05,Aluno,Januária,Casa,1,5,1,0,1,4,3,0,0,1
+26/03/2020 09:55:16,Aluno,Teófilo Otoni,Casa,0,3,2,2,3,4,3,1,1,1
+26/03/2020 09:56:31,Aluno,Januária,Casa,0,3,1,1,1,4,3,0,0,2
+26/03/2020 09:56:41,Professor,Januária,Casa,1,3,1,0,1,3,3,1,1,0
+26/03/2020 09:57:40,Aluno,Januária,Casa,0,2,2,0,1,2,2,0,0,1
+26/03/2020 09:57:42,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,1,1
+26/03/2020 09:57:59,Professor,Januária,Casa,0,1,1,0,0,2,0,1,0,1
+26/03/2020 09:58:20,Aluno,Januária,Casa,0,3,1,1,1,3,2,0,0,2
+26/03/2020 09:58:23,Aluno,Januária,Casa,0,4,1,1,1,3,1,0,3,1
+26/03/2020 09:59:17,Aluno,Januária,República,0,3,0,0,0,2,3,0,0,0
+26/03/2020 09:59:48,Professor,Teófilo Otoni,Casa,1,2,0,0,0,4,1,1,1,0
+26/03/2020 10:00:36,Professor,Diamantina,Apartamento,0,2,0,0,0,3,2,1,0,0
+26/03/2020 10:01:32,Professor,Januária,Casa,0,1,0,0,1,2,0,1,0,0
+26/03/2020 10:02:04,Aluno,Januária,Alojamento,0,96,0,0,0,12,96,0,0,0
+26/03/2020 10:02:24,Aluno,Teófilo Otoni,Casa,0,2,1,0,1,3,1,1,0,0
+26/03/2020 10:02:27,Aluno,Teófilo Otoni,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 10:03:13,Aluno,Januária,Casa,0,4,2,0,1,3,2,0,0,0
+26/03/2020 10:03:25,Aluno,Teófilo Otoni,Casa,1,3,0,0,0,3,3,0,0,0
+26/03/2020 10:04:49,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 10:05:34,Aluno,Januária,Casa,1,4,0,1,1,3,3,1,0,0
+26/03/2020 10:05:34,Aluno,Januária,Casa,0,0,51,0,0,3,0,0,0,3
+26/03/2020 10:06:42,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,0,1
+26/03/2020 10:06:42,Aluno,Januária,Casa,3,3,1,0,0,4,4,0,3,0
+26/03/2020 10:07:17,Aluno,Januária,Casa,3,3,1,0,0,4,4,0,3,0
+26/03/2020 10:07:17,Aluno,Teófilo Otoni,Casa,1,2,1,0,0,3,3,0,0,0
+26/03/2020 10:07:21,Aluno,Januária,Casa,0,1,2,0,0,5,1,0,0,0
+26/03/2020 10:07:47,Aluno,Januária,Casa,0,3,2,0,0,2,3,0,0,0
+26/03/2020 10:08:23,Professor,Januária,Apartamento,0,1,0,0,0,2,0,1,0,0
+26/03/2020 10:10:47,Professor,Januária,Casa,1,0,1,0,0,3,1,1,0,0
+26/03/2020 10:11:16,Professor,Januária,Casa,4,1,1,0,0,3,3,1,0,0
+26/03/2020 10:11:36,Aluno,Januária,"Alojamento, Casa",0,3,2,0,1,4,3,0,0,0
+26/03/2020 10:12:44,Tecnico administrativo,Januária,Casa,2,1,1,0,1,3,1,1,0,0
+26/03/2020 10:12:46,Aluno,Januária,Casa,1,3,1,0,0,2,3,0,0,1
+26/03/2020 10:14:23,Aluno,Januária,Casa,0,1,2,0,0,10,1,1,0,1
+26/03/2020 10:15:20,Aluno,Januária,Apartamento,0,1,0,0,0,4,5,0,0,0
+26/03/2020 10:17:11,Aluno,Januária,Casa,0,3,1,0,0,3,3,0,0,1
+26/03/2020 10:19:08,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,1,1
+26/03/2020 10:21:07,Aluno,Januária,República,0,4,0,0,1,2,4,0,0,0
+26/03/2020 10:22:33,Aluno,Januária,Casa,0,2,1,1,0,3,1,0,2,0
+26/03/2020 10:24:12,Professor,Januária,Casa,0,3,2,0,0,4,4,1,1,0
+26/03/2020 10:24:30,Aluno,Teófilo Otoni,Casa,0,3,1,0,0,2,3,1,1,0
+26/03/2020 10:26:21,Aluno,Teófilo Otoni,Casa,0,1,1,0,0,2,1,0,0,1
+26/03/2020 10:26:35,Aluno,Teófilo Otoni,Casa,0,2,2,1,3,3,2,1,0,2
+26/03/2020 10:27:05,Aluno,Januária,Casa,0,3,0,0,1,2,1,0,1,2
+26/03/2020 10:27:15,Aluno,Januária,Casa,0,3,0,1,1,3,3,0,0,0
+26/03/2020 10:27:40,Professor,Arinos,Casa,2,3,0,2,2,4,3,1,1,3
+26/03/2020 10:28:01,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
+26/03/2020 10:29:04,Aluno,Januária,Casa,0,2,1,0,1,2,2,0,0,0
+26/03/2020 10:29:07,Professor,Januária,Apartamento,0,0,1,0,0,3,0,10,0,0
+26/03/2020 10:29:49,Aluno,Januária,Casa,0,3,1,0,0,2,3,0,0,0
+26/03/2020 10:30:02,Aluno,Januária,Casa,2,0,0,0,0,3,2,0,0,1
+26/03/2020 10:30:27,Aluno,Januária,Alojamento,0,108,0,0,0,12,108,0,0,0
+26/03/2020 10:31:04,Aluno,Januária,Casa,0,2,2,0,3,3,2,0,0,1
+26/03/2020 10:31:19,Aluno,Januária,Casa,0,2,2,0,3,3,2,0,0,1
+26/03/2020 10:32:45,Aluno,Januária,Casa,0,2,2,0,1,2,2,1,0,1
+26/03/2020 10:34:32,Professor,Januária,Casa,1,2,0,1,1,4,1,1,0,0
+26/03/2020 10:34:40,Aluno,Januária,Casa,2,1,2,0,2,2,1,0,0,1
+26/03/2020 10:35:54,Aluno,Januária,Casa,0,3,2,0,0,4,3,1,0,1
+26/03/2020 10:36:56,Professor,Januária,Casa,0,1,1,1,2,4,1,2,0,0
+26/03/2020 10:39:13,Aluno,Januária,Casa,0,5,1,0,1,4,4,0,0,0
+26/03/2020 10:39:45,Aluno,Januária,Casa,0,2,1,1,2,4,3,1,0,1
+26/03/2020 10:41:40,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,1
+26/03/2020 10:41:51,Aluno,Januária,Casa,1,3,1,0,0,3,2,0,2,0
+26/03/2020 10:42:03,Aluno,Januária,Casa,1,2,0,1,0,5,2,0,0,3
+26/03/2020 10:42:16,Aluno,Januária,Casa,1,2,0,1,0,3,4,0,0,0
+26/03/2020 10:42:28,Aluno,Januária,Casa,1,2,0,1,0,3,4,0,0,0
+26/03/2020 10:42:35,Aluno,Januária,Casa,0,1,2,0,1,3,1,1,0,1
+26/03/2020 10:44:50,Aluno,Januária,Casa,0,2,0,2,2,4,1,0,0,1
+26/03/2020 10:49:20,Aluno,Januária,Casa,1,0,1,0,0,2,1,0,0,1
+26/03/2020 10:50:43,Aluno,Januária,Casa,0,0,1,2,2,3,1,0,0,0
+26/03/2020 10:51:28,Aluno,Januária,Casa,0,4,0,0,0,2,3,0,0,1
+26/03/2020 10:53:15,Aluno,Januária,Casa,0,1,1,0,1,3,2,1,1,1
+26/03/2020 10:54:30,Aluno,Teófilo Otoni,Casa,0,1,1,0,0,3,1,0,1,0
+26/03/2020 10:57:17,Aluno,Januária,Casa,1,3,0,0,0,2,2,0,1,2
+26/03/2020 10:58:17,Aluno,Januária,Casa,1,2,0,0,0,2,1,1,0,0
+26/03/2020 10:58:34,Aluno,Januária,Casa,0,1,2,0,1,2,1,0,0,2
+26/03/2020 11:00:21,Aluno,Januária,Casa,0,2,2,0,0,2,2,1,1,0
+26/03/2020 11:01:26,Aluno,Januária,Casa,1,4,0,0,2,3,3,0,0,0
+26/03/2020 11:02:55,Aluno,Januária,República,0,7,0,0,0,7,7,0,0,0
+26/03/2020 11:03:28,Aluno,Januária,Casa,0,2,1,1,1,3,2,0,0,0
+26/03/2020 11:03:53,Aluno,Januária,Casa,0,4,0,1,1,4,2,0,0,1
+26/03/2020 11:04:45,Aluno,Januária,Casa,1,1,0,0,0,2,3,1,0,0
+26/03/2020 11:04:48,Aluno,Januária,Casa,1,2,1,0,0,2,2,0,2,1
+26/03/2020 11:05:05,Aluno,Januária,Casa,1,1,0,0,0,2,3,1,0,0
+26/03/2020 11:05:10,Aluno,Januária,Casa,0,2,2,0,1,2,1,0,1,0
+26/03/2020 11:08:37,Aluno,Januária,Casa,1,3,2,0,0,3,1,0,0,0
+26/03/2020 11:08:49,Aluno,Januária,Casa,0,0,1,2,2,3,1,0,0,0
+26/03/2020 11:09:25,Aluno,Januária,Casa,0,3,2,0,0,2,3,0,0,0
+26/03/2020 11:10:52,Aluno,Januária,República,1,3,0,0,0,2,3,0,0,0
+26/03/2020 11:10:54,Aluno,Januária,República,1,3,0,0,0,2,3,0,0,0
+26/03/2020 11:12:30,Aluno,Januária,Apartamento,0,2,2,0,0,4,2,0,0,0
+26/03/2020 11:13:04,Professor,Januária,Casa,0,2,1,0,0,3,2,1,0,0
+26/03/2020 11:13:19,Aluno,Januária,Apartamento,0,16,0,0,0,3,4,0,0,0
+26/03/2020 11:13:57,Aluno,Januária,Apartamento,0,1,0,0,0,2,0,0,0,0
+26/03/2020 11:16:22,Aluno,Januária,Casa,1,1,1,1,1,3,1,0,0,0
+26/03/2020 11:16:53,Aluno,Januária,Pensionato,0,15,0,0,0,16,13,1,2,0
+26/03/2020 11:17:22,Aluno,Januária,República,0,5,0,0,0,3,3,0,1,0
+26/03/2020 11:23:52,Aluno,Januária,Alojamento,0,104,0,0,0,12,104,0,0,0
+26/03/2020 11:24:14,Aluno,Januária,Casa,0,2,2,0,2,4,2,1,0,1
+26/03/2020 11:24:45,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,0,1
+26/03/2020 11:26:57,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,0,2
+26/03/2020 11:27:01,Aluno,Januária,Casa,0,1,2,1,1,3,1,0,1,0
+26/03/2020 11:28:46,Aluno,Januária,Casa,0,2,2,0,0,5,2,1,0,0
+26/03/2020 11:28:53,Aluno,Januária,Casa,0,1,2,0,0,2,1,0,2,0
+26/03/2020 11:31:21,Aluno,Januária,Casa,1,2,0,0,0,4,2,0,0,2
+26/03/2020 11:29:14,Aluno,Januária,Casa,0,2,0,1,0,2,2,0,0,1
+26/03/2020 11:35:58,Aluno,Januária,Casa,0,3,1,1,0,4,1,0,0,0
+26/03/2020 11:38:33,Aluno,Januária,Casa,1,3,1,0,1,3,3,1,1,0
+26/03/2020 11:39:40,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,0,1
+26/03/2020 11:39:51,Aluno,Januária,Casa,0,3,3,2,1,5,2,0,0,0
+26/03/2020 11:39:58,Aluno,Januária,Fazenda,2,2,0,0,0,2,2,0,0,0
+26/03/2020 11:40:04,Aluno,Januária,Casa,2,2,0,1,1,3,3,0,1,1
+26/03/2020 11:44:40,Aluno,Januária,Apartamento,0,1,2,2,2,4,1,0,0,1
+26/03/2020 11:40:58,Aluno,Januária,Casa,0,5,2,0,2,3,2,0,3,0
+26/03/2020 11:44:18,Aluno,Januária,Casa,1,2,3,0,1,2,2,1,0,0
+26/03/2020 11:45:00,Aluno,Januária,Casa,1,5,2,0,1,8,2,0,4,0
+26/03/2020 11:49:06,Aluno,Januária,Casa,0,6,0,0,1,5,6,0,0,0
+26/03/2020 11:45:43,Aluno,Januária,Casa,0,2,2,0,0,4,1,0,0,3
+26/03/2020 11:47:19,Aluno,Januária,Casa,1,2,0,0,1,3,2,0,0,2
+26/03/2020 11:48:54,Aluno,Januária,Casa,1,2,0,2,3,3,2,1,1,0
+26/03/2020 11:50:50,Aluno,Januária,Casa,2,2,1,0,2,2,3,0,0,0
+26/03/2020 11:56:37,Aluno,Januária,Apartamento,0,3,0,0,0,1,3,0,0,0
+26/03/2020 11:53:26,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,0,2
+26/03/2020 11:53:29,Aluno,Januária,Casa,2,2,0,1,3,3,3,0,0,0
+26/03/2020 11:54:11,Aluno,Januária,Pensionato,0,8,0,0,0,1,8,0,0,0
+26/03/2020 12:01:27,Aluno,Januária,Casa,4,2,2,0,2,2,2,0,1,0
+26/03/2020 11:58:06,Aluno,Januária,Casa,0,1,0,0,0,2,1,0,0,0
+26/03/2020 12:00:35,Aluno,Teófilo Otoni,Casa,0,1,1,0,0,2,1,1,0,0
+26/03/2020 12:00:37,Professor,Salinas,Apartamento,0,3,1,0,1,3,3,1,0,0
+26/03/2020 12:01:18,Aluno,Januária,Casa,0,2,2,1,1,4,2,0,0,2
+26/03/2020 12:03:06,Aluno,Teófilo Otoni,Casa,0,2,2,0,1,1,2,1,0,1
+26/03/2020 12:04:01,Aluno,Januária,Casa,0,4,2,0,0,3,2,0,0,0
+26/03/2020 12:06:22,Aluno,Januária,Casa,0,1,0,2,1,2,1,0,0,0
+26/03/2020 12:06:07,Aluno,Januária,Casa,0,2,2,2,1,2,1,0,0,4
+26/03/2020 12:06:17,Aluno,Januária,Casa,0,2,2,1,2,3,3,0,0,0
+26/03/2020 12:06:54,Aluno,Januária,Casa,0,4,0,0,0,3,3,0,0,0
+26/03/2020 12:08:37,Aluno,Teófilo Otoni,Casa,0,2,0,2,1,3,1,0,1,0
+26/03/2020 12:07:59,Aluno,Januária,Casa,0,3,1,1,0,3,3,0,0,1
+26/03/2020 12:08:30,Aluno,Januária,Casa,1,2,0,0,0,3,1,0,0,1
+26/03/2020 12:08:33,Aluno,Januária,Casa,1,2,0,0,0,3,1,0,0,1
+26/03/2020 12:18:27,Aluno,Teófilo Otoni,Casa,0,3,1,0,0,2,2,0,2,0
+26/03/2020 12:11:45,Aluno,Januária,Casa,0,3,2,1,0,4,1,0,1,1
+26/03/2020 12:12:09,Aluno,Januária,Apartamento,1,3,0,0,1,2,3,0,0,1
+26/03/2020 12:18:24,Aluno,Januária,Casa,0,3,1,0,0,3,2,0,0,0
+26/03/2020 12:18:31,Aluno,Januária,Casa,0,1,2,0,0,5,1,0,0,1
+26/03/2020 12:22:43,Aluno,Januária,República,0,4,0,0,0,1,4,0,0,0
+26/03/2020 12:22:39,Aluno,Januária,Pensionato,0,2,0,0,1,3,2,0,0,0
+26/03/2020 12:22:55,Aluno,Januária,Casa,1,2,1,0,2,2,2,1,0,1
+26/03/2020 12:23:09,Aluno,Januária,República,0,2,0,0,0,2,1,0,1,0
+26/03/2020 12:23:46,Aluno,Januária,Casa,0,4,0,0,0,2,2,0,1,0
+26/03/2020 12:24:45,Aluno,Januária,Casa,1,3,0,0,0,2,3,0,0,1
+26/03/2020 12:24:17,Aluno,Januária,Casa,0,2,0,0,0,1,2,0,1,0
+26/03/2020 12:24:33,Aluno,Januária,Casa,0,1,0,0,0,3,1,0,1,0
+26/03/2020 12:24:50,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,0
+26/03/2020 12:24:56,Aluno,Januária,Casa,0,2,2,0,0,2,2,1,0,1
+26/03/2020 12:25:10,Aluno,Januária,Apartamento,0,4,0,0,0,2,4,0,0,0
+26/03/2020 12:25:11,Aluno,Januária,República,0,4,0,0,2,2,3,0,0,0
+26/03/2020 12:25:45,Aluno,Januária,"Pensionato, República",0,6,0,0,0,7,7,1,0,0
+26/03/2020 12:36:16,Aluno,Januária,Casa,1,6,0,0,0,3,4,0,0,0
+26/03/2020 12:38:31,Aluno,Januária,Casa,0,1,2,0,2,2,1,0,0,1
+26/03/2020 12:37:28,Aluno,Januária,Casa,0,1,1,0,0,3,1,0,1,0
+26/03/2020 12:43:29,Aluno,Januária,Casa,0,2,2,0,1,2,2,0,0,0
+26/03/2020 12:40:53,Aluno,Januária,República,0,6,0,0,0,4,5,0,0,0
+26/03/2020 12:43:35,Aluno,Januária,Casa,1,1,2,0,0,2,2,0,0,2
+26/03/2020 12:56:52,Aluno,Januária,Casa,0,3,0,2,1,4,1,1,0,0
+26/03/2020 12:44:51,Aluno,Januária,Casa,1,2,2,0,2,3,3,0,1,0
+26/03/2020 12:46:59,Aluno,Januária,República,0,5,0,0,0,4,5,0,0,0
+26/03/2020 12:50:01,Aluno,Januária,Casa,0,2,1,2,2,6,1,0,0,1
+26/03/2020 12:57:58,Aluno,Januária,Casa,0,3,0,0,0,3,1,0,0,1
+26/03/2020 13:11:57,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
+26/03/2020 13:03:09,Aluno,Januária,Apartamento,0,3,0,0,0,1,2,0,1,1
+26/03/2020 13:04:59,Aluno,Januária,Casa,2,3,1,0,2,3,4,0,1,0
+26/03/2020 13:07:36,Aluno,Januária,Sítio,0,1,2,0,0,4,1,0,0,1
+26/03/2020 13:13:56,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
+26/03/2020 13:20:18,Aluno,Januária,Casa,1,1,2,0,0,2,2,1,0,1
+26/03/2020 13:24:31,Aluno,Januária,Casa,0,2,2,0,2,4,1,0,0,1
+26/03/2020 13:22:55,Aluno,Januária,Alojamento,0,1,2,0,1,3,1,0,2,0
+26/03/2020 13:23:34,Aluno,Januária,Casa,1,2,1,0,0,2,2,0,1,0
+26/03/2020 13:28:33,Professor,Januária,Casa,2,1,1,0,1,3,4,1,0,0
+26/03/2020 13:28:34,Professor,Teófilo Otoni,Casa,0,1,2,0,0,3,1,1,0,1
+26/03/2020 13:29:49,Aluno,Januária,Apartamento,0,2,0,0,0,1,2,0,0,0
+26/03/2020 13:30:00,Aluno,Januária,Casa,1,3,1,1,0,4,1,0,2,0
+26/03/2020 13:35:27,Professor,Januária,Casa,2,2,0,0,0,2,1,1,0,0
+26/03/2020 13:35:53,Aluno,Januária,Casa,0,3,2,0,0,2,3,1,1,0
+26/03/2020 13:36:10,Aluno,Januária,Casa,0,1,0,1,1,2,1,0,0,0
+26/03/2020 13:36:23,Aluno,Januária,Casa,0,3,1,1,1,4,1,1,3,0
+26/03/2020 13:37:03,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,1,1
+26/03/2020 13:37:48,Aluno,Januária,Apartamento,0,6,0,0,0,2,6,0,0,0
+26/03/2020 13:42:54,Aluno,Januária,Casa,0,1,1,0,0,3,2,0,0,0
+26/03/2020 13:41:38,Aluno,Teófilo Otoni,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 13:44:15,Tecnico administrativo,Januária,Casa,1,2,0,0,0,3,0,1,0,0
+26/03/2020 13:45:22,Aluno,Januária,Casa,0,0,0,84,4,3,1,0,0,0
+26/03/2020 13:55:09,Aluno,Januária,Casa,0,4,1,0,2,3,3,0,0,1
+26/03/2020 13:55:10,Aluno,Januária,Casa,0,3,2,0,0,3,2,0,1,2
+26/03/2020 13:59:33,Aluno,Januária,Alojamento,0,4,0,0,2,4,3,0,0,2
+26/03/2020 14:00:48,Aluno,Januária,Casa,0,4,1,1,1,2,2,0,0,1
+26/03/2020 14:01:43,Aluno,Januária,Casa,0,0,0,0,0,1,1,0,0,0
+26/03/2020 14:01:53,Aluno,Januária,Casa,1,2,0,0,0,3,2,0,0,1
+26/03/2020 14:02:39,Aluno,Januária,Casa,0,2,2,0,0,3,1,0,0,0
+26/03/2020 14:02:50,Aluno,Januária,Casa,0,0,1,1,0,2,1,0,0,0
+26/03/2020 14:08:03,Aluno,Januária,Casa,1,0,2,0,2,3,1,1,0,0
+26/03/2020 14:08:43,Professor,Januária,Casa,2,1,1,0,0,3,2,1,0,0
+26/03/2020 14:10:42,Aluno,Januária,Casa,7,4,1,2,2,3,3,0,0,3
+26/03/2020 14:14:37,Aluno,Januária,República,0,6,0,0,0,3,5,0,1,0
+26/03/2020 14:15:01,Aluno,Januária,Casa,0,4,1,0,0,3,3,0,0,2
+26/03/2020 14:16:29,Aluno,Januária,Casa,0,5,1,0,0,2,5,0,1,1
+26/03/2020 14:17:03,Aluno,Januária,República,0,0,12,0,0,6,111,1,0,0
+26/03/2020 14:17:17,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,1,0
+26/03/2020 14:19:58,Aluno,Januária,Sítio,0,1,1,1,1,3,1,0,0,2
+26/03/2020 14:20:06,Aluno,Januária,Casa,0,0,0,0,0,1,1,0,0,0
+26/03/2020 14:24:19,Aluno,Januária,Casa,0,1,0,0,0,2,0,0,1,0
+26/03/2020 14:24:55,Aluno,Januária,Casa,0,3,0,1,2,3,1,0,0,0
+26/03/2020 14:25:07,Aluno,Januária,Casa,0,1,2,0,0,1,2,0,0,1
+26/03/2020 14:26:09,Aluno,Januária,Casa,0,1,2,0,3,3,1,1,1,1
+26/03/2020 14:26:16,Aluno,Januária,República,0,6,0,0,0,5,6,0,0,0
+26/03/2020 14:27:07,Aluno,Januária,República,0,2,0,0,0,1,2,0,0,0
+26/03/2020 14:27:22,Aluno,Januária,Casa,0,5,2,0,3,4,3,1,2,1
+26/03/2020 14:28:00,Aluno,Januária,Casa,0,2,0,1,1,2,1,0,0,1
+26/03/2020 14:30:06,Aluno,Januária,Casa,0,2,2,0,1,3,2,0,2,0
+26/03/2020 14:31:18,Aluno,Januária,Casa,0,2,0,0,0,2,1,0,2,0
+26/03/2020 14:38:59,Aluno,Januária,Apartamento,0,1,0,0,0,1,1,0,0,0
+26/03/2020 14:43:10,Aluno,Januária,Casa,0,3,1,1,3,3,2,0,1,2
+26/03/2020 14:45:35,Aluno,Januária,Casa,1,3,2,0,1,3,2,1,0,0
+26/03/2020 14:46:30,Aluno,Januária,República,4,4,0,0,0,4,4,0,1,2
+26/03/2020 14:47:03,Aluno,Almenara,Casa,2,2,1,0,1,2,1,0,2,0
+26/03/2020 14:49:15,Aluno,Januária,Casa,0,0,0,0,1,1,1,0,1,1
+26/03/2020 14:49:29,Aluno,Januária,Casa,3,2,0,0,0,2,2,0,1,0
+26/03/2020 14:50:41,Aluno,Januária,Casa,0,2,1,0,2,3,1,0,0,1
+26/03/2020 14:51:14,Aluno,Januária,República,0,6,0,0,0,5,6,0,0,2
+26/03/2020 14:53:28,Aluno,Januária,Casa,0,2,0,0,0,3,3,0,0,0
+26/03/2020 14:53:42,Aluno,Januária,Casa,0,2,2,0,0,4,2,0,2,0
+26/03/2020 14:54:34,Aluno,Janaúba,Casa,0,7,1,1,4,3,3,0,3,3
+26/03/2020 14:56:45,Aluno,Januária,Casa,0,1,2,3,2,6,1,0,0,3
+26/03/2020 14:59:05,Aluno,Teófilo Otoni,Apartamento,1,3,0,0,1,2,3,1,0,1
+26/03/2020 15:01:22,Aluno,Teófilo Otoni,Apartamento,1,3,0,0,1,2,3,1,0,1
+26/03/2020 15:02:39,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
+26/03/2020 15:02:54,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
+26/03/2020 15:03:09,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
+26/03/2020 15:03:28,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
+26/03/2020 15:04:44,Aluno,Januária,Casa,5,3,0,2,2,3,3,0,0,0
+26/03/2020 15:06:35,Aluno,Januária,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 15:08:05,Aluno,Pirapora,Apartamento,0,1,0,0,0,1,1,0,0,1
+26/03/2020 15:09:54,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,1,2
+26/03/2020 15:09:57,Aluno,Januária,República,0,2,0,0,0,1,2,0,0,0
+26/03/2020 15:11:22,Aluno,Januária,República,0,6,0,0,1,5,6,0,0,1
+26/03/2020 15:11:34,Aluno,Januária,República,0,2,0,0,0,3,3,0,0,0
+26/03/2020 15:14:28,Aluno,Januária,Casa,2,0,0,0,0,2,2,0,0,0
+26/03/2020 15:16:42,Aluno,Januária,Casa,0,5,2,0,0,4,5,0,0,1
+26/03/2020 15:17:59,Aluno,Januária,República,0,4,0,0,2,2,4,0,0,2
+26/03/2020 15:19:02,Aluno,Januária,Casa,1,1,1,0,1,2,1,0,0,0
+26/03/2020 15:18:40,Aluno,Januária,Casa,0,1,0,1,1,3,1,0,0,0
+26/03/2020 15:21:05,Aluno,Januária,Apartamento,0,0,0,0,0,1,1,0,0,0
+26/03/2020 15:21:20,Aluno,Teófilo Otoni,Apartamento,0,4,1,1,3,3,2,1,0,1
+26/03/2020 15:22:59,Aluno,Teófilo Otoni,Apartamento,0,2,2,0,2,3,2,1,0,0
+26/03/2020 15:23:09,Aluno,Januária,Casa,1,1,2,0,1,4,2,0,0,1
+26/03/2020 15:27:47,Aluno,Januária,Casa,0,3,1,0,2,3,2,0,2,1
+26/03/2020 15:28:01,Aluno,Teófilo Otoni,Apartamento,0,2,1,0,1,3,2,0,0,0
+26/03/2020 15:29:03,Aluno,Januária,República,0,2,0,0,0,2,2,0,0,0
+26/03/2020 15:29:20,Aluno,Januária,Casa,1,3,2,1,2,15,2,0,2,2
+26/03/2020 15:31:33,Aluno,Januária,Apartamento,0,1,0,0,1,1,1,0,0,0
+26/03/2020 15:33:42,Aluno,Januária,Pensionato,0,15,8,2,5,3,2,0,0,0
+26/03/2020 15:34:16,Aluno,Januária,Casa,0,5,1,1,0,4,3,0,4,0
+26/03/2020 15:37:01,Aluno,Januária,Casa,0,2,1,2,2,2,1,0,0,0
+26/03/2020 15:39:41,Aluno,Januária,Casa,0,1,1,0,2,2,1,0,1,1
+26/03/2020 15:40:11,Aluno,Januária,Casa,0,2,0,2,2,3,2,0,0,0
+26/03/2020 15:45:16,Aluno,Teófilo Otoni,Casa,1,4,0,0,0,2,3,0,0,1
+26/03/2020 15:45:38,Aluno,Januária,Casa,0,2,1,0,2,2,1,0,0,1
+26/03/2020 15:47:21,Aluno,Januária,Casa,0,4,0,0,3,3,3,0,0,2
+26/03/2020 15:49:39,Aluno,Teófilo Otoni,Apartamento,0,2,1,0,1,4,2,0,1,0
+26/03/2020 15:49:55,Aluno,Januária,Casa,0,2,2,0,2,3,2,1,0,0
+26/03/2020 15:50:07,Aluno,Teófilo Otoni,Casa,0,2,2,0,0,3,2,1,0,1
+26/03/2020 15:52:12,Aluno,Januária,República,0,12,0,0,0,8,11,1,0,11
+26/03/2020 15:52:37,Aluno,Januária,Casa,0,1,2,0,0,2,2,1,0,1
+26/03/2020 15:53:35,Professor,Januária,Casa,1,3,0,0,0,4,3,2,0,0
+26/03/2020 15:56:08,Aluno,Januária,Casa,1,3,0,2,0,5,2,0,0,3
+26/03/2020 16:03:10,Tecnico administrativo,Januária,Casa,1,2,0,0,1,3,1,0,1,0
+26/03/2020 16:06:26,Aluno,Januária,República,0,3,0,0,1,3,3,0,0,0
+26/03/2020 16:06:59,Aluno,Januária,Casa,2,4,2,1,1,3,4,2,1,1
+26/03/2020 16:07:01,Aluno,Januária,Casa,0,1,1,0,0,1,1,1,0,0
+26/03/2020 16:08:00,Aluno,Januária,República,0,3,0,0,0,3,3,0,0,0
+26/03/2020 16:08:18,Aluno,Januária,Apartamento,0,1,0,0,1,1,1,0,0,0
+26/03/2020 16:08:27,Aluno,Januária,República,0,2,0,0,0,1,2,0,0,0
+26/03/2020 16:08:27,Aluno,Januária,"Casa, República",3,3,0,0,1,3,3,0,0,0
+26/03/2020 16:11:36,Aluno,Januária,Casa,1,2,0,0,0,2,2,0,0,1
+26/03/2020 16:11:59,Aluno,Januária,República,0,6,0,0,0,3,6,0,0,0
+26/03/2020 16:19:18,Aluno,Teófilo Otoni,Casa,0,4,1,0,1,3,4,0,2,1
+26/03/2020 16:20:30,Aluno,Januária,Casa,0,3,2,0,2,3,3,1,1,0
+26/03/2020 16:20:31,Aluno,Januária,Apartamento,0,3,0,0,0,1,1,0,2,0
+26/03/2020 16:27:39,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 16:28:38,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 16:31:16,Aluno,Januária,Casa,0,2,2,0,2,2,2,1,1,2
+26/03/2020 16:35:05,Aluno,Januária,República,0,4,0,0,0,2,4,0,0,0
+26/03/2020 16:35:34,Aluno,Januária,Casa,0,3,1,0,0,4,2,0,1,0
+26/03/2020 16:37:54,Aluno,Januária,Casa,0,2,2,0,1,2,2,0,0,1
+26/03/2020 16:39:44,Aluno,Januária,Casa,0,3,0,1,0,2,1,2,1,0
+26/03/2020 16:44:37,Aluno,Januária,República,0,6,0,0,0,4,5,0,0,1
+26/03/2020 16:46:07,Aluno,Januária,Pensionato,0,12,0,0,0,9,10,1,2,1
+26/03/2020 16:46:18,Aluno,Januária,Casa,1,5,0,2,1,4,3,0,0,0
+26/03/2020 16:46:32,Aluno,Januária,Casa,0,3,0,0,0,2,1,0,1,1
+26/03/2020 16:47:39,Aluno,Januária,Casa,0,4,2,0,0,3,2,0,1,1
+26/03/2020 16:51:02,Aluno,Januária,Casa,0,4,1,0,1,2,3,0,0,1
+26/03/2020 16:54:36,Aluno,Januária,Casa,0,0,2,0,1,2,1,0,0,0
+26/03/2020 16:54:44,Aluno,Januária,Casa,0,2,0,0,0,3,3,0,0,0
+26/03/2020 16:55:37,Aluno,Januária,República,0,6,0,0,0,3,6,0,0,0
+26/03/2020 16:58:48,Aluno,Januária,Casa,0,3,1,1,0,3,2,0,1,0
+26/03/2020 16:59:09,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,0,1
+26/03/2020 17:00:23,Aluno,Januária,Casa,0,1,1,2,0,3,1,0,0,1
+26/03/2020 17:01:09,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,1
+26/03/2020 17:01:32,Aluno,Januária,Casa,0,3,1,1,1,4,3,0,0,0
+26/03/2020 17:01:39,Aluno,Januária,Casa,1,2,0,0,1,2,0,1,0,1
+26/03/2020 17:02:10,Aluno,Januária,Apartamento,0,3,0,0,0,3,2,0,0,1
+26/03/2020 17:03:45,Aluno,Januária,Casa,1,3,2,1,2,3,4,1,1,0
+26/03/2020 17:04:22,Aluno,Januária,Casa,0,1,1,1,3,3,1,0,0,0
+26/03/2020 17:05:59,Aluno,Januária,Casa,0,4,0,0,1,3,2,0,3,1
+26/03/2020 17:05:55,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,1,0
+26/03/2020 17:08:05,Aluno,Januária,Casa,1,2,2,0,0,3,2,0,1,0
+26/03/2020 17:09:32,Aluno,Januária,Apartamento,0,2,0,0,0,1,2,0,1,0
+26/03/2020 17:09:33,Aluno,Januária,Casa,1,3,0,0,0,3,2,0,2,1
+26/03/2020 17:09:49,Aluno,Januária,Casa,0,1,0,0,1,3,1,0,0,0
+26/03/2020 17:11:45,Aluno,Januária,Casa,0,2,0,0,0,3,2,0,1,1
+26/03/2020 17:15:44,Aluno,Januária,Pensionato,0,18,3,2,0,18,18,0,0,2
+26/03/2020 17:21:51,Professor,Januária,Casa,0,1,2,0,1,3,1,1,0,0
+26/03/2020 17:22:26,Aluno,Januária,Casa,0,2,1,0,0,3,1,0,0,0
+26/03/2020 17:29:36,Aluno,Januária,Pensionato,0,20,2,2,0,17,15,1,1,0
+26/03/2020 17:30:01,Aluno,Januária,Casa,0,1,2,2,1,6,1,1,0,1
+26/03/2020 17:32:29,Aluno,Januária,Casa,0,4,2,0,1,3,3,3,0,0
+26/03/2020 17:35:26,Aluno,Januária,Casa,0,2,0,1,2,3,2,0,2,2
+26/03/2020 17:44:07,Aluno,Januária,Apartamento,0,1,0,0,0,1,10,0,0,0
+26/03/2020 17:48:52,Aluno,Januária,República,0,3,0,0,0,3,3,0,0,0
+26/03/2020 17:50:27,Aluno,Januária,Casa,1,2,1,0,1,4,1,0,0,1
+26/03/2020 17:54:31,Aluno,Januária,Casa,0,3,2,0,0,3,2,1,0,1
+26/03/2020 18:00:04,Aluno,Porteirinha,Casa,0,1,1,0,0,2,1,0,0,1
+26/03/2020 18:00:06,Aluno,Porteirinha,Casa,0,1,1,1,0,3,1,0,0,0
+26/03/2020 18:00:29,Aluno,Porteirinha,Casa,0,2,2,0,0,3,2,0,1,1
+26/03/2020 18:01:43,Aluno,Porteirinha,Casa,0,3,2,0,1,2,2,1,1,1
+26/03/2020 18:02:30,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,1
+26/03/2020 18:02:32,Aluno,Porteirinha,Casa,0,1,1,2,3,3,1,1,0,1
+26/03/2020 18:02:56,Aluno,Porteirinha,Casa,0,3,0,0,0,3,1,0,0,2
+26/03/2020 18:03:19,Aluno,Porteirinha,Casa,0,1,2,0,2,2,1,1,1,0
+26/03/2020 18:04:16,Aluno,Porteirinha,Casa,0,2,2,0,2,3,1,1,0,1
+26/03/2020 18:04:21,Aluno,Porteirinha,Casa,0,1,1,0,1,3,2,0,0,0
+26/03/2020 18:04:47,Aluno,Porteirinha,Apartamento,0,1,0,0,0,2,0,0,1,0
+26/03/2020 18:04:52,Aluno,Porteirinha,Casa,0,1,0,0,0,1,1,0,0,0
+26/03/2020 18:05:19,Aluno,Porteirinha,Casa,1,3,0,0,0,3,2,0,0,3
+26/03/2020 18:06:46,Aluno,Porteirinha,Casa,1,2,1,1,0,4,2,1,0,1
+26/03/2020 18:06:59,Professor,Araçuaí,Casa,0,4,0,2,2,4,4,2,2,1
+26/03/2020 18:07:13,Aluno,Araçuaí,Casa,0,1,1,0,0,2,1,1,0,0
+26/03/2020 18:07:15,Aluno,Januária,Casa,0,1,1,1,1,4,1,1,0,0
+26/03/2020 18:07:23,Aluno,Porteirinha,Casa,0,1,2,0,1,3,1,0,0,2
+26/03/2020 18:07:33,Aluno,Porteirinha,Casa,0,1,0,1,1,3,1,0,0,0
+26/03/2020 18:08:49,Aluno,Porteirinha,Casa,0,2,0,0,0,2,2,0,0,0
+26/03/2020 18:11:33,Aluno,Montes Claros,Casa,0,2,2,0,0,4,2,0,0,0
+26/03/2020 18:12:00,Aluno,Araçuaí,Casa,0,1,1,1,0,3,1,0,0,1
+26/03/2020 18:12:02,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 18:12:06,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 18:12:52,Professor,Montes Claros,Casa,0,3,1,0,0,2,4,1,0,0
+26/03/2020 18:13:46,Tecnico administrativo,Montes Claros,Apartamento,0,1,0,0,0,1,1,0,0,0
+26/03/2020 18:14:23,Aluno,Porteirinha,Casa,0,1,2,0,2,3,1,1,0,0
+26/03/2020 18:14:42,Aluno,Porteirinha,Apartamento,0,1,0,0,0,1,1,0,0,0
+26/03/2020 18:14:47,Aluno,Montes Claros,Casa,1,2,2,0,0,2,2,0,1,0
+26/03/2020 18:16:23,Aluno,Montes Claros,Casa,0,1,1,0,0,2,1,0,0,1
+26/03/2020 18:16:32,Professor,Porteirinha,Casa,0,1,2,0,0,3,1,1,1,1
+26/03/2020 18:16:47,Aluno,Montes Claros,Casa,1,3,4,2,5,6,5,0,0,1
+26/03/2020 18:18:18,Aluno,Salinas,República,0,5,0,0,2,4,5,0,0,0
+26/03/2020 18:18:56,Aluno,Januária,Casa,6,3,2,1,0,3,1,2,1,1
+26/03/2020 18:19:19,Professor,Salinas,Apartamento,0,0,0,0,0,2,0,1,0,0
+26/03/2020 18:19:57,Aluno,Salinas,Apartamento,0,4,0,0,0,2,4,0,0,0
+26/03/2020 18:19:59,Professor,Januária,Casa,0,2,1,0,1,3,1,1,0,0
+26/03/2020 18:20:14,Aluno,Salinas,República,0,6,2,0,2,2,3,0,0,3
+26/03/2020 18:20:31,Professor,Montes Claros,Casa,1,2,0,0,1,9,0,1,0,0
+26/03/2020 18:21:59,Professor,Montes Claros,Casa,0,1,2,0,3,4,0,1,0,0
+26/03/2020 18:22:30,Aluno,Janaúba,Apartamento,0,2,0,0,0,2,1,0,1,0
+26/03/2020 18:23:32,Aluno,Montes Claros,Casa,0,5,0,1,2,3,4,0,0,0
+26/03/2020 18:23:45,Aluno,Januária,República,0,13,0,1,2,15,13,1,0,1
+26/03/2020 18:24:49,Aluno,Salinas,Apartamento,0,3,0,0,0,2,3,0,2,0
+26/03/2020 18:24:58,Aluno,Araçuaí,Casa,1,2,0,0,0,3,2,0,0,1
+26/03/2020 18:25:10,Aluno,Montes Claros,Casa,0,3,2,0,0,4,1,0,2,1
+26/03/2020 18:27:17,Aluno,Porteirinha,Casa,0,2,0,0,1,3,1,0,0,1
+26/03/2020 18:27:55,Aluno,Januária,Casa,2,4,2,0,0,3,1,0,3,0
+26/03/2020 18:28:57,Aluno,Salinas,Casa,0,1,1,1,1,2,2,1,0,0
+26/03/2020 18:29:32,Aluno,Salinas,Casa,2,2,0,0,0,3,1,1,1,0
+26/03/2020 18:30:16,Aluno,Porteirinha,Casa,0,0,0,0,0,3,2,0,1,1
+26/03/2020 18:30:34,Aluno,Porteirinha,Casa,1,4,1,1,0,5,2,0,2,0
+26/03/2020 18:30:58,Aluno,Januária,Casa,0,3,2,0,1,3,3,1,0,0
+26/03/2020 18:31:10,Aluno,Montes Claros,Casa,0,3,2,0,0,5,3,0,1,0
+26/03/2020 18:31:19,Aluno,Montes Claros,Casa,1,3,1,0,3,5,2,0,0,0
+26/03/2020 18:32:23,Aluno,Porteirinha,Apartamento,0,1,0,0,0,2,1,0,1,0
+26/03/2020 18:32:35,Aluno,Porteirinha,Casa,1,1,0,1,1,2,1,0,0,0
+26/03/2020 18:33:11,Professor,Montes Claros,Apartamento,0,2,0,2,2,3,1,1,0,0
+26/03/2020 18:33:33,Aluno,Montes Claros,Casa,0,3,2,0,2,3,4,0,0,3
+26/03/2020 18:37:00,Aluno,Januária,Casa,1,4,1,1,1,3,5,0,0,0
+26/03/2020 18:37:33,Aluno,Montes Claros,Casa,0,3,4,3,4,6,3,3,0,0
+26/03/2020 18:38:41,Aluno,Montes Claros,Casa,0,2,0,0,1,2,2,0,0,2
+26/03/2020 18:39:39,Aluno,Januária,Casa,0,3,1,1,0,3,3,0,0,1
+26/03/2020 18:39:43,Aluno,Montes Claros,Casa,2,2,2,1,1,2,6,0,0,1
+26/03/2020 18:40:59,Aluno,Araçuaí,Casa,0,2,0,0,0,1,0,0,1,1
+26/03/2020 18:41:41,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,3,0,0,1
+26/03/2020 18:43:26,Aluno,Porteirinha,Casa,0,3,2,0,0,3,3,0,0,1
+26/03/2020 18:47:53,Aluno,Porteirinha,Casa,0,3,2,0,0,4,3,0,1,2
+26/03/2020 18:48:29,Professor,Diamantina,Apartamento,0,2,0,0,0,2,0,2,0,0
+26/03/2020 18:48:56,Aluno,Montes Claros,Casa,0,2,2,0,4,2,3,0,1,0
+26/03/2020 18:48:57,Aluno,Porteirinha,República,0,6,0,0,0,5,4,0,1,4
+26/03/2020 18:49:04,Professor,Diamantina,Apartamento,0,2,2,0,2,3,2,1,0,0
+26/03/2020 18:49:05,Aluno,Januária,República,0,3,0,0,0,3,2,0,1,0
+26/03/2020 18:50:18,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,2,0,1
+26/03/2020 18:50:45,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 18:51:03,Professor,Montes Claros,Casa,0,2,0,0,1,3,1,1,0,0
+26/03/2020 18:51:59,Aluno,Porteirinha,Casa,2,3,0,0,1,2,4,0,0,2
+26/03/2020 18:52:50,Aluno,Montes Claros,Casa,1,2,1,0,1,5,1,0,1,1
+26/03/2020 18:53:08,Aluno,Januária,Casa,1,7,1,0,0,4,5,0,0,1
+26/03/2020 18:53:10,Tecnico administrativo,Diamantina,Apartamento,0,2,0,0,1,2,0,0,0,0
+26/03/2020 18:55:32,Aluno,Montes Claros,Casa,0,1,2,0,1,3,1,1,0,0
+26/03/2020 18:55:47,Aluno,Montes Claros,Casa,1,1,2,0,0,3,2,1,0,0
+26/03/2020 18:56:09,Aluno,Montes Claros,República,0,3,0,0,1,2,3,0,1,1
+26/03/2020 18:56:16,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,3,0,0,0
+26/03/2020 18:56:18,Aluno,Montes Claros,Casa,0,2,2,0,0,2,2,1,0,0
+26/03/2020 18:56:21,Aluno,Montes Claros,Casa,0,2,2,0,0,4,1,1,1,0
+26/03/2020 18:56:24,Aluno,Montes Claros,Casa,0,4,0,0,0,2,2,0,1,1
+26/03/2020 18:56:26,Aluno,Montes Claros,Casa,0,1,2,0,2,2,1,0,0,0
+26/03/2020 18:56:29,Aluno,Araçuaí,Casa,0,2,1,0,0,4,2,0,0,0
+26/03/2020 18:56:34,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,0,0
+26/03/2020 18:56:45,Aluno,Montes Claros,Casa,0,2,0,3,2,5,2,0,1,1
+26/03/2020 18:56:58,Aluno,Montes Claros,Apartamento,0,3,2,0,0,3,3,1,1,1
+26/03/2020 18:57:06,Aluno,Montes Claros,Casa,1,1,2,0,3,2,2,0,2,2
+26/03/2020 18:57:46,Aluno,Montes Claros,Casa,0,3,2,0,2,3,3,0,1,1
+26/03/2020 18:58:13,Aluno,Montes Claros,Casa,0,4,2,0,2,3,3,1,0,1
+26/03/2020 18:58:18,Aluno,Montes Claros,Casa,0,2,1,2,3,3,1,0,1,1
+26/03/2020 18:58:40,Aluno,Montes Claros,Casa,0,4,0,0,0,3,4,2,1,1
+26/03/2020 18:58:43,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,0,1,0
+26/03/2020 18:58:43,Aluno,Montes Claros,Apartamento,0,4,0,0,0,2,4,0,0,0
+26/03/2020 18:58:51,Aluno,Montes Claros,Apartamento,0,21,2,0,0,2,2,0,0,0
+26/03/2020 18:59:00,Aluno,Montes Claros,Casa,0,2,2,0,0,3,4,2,1,1
+26/03/2020 18:59:03,Aluno,Montes Claros,Casa,2,2,1,0,0,3,1,1,0,0
+26/03/2020 18:59:05,Aluno,Montes Claros,Casa,0,1,2,0,2,4,1,1,0,1
+26/03/2020 18:59:26,Aluno,Montes Claros,Casa,0,2,2,0,0,2,1,0,1,0
+26/03/2020 18:59:39,Aluno,Montes Claros,Casa,0,1,0,1,0,2,1,1,0,0
+26/03/2020 18:59:42,Aluno,Montes Claros,Casa,0,1,1,0,2,3,1,0,0,0
+26/03/2020 18:59:43,Aluno,Montes Claros,Apartamento,0,4,0,0,0,4,4,0,0,0
+26/03/2020 18:59:50,Aluno,Montes Claros,Casa,1,3,0,0,0,3,3,0,0,2
+26/03/2020 18:59:54,Aluno,Montes Claros,Casa,0,4,2,0,2,3,1,0,1,1
+26/03/2020 19:00:12,Aluno,Montes Claros,Apartamento,0,1,1,0,1,2,2,0,0,0
+26/03/2020 19:00:25,Aluno,Montes Claros,Casa,1,1,2,0,0,3,2,0,1,0
+26/03/2020 19:00:34,Aluno,Montes Claros,Casa,0,4,1,0,2,3,3,0,0,0
+26/03/2020 19:00:35,Tecnico administrativo,Diamantina,Apartamento,0,1,0,0,0,1,1,0,0,0
+26/03/2020 19:00:40,Aluno,Montes Claros,Casa,1,0,2,0,0,3,2,2,0,0
+26/03/2020 19:01:45,Aluno,Montes Claros,Casa,0,1,0,0,0,2,1,0,0,0
+26/03/2020 19:02:17,Aluno,Montes Claros,Casa,0,2,2,0,0,2,3,0,0,0
+26/03/2020 19:02:54,Aluno,Montes Claros,República,0,3,0,0,3,2,3,0,2,0
+26/03/2020 19:02:59,Aluno,Montes Claros,Casa,0,1,2,0,1,3,2,0,0,1
+26/03/2020 19:03:00,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,0,0,2
+26/03/2020 19:03:26,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,0,0
+26/03/2020 19:03:39,Aluno,Salinas,República,0,4,0,0,0,3,4,0,1,1
+26/03/2020 19:03:55,Aluno,Montes Claros,Casa,0,2,0,0,0,2,1,0,0,0
+26/03/2020 19:04:09,Aluno,Montes Claros,Casa,1,4,2,0,1,4,4,0,0,1
+26/03/2020 19:04:12,Aluno,Montes Claros,Casa,0,4,0,0,0,2,3,0,0,0
+26/03/2020 19:04:34,Aluno,Montes Claros,Apartamento,0,2,1,1,2,2,2,0,1,2
+26/03/2020 19:04:47,Aluno,Montes Claros,Casa,1,3,0,0,0,3,3,0,0,2
+26/03/2020 19:05:01,Aluno,Montes Claros,Casa,0,2,2,0,0,2,2,0,0,0
+26/03/2020 19:05:27,Aluno,Montes Claros,Apartamento,0,4,1,0,1,3,3,0,0,1
+26/03/2020 19:05:41,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 19:05:43,Aluno,Montes Claros,República,0,2,0,0,0,3,3,0,0,0
+26/03/2020 19:05:48,Aluno,Montes Claros,Casa,0,3,0,0,1,2,1,1,0,1
+26/03/2020 19:05:50,Aluno,Montes Claros,Casa,0,2,2,1,1,2,2,0,0,0
+26/03/2020 19:06:12,Aluno,Araçuaí,Casa,0,2,2,0,0,3,2,1,1,1
+26/03/2020 19:06:14,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:06:50,Aluno,Montes Claros,Casa,0,2,2,0,0,4,2,0,0,0
+26/03/2020 19:07:13,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 19:07:45,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,2,0
+26/03/2020 19:07:55,Aluno,Montes Claros,Casa,0,1,0,1,0,2,1,0,0,0
+26/03/2020 19:07:55,Aluno,Teófilo Otoni,Casa,0,5,0,0,0,3,3,0,0,1
+26/03/2020 19:08:13,Aluno,Montes Claros,Casa,0,3,1,1,3,4,2,1,1,2
+26/03/2020 19:08:23,Aluno,Montes Claros,Pensionato,0,7,0,0,1,7,7,0,0,0
+26/03/2020 19:09:02,Aluno,Montes Claros,Casa,0,4,1,0,0,3,4,0,1,2
+26/03/2020 19:09:02,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,1,1
+26/03/2020 19:09:39,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,1,1,0
+26/03/2020 19:10:13,Aluno,Montes Claros,Apartamento,0,2,0,0,0,3,2,0,0,0
+26/03/2020 19:10:23,Aluno,Montes Claros,Casa,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:10:25,Aluno,Montes Claros,Casa,1,1,0,2,2,3,2,0,2,2
+26/03/2020 19:11:50,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,0,1
+26/03/2020 19:12:15,Aluno,Montes Claros,Casa,0,3,2,0,2,4,2,1,3,0
+26/03/2020 19:12:31,Aluno,Montes Claros,Casa,0,3,1,0,0,3,3,0,0,0
+26/03/2020 19:12:36,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,1,2,1
+26/03/2020 19:12:50,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 19:12:58,Aluno,Montes Claros,Apartamento,0,0,0,0,1,2,0,0,0,0
+26/03/2020 19:13:38,Aluno,Montes Claros,Apartamento,0,2,0,0,0,1,2,0,0,0
+26/03/2020 19:14:12,Aluno,Montes Claros,"Apartamento, República",0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:15:35,Aluno,Montes Claros,Apartamento,0,3,0,0,2,2,2,0,0,1
+26/03/2020 19:16:25,Aluno,Montes Claros,Casa,0,3,2,0,1,3,3,1,0,1
+26/03/2020 19:16:50,Aluno,Montes Claros,Apartamento,0,2,0,0,1,2,2,0,0,0
+26/03/2020 19:17:02,Aluno,Januária,Apartamento,0,2,0,0,0,2,1,0,1,0
+26/03/2020 19:17:55,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,1,0,0
+26/03/2020 19:18:23,Aluno,Montes Claros,Casa,0,3,2,0,0,3,2,0,0,2
+26/03/2020 19:18:43,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 19:19:06,Aluno,Montes Claros,Casa,0,4,2,0,3,4,2,0,2,1
+26/03/2020 19:19:17,Professor,Diamantina,Apartamento,0,3,0,0,1,2,0,2,0,1
+26/03/2020 19:19:18,Aluno,Montes Claros,Casa,0,3,2,0,1,5,3,0,0,1
+26/03/2020 19:19:47,Aluno,Montes Claros,Casa,0,3,2,1,3,5,3,0,0,1
+26/03/2020 19:21:10,Professor,Montes Claros,Apartamento,2,0,2,0,2,3,2,1,0,0
+26/03/2020 19:22:10,Professor,Diamantina,Casa,2,2,0,0,0,3,2,1,1,0
+26/03/2020 19:22:36,Aluno,Januária,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 19:22:55,Aluno,Januária,Casa,3,4,0,0,0,3,2,0,1,0
+26/03/2020 19:23:57,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:24:11,Aluno,Montes Claros,Casa,1,3,2,0,0,2,3,1,0,2
+26/03/2020 19:24:16,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:24:21,Aluno,Montes Claros,Apartamento,0,3,2,0,0,3,3,1,0,2
+26/03/2020 19:24:46,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,0,0
+26/03/2020 19:25:48,Aluno,Montes Claros,Casa,0,3,2,0,1,4,2,0,0,1
+26/03/2020 19:27:45,Tecnico administrativo,Diamantina,Casa,0,1,2,0,0,2,1,1,10,0
+26/03/2020 19:27:58,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,2,1
+26/03/2020 19:29:22,Aluno,Montes Claros,Apartamento,0,1,0,0,0,1,1,0,0,0
+26/03/2020 19:29:49,Aluno,Montes Claros,Casa,0,1,0,2,0,2,1,0,0,1
+26/03/2020 19:29:50,Aluno,Montes Claros,Casa,0,2,1,0,0,3,3,0,2,0
+26/03/2020 19:29:58,Aluno,Montes Claros,"Casa, Pensionato",0,2,0,0,0,3,1,0,1,0
+26/03/2020 19:30:01,Aluno,Montes Claros,Casa,0,2,2,0,1,5,3,1,0,0
+26/03/2020 19:30:22,Aluno,Montes Claros,Casa,1,2,1,0,1,3,2,0,0,1
+26/03/2020 19:30:24,Aluno,Montes Claros,Casa,1,3,0,0,1,3,1,0,0,0
+26/03/2020 19:30:32,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,2,0,0,1
+26/03/2020 19:30:51,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,1,0
+26/03/2020 19:30:52,Aluno,Montes Claros,Casa,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:31:38,Tecnico administrativo,Diamantina,Casa,0,0,0,0,0,3,1,0,0,0
+26/03/2020 19:31:49,Aluno,Montes Claros,Casa,1,1,2,0,1,1,2,0,0,2
+26/03/2020 19:33:06,Aluno,Montes Claros,Casa,0,3,2,0,0,4,1,0,0,3
+26/03/2020 19:34:05,Aluno,Montes Claros,Casa,0,1,0,2,1,2,1,0,0,0
+26/03/2020 19:34:12,Aluno,Montes Claros,Casa,0,3,1,0,1,4,2,0,0,3
+26/03/2020 19:34:32,Aluno,Porteirinha,Casa,0,2,2,0,1,4,2,1,0,1
+26/03/2020 19:34:51,Aluno,Montes Claros,Casa,0,2,1,0,1,2,2,0,0,1
+26/03/2020 19:34:51,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,1,1,1
+26/03/2020 19:35:08,Aluno,Montes Claros,Casa,1,2,1,0,0,4,2,1,0,0
+26/03/2020 19:37:04,Professor,Montes Claros,Casa,0,2,2,0,1,4,2,1,0,1
+26/03/2020 19:37:06,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,0,0,1
+26/03/2020 19:37:47,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 19:37:55,Aluno,Montes Claros,Casa,0,1,1,0,0,3,1,0,0,0
+26/03/2020 19:38:48,Aluno,Porteirinha,Casa,0,1,2,0,1,2,2,0,1,0
+26/03/2020 19:40:30,Aluno,Montes Claros,Casa,0,2,2,0,2,2,2,0,2,0
+26/03/2020 19:40:38,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,1,0,0,0
+26/03/2020 19:40:51,Aluno,Montes Claros,Casa,0,1,2,0,1,2,1,0,0,0
+26/03/2020 19:41:23,Tecnico administrativo,Diamantina,Apartamento,0,1,1,0,0,2,2,0,0,0
+26/03/2020 19:41:28,Aluno,Montes Claros,Casa,1,1,2,0,0,2,2,0,0,0
+26/03/2020 19:41:47,Aluno,Montes Claros,Apartamento,0,4,0,0,0,2,4,0,0,1
+26/03/2020 19:42:33,Professor,Diamantina,República,0,5,0,0,0,5,5,1,0,0
+26/03/2020 19:42:56,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,1,0
+26/03/2020 19:43:02,Aluno,Montes Claros,Casa,5,3,2,0,2,4,2,0,2,0
+26/03/2020 19:43:05,Aluno,Montes Claros,Apartamento,0,3,0,0,2,3,3,0,0,0
+26/03/2020 19:43:15,Aluno,Montes Claros,Casa,0,2,0,0,1,3,1,1,0,0
+26/03/2020 19:43:24,Aluno,Januária,Casa,0,2,0,0,0,3,2,0,0,1
+26/03/2020 19:43:34,Aluno,Montes Claros,Casa,1,2,2,0,0,2,2,0,0,1
+26/03/2020 19:44:11,Aluno,Montes Claros,Casa,0,2,2,0,1,4,2,1,0,1
+26/03/2020 19:44:40,Aluno,Montes Claros,Casa,0,2,2,0,0,2,1,0,3,0
+26/03/2020 19:44:44,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:45:05,Aluno,Montes Claros,Casa,0,2,0,0,1,3,2,0,0,0
+26/03/2020 19:46:59,Aluno,Montes Claros,Casa,1,3,0,2,2,3,2,0,1,1
+26/03/2020 19:47:07,Aluno,Montes Claros,Casa,3,6,0,3,3,4,5,1,1,2
+26/03/2020 19:47:15,Aluno,Montes Claros,Casa,0,1,2,0,1,2,1,0,1,0
+26/03/2020 19:48:34,Aluno,Montes Claros,Apartamento,0,0,0,0,1,2,2,0,0,0
+26/03/2020 19:48:48,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 19:49:16,Aluno,Montes Claros,Casa,1,2,2,2,3,4,3,0,1,1
+26/03/2020 19:49:23,Aluno,Montes Claros,Casa,6,1,1,2,1,4,2,0,0,0
+26/03/2020 19:49:41,Aluno,Montes Claros,Casa,0,2,0,1,0,3,1,0,0,2
+26/03/2020 19:49:46,Aluno,Montes Claros,Apartamento,1,3,0,0,0,2,1,0,1,0
+26/03/2020 19:50:26,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 19:50:48,Aluno,Montes Claros,Casa,0,3,2,0,1,3,3,0,0,1
+26/03/2020 19:51:16,Aluno,Montes Claros,Casa,1,2,2,0,1,2,3,0,1,1
+26/03/2020 19:51:44,Aluno,Montes Claros,Casa,0,1,1,0,0,3,1,0,1,0
+26/03/2020 19:52:41,Aluno,Montes Claros,Casa,2,3,1,0,0,3,4,0,0,1
+26/03/2020 19:52:55,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
+26/03/2020 19:55:12,Aluno,Porteirinha,Casa,0,0,0,1,1,3,1,0,0,0
+26/03/2020 19:57:32,Aluno,Porteirinha,Casa,0,2,1,0,1,3,1,1,0,0
+26/03/2020 19:57:51,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,1,0
+26/03/2020 19:57:53,Aluno,Montes Claros,Casa,0,3,2,0,0,4,3,2,0,0
+26/03/2020 19:58:18,Professor,Diamantina,Casa,0,0,0,1,1,2,0,1,0,0
+26/03/2020 19:58:48,Aluno,Montes Claros,Casa,0,3,1,0,0,3,2,0,0,0
+26/03/2020 19:59:31,Aluno,Montes Claros,Casa,1,1,2,0,1,3,3,1,0,0
+26/03/2020 19:59:43,Aluno,Januária,Casa,0,4,0,0,3,2,1,0,1,0
+26/03/2020 19:59:52,Aluno,Porteirinha,Sítio,0,3,1,0,0,2,3,0,0,1
+26/03/2020 20:01:22,Tecnico administrativo,Diamantina,Apartamento,2,1,0,0,0,2,0,0,0,0
+26/03/2020 20:03:56,Professor,Diamantina,Casa,0,2,2,0,1,5,2,1,0,1
+26/03/2020 20:05:21,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,1,1
+26/03/2020 20:06:48,Aluno,Montes Claros,Casa,0,1,1,0,0,3,1,0,0,1
+26/03/2020 20:07:25,Aluno,Montes Claros,Casa,0,3,2,0,1,4,3,0,2,0
+26/03/2020 20:07:44,Aluno,Montes Claros,Casa,0,2,1,1,2,3,2,1,1,0
+26/03/2020 20:08:45,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
+26/03/2020 20:08:54,Aluno,Montes Claros,Apartamento,0,2,0,0,1,2,2,0,0,0
+26/03/2020 20:09:58,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,0,0
+26/03/2020 20:11:17,Tecnico administrativo,Diamantina,Casa,1,3,0,0,0,2,1,0,0,0
+26/03/2020 20:13:46,Aluno,Porteirinha,Casa,2,3,0,0,1,2,4,0,0,1
+26/03/2020 20:14:42,Aluno,Montes Claros,Casa,3,1,2,0,0,3,1,0,1,0
+26/03/2020 20:15:38,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,1,0
+26/03/2020 20:17:42,Aluno,Porteirinha,Casa,1,2,0,0,0,2,2,0,0,0
+26/03/2020 20:18:24,Aluno,Januária,Alojamento,0,8,0,0,0,1,8,0,0,0
+26/03/2020 20:19:26,Professor,Diamantina,Casa,1,2,0,0,0,3,1,1,0,1
+26/03/2020 20:20:00,Aluno,Montes Claros,Casa,0,1,1,1,2,3,2,2,1,0
+26/03/2020 20:21:00,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 20:21:58,Professor,Diamantina,Apartamento,0,0,0,0,0,2,0,1,0,0
+26/03/2020 20:22:30,Aluno,Montes Claros,Apartamento,0,2,0,0,2,2,2,0,0,1
+26/03/2020 20:23:36,Aluno,Montes Claros,Casa,0,4,2,1,2,6,3,1,0,0
+26/03/2020 20:26:01,Aluno,Porteirinha,Casa,0,2,0,0,0,2,1,0,0,0
+26/03/2020 20:26:54,Aluno,Januária,Alojamento,0,10,0,0,0,1,10,0,0,0
+26/03/2020 20:27:44,Aluno,Montes Claros,Casa,0,3,0,0,0,3,3,0,0,0
+26/03/2020 20:28:44,Aluno,Montes Claros,Casa,0,2,2,0,1,2,2,0,0,2
+26/03/2020 20:34:02,Aluno,Montes Claros,Casa,0,2,1,1,2,3,2,0,1,2
+26/03/2020 20:41:27,Aluno,Montes Claros,Apartamento,0,2,4,0,6,3,2,3,0,1
+26/03/2020 20:43:46,Aluno,Montes Claros,Apartamento,0,2,4,0,6,3,2,3,0,1
+26/03/2020 20:45:02,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+26/03/2020 20:46:12,Aluno,Montes Claros,Apartamento,0,0,0,0,0,2,1,0,0,0
+26/03/2020 20:47:52,Aluno,Januária,Casa,1,4,2,0,0,4,2,1,1,1
+26/03/2020 20:48:18,Aluno,Montes Claros,Apartamento,0,1,1,1,2,3,1,0,0,1
+26/03/2020 20:49:50,Aluno,Montes Claros,Casa,0,2,2,0,2,4,1,0,0,2
+26/03/2020 20:49:53,Aluno,Montes Claros,Apartamento,0,2,2,0,0,3,2,1,0,1
+26/03/2020 20:50:41,Aluno,Montes Claros,Casa,1,2,0,0,0,8,1,2,0,0
+26/03/2020 20:52:34,Aluno,Montes Claros,Casa,1,1,2,0,2,2,1,0,1,0
+26/03/2020 20:52:44,Aluno,Montes Claros,Casa,0,3,1,0,1,3,2,0,1,0
+26/03/2020 20:53:42,Aluno,Porteirinha,Casa,4,2,2,0,1,3,2,0,0,2
+26/03/2020 20:54:04,Aluno,Montes Claros,Casa,0,1,1,1,3,5,1,0,1,0
+26/03/2020 20:57:33,Aluno,Montes Claros,Apartamento,0,2,0,0,1,2,2,0,0,1
+26/03/2020 21:01:47,Tecnico administrativo,Montes Claros,Apartamento,0,0,1,0,1,1,0,0,1,0
+26/03/2020 21:03:42,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,1,0,0
+26/03/2020 21:04:12,Aluno,Montes Claros,Casa,0,2,1,1,3,3,2,2,1,1
+26/03/2020 21:06:52,Aluno,Porteirinha,Casa,0,2,2,0,1,3,1,0,0,2
+26/03/2020 21:07:34,Aluno,Montes Claros,Casa,0,1,1,0,1,4,1,0,0,1
+26/03/2020 21:08:34,Aluno,Januária,Casa,0,3,0,1,0,6,1,0,2,0
+26/03/2020 21:08:52,Aluno,Januária,Pensionato,0,16,2,0,0,14,16,0,8,0
+26/03/2020 21:09:34,Aluno,Montes Claros,Apartamento,2,0,1,1,1,4,2,0,1,1
+26/03/2020 21:10:06,Professor,Diamantina,Apartamento,0,2,1,0,0,3,2,1,0,0
+26/03/2020 21:11:29,Aluno,Montes Claros,Casa,1,2,0,0,0,2,1,0,0,0
+26/03/2020 21:13:48,Aluno,Araçuaí,Casa,0,1,2,0,1,3,1,0,0,0
+26/03/2020 21:14:04,Aluno,Araçuaí,Fazenda,0,2,2,1,0,3,2,0,2,0
+26/03/2020 21:14:35,Aluno,Araçuaí,Casa,0,2,1,0,2,4,2,0,0,1
+26/03/2020 21:15:02,Professor,Diamantina,Casa,2,2,0,0,2,4,2,1,1,0
+26/03/2020 21:17:56,Aluno,Araçuaí,Casa,0,2,2,0,0,3,1,0,0,1
+26/03/2020 21:18:44,Aluno,Montes Claros,Casa,0,2,1,0,0,2,3,0,1,1
+26/03/2020 21:18:55,Aluno,Januária,República,0,6,0,0,1,3,6,0,0,0
+26/03/2020 21:21:33,Aluno,Araçuaí,Apartamento,0,3,0,0,1,2,3,0,2,1
+26/03/2020 21:21:46,Aluno,Araçuaí,Casa,0,2,1,1,3,3,2,0,0,1
+26/03/2020 21:25:45,Aluno,Januária,República,0,5,0,0,0,4,4,0,2,0
+26/03/2020 21:25:49,Professor,Montes Claros,Casa,0,1,2,0,3,4,0,1,0,0
+26/03/2020 21:28:15,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,1,0,1
+26/03/2020 21:35:35,Aluno,Montes Claros,Casa,0,4,0,0,0,2,3,0,2,0
+26/03/2020 21:36:24,Aluno,Januária,Casa,1,4,3,1,1,2,3,0,1,1
+26/03/2020 21:40:19,Aluno,Januária,Casa,1,3,1,0,0,8,3,2,0,1
+26/03/2020 21:42:25,Aluno,Porteirinha,Casa,0,2,1,0,1,3,1,0,0,1
+26/03/2020 21:42:30,Tecnico administrativo,Diamantina,Apartamento,0,2,0,0,0,2,0,0,0,0
+26/03/2020 21:42:37,Aluno,Januária,Casa,0,5,2,2,3,4,5,1,0,1
+26/03/2020 21:42:53,Tecnico administrativo,Diamantina,Casa,1,2,0,0,1,3,1,0,0,0
+26/03/2020 21:43:00,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
+26/03/2020 21:45:18,Aluno,Montes Claros,Casa,0,3,0,0,0,2,3,0,1,0
+26/03/2020 21:49:13,Aluno,Araçuaí,Casa,3,3,1,0,1,2,2,0,1,0
+26/03/2020 21:51:47,Aluno,Montes Claros,Casa,3,3,1,2,3,4,4,0,0,3
+26/03/2020 21:56:10,Aluno,Montes Claros,Casa,1,3,1,0,0,3,3,1,1,0
+26/03/2020 21:57:30,Aluno,Porteirinha,Casa,2,2,0,0,0,2,2,1,0,1
+26/03/2020 21:59:26,Professor,Diamantina,Casa,0,0,1,0,0,3,1,1,0,0
+26/03/2020 22:09:53,Aluno,Porteirinha,Casa,0,2,2,0,3,2,1,0,0,0
+26/03/2020 22:14:23,Aluno,Montes Claros,Casa,1,2,0,0,2,3,1,0,2,0
+26/03/2020 22:15:44,Nenhum,Salinas,Casa,3,2,0,0,0,2,4,0,1,2
+26/03/2020 22:18:35,Aluno,Montes Claros,"Apartamento, Casa",0,1,1,1,2,2,1,0,0,2
+26/03/2020 22:22:16,Aluno,Januária,Casa,0,5,0,0,0,4,2,1,1,0
+26/03/2020 22:28:21,Aluno,Montes Claros,República,0,4,0,0,3,4,4,3,0,2
+26/03/2020 22:29:20,Aluno,Porteirinha,Casa,0,2,2,0,1,4,1,0,0,1
+26/03/2020 22:31:45,Aluno,Montes Claros,Casa,2,5,1,0,2,3,2,0,3,1
+26/03/2020 22:31:49,Aluno,Januária,Casa,0,2,2,0,2,2,2,0,0,2
+26/03/2020 22:35:44,Aluno,Montes Claros,Casa,0,2,0,0,1,3,1,0,0,1
+26/03/2020 22:36:16,Aluno,Porteirinha,Casa,0,1,0,1,0,3,1,0,0,0
+26/03/2020 22:36:25,Professor,Diamantina,Casa,0,4,0,0,3,4,2,1,0,0
+26/03/2020 22:37:02,Professor,Diamantina,Casa,1,0,2,0,1,4,1,2,0,1
+26/03/2020 22:43:51,Aluno,Montes Claros,Casa,1,4,2,1,1,4,3,0,2,2
+26/03/2020 22:46:25,Aluno,Januária,República,0,12,0,0,0,8,12,1,0,0
+26/03/2020 22:54:04,Aluno,Januária,República,0,4,0,0,1,2,4,0,0,0
+26/03/2020 22:57:22,Aluno,Montes Claros,Casa,1,2,2,0,1,4,3,0,0,3
+26/03/2020 23:02:31,Aluno,Montes Claros,Casa,0,3,1,1,3,4,2,1,1,1
+26/03/2020 23:34:44,Aluno,Januária,Casa,1,4,0,2,2,4,2,0,3,0
+26/03/2020 23:46:46,Aluno,Porteirinha,Casa,0,2,1,1,0,2,2,0,0,1
+26/03/2020 23:56:04,Aluno,Montes Claros,Apartamento,0,3,1,0,1,3,2,0,2,0
+27/03/2020 00:19:22,Aluno,Januária,Pensionato,0,15,1,2,0,20,15,0,0,0
+27/03/2020 00:53:50,Aluno,Januária,República,3,3,0,0,0,2,2,0,0,0
+27/03/2020 00:54:59,Aluno,Montes Claros,Casa,0,4,0,0,1,3,2,0,0,0
+27/03/2020 01:25:16,Aluno,Januária,Casa,1,3,1,0,1,3,3,0,1,1
+27/03/2020 01:33:01,Aluno,Januária,Casa,0,2,1,0,0,5,2,0,0,1
+27/03/2020 01:33:52,Aluno,Januária,Casa,0,2,1,0,0,2,2,1,1,0
+27/03/2020 01:37:15,Aluno,Januária,Pensionato,0,11,0,0,0,9,11,1,0,0
+27/03/2020 02:16:53,Aluno,Montes Claros,Casa,0,3,1,0,0,3,2,1,0,1
+27/03/2020 02:35:27,Aluno,Januária,Casa,0,3,2,0,0,4,1,1,0,0
+27/03/2020 07:04:25,Aluno,Januária,Casa,3,1,0,0,0,1,3,0,0,0
+27/03/2020 07:15:16,Aluno,Januária,República,0,4,0,0,1,5,4,0,0,0
+27/03/2020 07:45:05,Aluno,Januária,Apartamento,0,2,0,0,0,1,2,0,0,0
+27/03/2020 07:46:16,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
+27/03/2020 07:46:28,Aluno,Januária,Apartamento,0,1,0,0,0,1,1,0,0,0
+27/03/2020 08:18:13,Aluno,Montes Claros,Casa,0,3,1,1,0,4,3,0,0,1
+27/03/2020 08:25:26,Aluno,Januária,Casa,0,3,2,0,2,2,1,0,0,1
+27/03/2020 08:47:24,Aluno,Montes Claros,República,0,4,0,0,2,4,3,0,0,1
+27/03/2020 08:51:10,Aluno,Januária,Casa,4,4,1,1,1,4,6,0,0,3
+27/03/2020 08:54:51,Professor,Januária,Casa,0,2,2,0,1,3,2,1,0,1
+27/03/2020 09:08:39,Tecnico administrativo,Diamantina,Apartamento,0,1,1,0,2,3,0,1,0,0
+27/03/2020 09:14:41,Aluno,Montes Claros,Apartamento,0,4,0,0,0,2,4,0,0,0
+27/03/2020 09:15:23,Professor,Diamantina,Casa,1,0,2,0,0,3,1,1,0,1
+27/03/2020 09:15:49,Professor,Diamantina,Sítio,2,4,1,0,0,3,3,2,0,0
+27/03/2020 09:24:02,Aluno,Januária,Pensionato,0,20,0,0,0,20,20,0,5,0
+27/03/2020 09:25:57,Professor,Diamantina,Casa,0,2,0,0,0,4,1,1,0,0
+27/03/2020 09:29:39,Tecnico administrativo,Diamantina,Apartamento,0,2,0,0,0,3,1,0,0,0
+27/03/2020 09:35:53,Aluno,Porteirinha,Casa,1,1,2,0,0,3,2,3,1,1
+27/03/2020 09:37:36,Professor,Januária,Casa,1,1,1,0,0,5,0,1,0,1
+27/03/2020 09:45:00,Aluno,Januária,Casa,0,0,0,0,0,2,2,0,0,0
+27/03/2020 09:47:48,Aluno,Porteirinha,Apartamento,1,1,2,0,0,3,2,0,0,1
+27/03/2020 09:55:51,Aluno,Porteirinha,Casa,1,2,1,2,2,4,4,0,1,0
+27/03/2020 09:58:43,Aluno,Porteirinha,Casa,1,2,1,2,2,4,4,0,1,0
+27/03/2020 10:00:32,Aluno,Montes Claros,Casa,0,3,1,1,2,3,2,1,1,0
+27/03/2020 10:07:14,Tecnico administrativo,Diamantina,Apartamento,0,1,1,0,0,2,1,0,0,0
+27/03/2020 10:18:34,Aluno,Teófilo Otoni,Apartamento,0,3,0,0,0,4,1,0,2,0
+27/03/2020 10:22:06,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,0
+27/03/2020 10:22:26,Aluno,Januária,Casa,0,3,1,0,0,2,2,0,1,1
+27/03/2020 10:24:42,Aluno,Januária,Apartamento,0,2,0,0,0,3,1,0,0,0
+27/03/2020 10:41:58,Aluno,Araçuaí,Casa,1,3,1,2,4,4,2,0,1,1
+27/03/2020 10:49:15,Aluno,Araçuaí,Casa,1,1,2,0,0,2,1,0,0,1
+27/03/2020 10:52:57,Aluno,Januária,Casa,1,4,1,0,0,2,4,0,1,0
+27/03/2020 10:56:04,Aluno,Porteirinha,Casa,0,0,1,0,1,2,1,0,0,1
+27/03/2020 10:56:29,Aluno,Montes Claros,Apartamento,0,3,1,0,3,2,3,0,1,1
+27/03/2020 10:57:47,Aluno,Januária,Apartamento,0,1,0,0,0,2,1,0,0,0
+27/03/2020 10:58:58,Aluno,Januária,República,0,4,0,0,0,3,4,0,0,0
+27/03/2020 11:08:50,Aluno,Januária,Casa,8,4,1,0,0,2,4,0,1,0
+27/03/2020 11:50:43,Aluno,Januária,Casa,4,2,0,0,0,3,1,1,0,0
+27/03/2020 11:55:51,Aluno,Januária,Casa,0,2,2,1,1,3,2,1,0,2
+27/03/2020 12:08:18,Aluno,Araçuaí,Casa,2,2,0,0,0,2,2,0,1,0
+27/03/2020 12:31:13,Aluno,Montes Claros,Casa,0,2,0,0,0,1,2,0,0,0
+27/03/2020 12:09:57,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,1,0
+27/03/2020 12:37:08,Aluno,Araçuaí,Casa,0,3,2,0,1,3,2,0,0,1
+27/03/2020 12:36:26,Aluno,Januária,Casa,1,3,0,0,0,4,2,2,0,0
+27/03/2020 12:54:10,Aluno,Januária,Casa,0,2,0,0,1,2,1,0,0,0
+27/03/2020 12:41:40,Aluno,Januária,Casa,0,1,0,1,1,2,1,0,0,1
+27/03/2020 13:15:26,Aluno,Januária,Casa,0,2,0,0,1,3,1,0,0,2
+27/03/2020 13:26:42,Aluno,Januária,Alojamento,0,1,0,0,0,1,1,0,1,1
+27/03/2020 13:56:21,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,0,1
+27/03/2020 14:10:50,Aluno,Januária,Apartamento,0,1,1,2,1,4,2,1,1,1
+27/03/2020 14:22:59,Aluno,Januária,Casa,0,2,0,1,1,2,2,0,0,1
+27/03/2020 14:34:22,Aluno,Januária,Casa,0,4,1,3,1,5,2,0,0,0
+27/03/2020 14:53:48,Aluno,Januária,República,0,3,0,0,0,3,3,0,0,0
+27/03/2020 14:56:05,Aluno,Januária,Casa,0,5,1,1,0,3,3,0,3,2
+27/03/2020 15:00:22,Aluno,Montes Claros,Casa,0,3,2,0,2,3,3,2,0,0
+27/03/2020 15:02:20,Aluno,Januária,Casa,0,1,1,0,1,3,1,0,0,0
+27/03/2020 16:13:34,Professor,Januária,Casa,1,1,1,0,0,3,1,1,0,0
+27/03/2020 18:31:11,Aluno,Januária,Casa,0,2,0,0,0,4,2,0,0,1
+27/03/2020 18:41:28,Aluno,Montes Claros,Casa,0,1,2,0,2,2,1,0,0,1
+27/03/2020 19:43:29,Aluno,Montes Claros,Apartamento,0,1,1,0,1,2,1,1,0,0
+27/03/2020 19:58:22,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
+27/03/2020 20:02:57,Aluno,Montes Claros,Casa,0,2,0,2,1,4,1,0,1,0
+27/03/2020 20:05:27,Aluno,Montes Claros,Casa,0,3,1,1,0,4,3,1,1,1
+27/03/2020 20:40:24,Aluno,Salinas,Casa,0,3,0,0,0,2,2,0,0,1
+27/03/2020 21:35:52,Aluno,Teófilo Otoni,Casa,0,3,1,0,0,2,3,0,1,0
+27/03/2020 21:36:37,Aluno,Montes Claros,Casa,0,1,2,0,2,2,1,0,0,0
+27/03/2020 23:29:28,Aluno,Januária,Casa,0,1,0,0,1,2,2,0,0,1
+28/03/2020 03:16:03,Professor,Januária,Casa,0,2,0,2,1,4,1,1,0,0
+28/03/2020 10:11:55,Aluno,Montes Claros,Pensionato,0,7,0,0,1,7,7,0,0,0
+28/03/2020 12:11:56,Aluno,Januária,Pensionato,0,18,2,3,3,25,19,0,3,1
+28/03/2020 12:14:21,Aluno,Januária,Casa,0,3,1,0,0,3,2,0,0,0
+28/03/2020 14:03:16,Aluno,Januária,Casa,0,3,2,0,0,4,3,1,1,0
+28/03/2020 15:32:30,Aluno,Januária,Casa,0,2,2,0,1,3,2,0,1,1
+28/03/2020 16:10:41,Aluno,Montes Claros,Apartamento,0,0,0,0,0,1,1,0,0,0
+28/03/2020 16:55:23,Aluno,Montes Claros,Casa,0,1,1,0,1,2,2,0,0,1
+28/03/2020 17:37:59,Nenhum,Januária,Casa,0,2,2,0,3,3,1,0,1,2
+28/03/2020 18:51:29,Aluno,Montes Claros,Casa,1,2,1,0,2,2,2,1,0,1
+28/03/2020 19:38:40,Aluno,Januária,República,0,3,0,0,0,2,3,0,0,0
+28/03/2020 19:39:14,Aluno,Montes Claros,Casa,0,0,2,0,1,3,2,1,1,0
+28/03/2020 20:33:01,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,0,2
+28/03/2020 20:55:49,Aluno,Januária,Casa,0,3,1,0,0,2,2,0,0,0
