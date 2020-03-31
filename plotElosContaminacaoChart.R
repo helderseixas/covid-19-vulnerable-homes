@@ -52,8 +52,8 @@ df <- rbind(df_estudante, df_trabalhador_essencial, df_trabalhador_informal)
 
 cbbPalette <- c("#abdda4", "#d7191c")
 
-df$POSSUI_ELO_CONTAMINACAO[df$POSSUI_ELO_CONTAMINACAO == TRUE] = "Possui morador classificado potencial vetor de transmissão"
-df$POSSUI_ELO_CONTAMINACAO[df$POSSUI_ELO_CONTAMINACAO == FALSE] = "Não possui morador classificado potencial vetor de transmissão"
+df$POSSUI_ELO_CONTAMINACAO[df$POSSUI_ELO_CONTAMINACAO == TRUE] = "Possui morador classificado como potencial vetor de transmissão"
+df$POSSUI_ELO_CONTAMINACAO[df$POSSUI_ELO_CONTAMINACAO == FALSE] = "Não possui morador classificado como potencial vetor de transmissão"
 
 #---------------------------------
 # Plot chart: alunos e servidores

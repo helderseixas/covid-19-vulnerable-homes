@@ -1,810 +1,810 @@
-DATA_RESPOSTA,VINCULO,CAMPUS,TIPO_DOMICILIO,IDADE_0_9,IDADE_10_39,IDADE_40_59,IDADE_MAIS_59,DOENCA_CRONICA,QUARTOS_DOMICILIO,ESTUDANTES,PROFESSORES,SERVICOS_ESSENCIAIS,INFORMAIS_AUTONOMOS
-26/03/2020 00:45:12,Professor,Januária,Casa,1,2,0,0,0,3,0,2,0,1
-26/03/2020 01:21:16,Aluno,Januária,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 01:24:41,Aluno,Januária,Casa,3,2,1,0,1,3,2,0,0,0
-26/03/2020 01:27:01,Professor,Januária,Casa,0,2,2,0,2,4,2,2,0,0
-26/03/2020 02:04:27,Aluno,Januária,Casa,0,4,0,0,0,3,3,1,0,1
-26/03/2020 02:42:10,Professor,Januária,Casa,0,2,2,0,0,4,2,1,0,1
-26/03/2020 02:51:23,Aluno,Januária,Casa,0,2,1,0,0,3,2,0,0,0
-26/03/2020 06:05:56,Tecnico administrativo,Januária,Casa,0,2,2,0,2,2,3,1,0,0
-26/03/2020 07:03:08,Aluno,Januária,Casa,1,4,0,0,0,2,4,0,0,1
-26/03/2020 07:03:32,Professor,Januária,Casa,1,1,0,0,0,3,1,1,0,0
-26/03/2020 07:12:57,Professor,Araçuaí,Casa,2,2,0,0,0,3,2,2,0,0
-26/03/2020 07:27:08,Aluno,Januária,Casa,0,2,0,0,0,2,2,0,0,0
-26/03/2020 07:46:50,Aluno,Januária,Casa,0,3,2,0,0,3,3,0,0,2
-26/03/2020 08:04:45,Aluno,Januária,República,0,6,0,0,2,3,3,0,1,2
-26/03/2020 08:18:37,Professor,Montes Claros,Casa,0,0,1,0,1,2,0,1,0,0
-26/03/2020 08:25:04,Professor,Januária,Casa,0,0,0,2,2,3,1,2,0,0
-26/03/2020 08:35:32,Tecnico administrativo,Januária,Casa,2,3,0,0,0,3,4,0,0,0
-26/03/2020 08:52:20,Aluno,Januária,República,3,0,0,0,1,3,3,0,0,1
-26/03/2020 08:58:04,Professor,Almenara,Casa,0,1,2,0,1,3,1,1,0,0
-26/03/2020 09:21:06,Professor,Januária,Casa,1,1,2,0,1,2,2,1,1,0
-26/03/2020 09:28:47,Professor,Januária,Casa,2,2,0,0,0,4,2,1,1,0
-26/03/2020 09:29:45,Aluno,Januária,Casa,0,4,2,0,6,3,3,1,0,0
-26/03/2020 09:33:08,Aluno,Januária,Casa,0,4,0,0,1,3,3,0,0,0
-26/03/2020 09:35:03,Professor,Januária,Casa,1,2,0,0,0,3,0,2,0,0
-26/03/2020 09:37:30,Aluno,Januária,Casa,0,1,3,2,0,3,1,1,0,0
-26/03/2020 09:37:40,Aluno,Januária,Casa,0,4,0,0,0,2,2,0,0,1
-26/03/2020 09:37:52,Aluno,Januária,Casa,1,4,1,1,0,4,5,1,0,0
-26/03/2020 09:38:39,Professor,Januária,Casa,2,2,0,0,0,3,1,1,0,1
-26/03/2020 09:39:46,Aluno,Januária,Casa,0,2,1,0,2,3,3,1,0,0
-26/03/2020 09:40:21,Aluno,Januária,Casa,0,2,2,1,3,4,2,0,0,1
-26/03/2020 09:40:27,Aluno,Januária,Casa,5,3,1,0,1,4,3,0,2,0
-26/03/2020 09:43:04,Aluno,Januária,Casa,0,4,2,0,0,3,1,0,0,2
-26/03/2020 09:43:40,Aluno,Januária,República,0,5,1,0,0,5,4,0,2,0
-26/03/2020 09:44:42,Professor,Januária,Casa,0,2,0,0,1,2,2,1,1,0
-26/03/2020 09:46:07,Professor,Teófilo Otoni,Casa,0,2,0,2,0,3,1,1,0,0
-26/03/2020 09:46:49,Aluno,Januária,Casa,6,1,4,1,1,3,1,0,1,1
-26/03/2020 09:47:00,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,1,0
-26/03/2020 09:47:06,Aluno,Januária,Casa,0,2,2,0,1,3,1,0,1,0
-26/03/2020 09:47:18,Aluno,Januária,Casa,0,1,2,2,4,5,1,0,0,0
-26/03/2020 09:48:09,Aluno,Januária,Casa,0,2,2,0,0,3,1,0,0,2
-26/03/2020 09:49:34,Aluno,Januária,Casa,1,3,1,0,0,4,3,0,2,0
-26/03/2020 09:49:44,Aluno,Januária,Casa,0,1,2,0,1,2,1,1,0,1
-26/03/2020 09:50:10,Aluno,Januária,Casa,0,1,2,0,1,4,1,0,2,0
-26/03/2020 09:50:59,Aluno,Januária,Casa,1,2,1,0,0,2,2,0,0,1
-26/03/2020 09:51:23,Aluno,Januária,Casa,0,2,2,0,2,3,3,0,0,0
-26/03/2020 09:52:37,Aluno,Januária,Casa,1,2,1,0,0,3,2,0,2,0
-26/03/2020 09:54:21,Professor,Januária,Casa,0,2,0,0,0,2,0,1,0,0
-26/03/2020 09:55:01,Aluno,Januária,Casa,1,3,0,0,1,3,2,0,2,0
-26/03/2020 09:55:05,Aluno,Januária,Casa,1,5,1,0,1,4,3,0,0,1
-26/03/2020 09:55:16,Aluno,Teófilo Otoni,Casa,0,3,2,2,3,4,3,1,1,1
-26/03/2020 09:56:31,Aluno,Januária,Casa,0,3,1,1,1,4,3,0,0,2
-26/03/2020 09:56:41,Professor,Januária,Casa,1,3,1,0,1,3,3,1,1,0
-26/03/2020 09:57:40,Aluno,Januária,Casa,0,2,2,0,1,2,2,0,0,1
-26/03/2020 09:57:42,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,1,1
-26/03/2020 09:57:59,Professor,Januária,Casa,0,1,1,0,0,2,0,1,0,1
-26/03/2020 09:58:20,Aluno,Januária,Casa,0,3,1,1,1,3,2,0,0,2
-26/03/2020 09:58:23,Aluno,Januária,Casa,0,4,1,1,1,3,1,0,3,1
-26/03/2020 09:59:17,Aluno,Januária,República,0,3,0,0,0,2,3,0,0,0
-26/03/2020 09:59:48,Professor,Teófilo Otoni,Casa,1,2,0,0,0,4,1,1,1,0
-26/03/2020 10:00:36,Professor,Diamantina,Apartamento,0,2,0,0,0,3,2,1,0,0
-26/03/2020 10:01:32,Professor,Januária,Casa,0,1,0,0,1,2,0,1,0,0
-26/03/2020 10:02:04,Aluno,Januária,Alojamento,0,96,0,0,0,12,96,0,0,0
-26/03/2020 10:02:24,Aluno,Teófilo Otoni,Casa,0,2,1,0,1,3,1,1,0,0
-26/03/2020 10:02:27,Aluno,Teófilo Otoni,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 10:03:13,Aluno,Januária,Casa,0,4,2,0,1,3,2,0,0,0
-26/03/2020 10:03:25,Aluno,Teófilo Otoni,Casa,1,3,0,0,0,3,3,0,0,0
-26/03/2020 10:04:49,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 10:05:34,Aluno,Januária,Casa,1,4,0,1,1,3,3,1,0,0
-26/03/2020 10:05:34,Aluno,Januária,Casa,0,0,51,0,0,3,0,0,0,3
-26/03/2020 10:06:42,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,0,1
-26/03/2020 10:06:42,Aluno,Januária,Casa,3,3,1,0,0,4,4,0,3,0
-26/03/2020 10:07:17,Aluno,Januária,Casa,3,3,1,0,0,4,4,0,3,0
-26/03/2020 10:07:17,Aluno,Teófilo Otoni,Casa,1,2,1,0,0,3,3,0,0,0
-26/03/2020 10:07:21,Aluno,Januária,Casa,0,1,2,0,0,5,1,0,0,0
-26/03/2020 10:07:47,Aluno,Januária,Casa,0,3,2,0,0,2,3,0,0,0
-26/03/2020 10:08:23,Professor,Januária,Apartamento,0,1,0,0,0,2,0,1,0,0
-26/03/2020 10:10:47,Professor,Januária,Casa,1,0,1,0,0,3,1,1,0,0
-26/03/2020 10:11:16,Professor,Januária,Casa,4,1,1,0,0,3,3,1,0,0
-26/03/2020 10:11:36,Aluno,Januária,"Alojamento, Casa",0,3,2,0,1,4,3,0,0,0
-26/03/2020 10:12:44,Tecnico administrativo,Januária,Casa,2,1,1,0,1,3,1,1,0,0
-26/03/2020 10:12:46,Aluno,Januária,Casa,1,3,1,0,0,2,3,0,0,1
-26/03/2020 10:14:23,Aluno,Januária,Casa,0,1,2,0,0,10,1,1,0,1
-26/03/2020 10:15:20,Aluno,Januária,Apartamento,0,1,0,0,0,4,5,0,0,0
-26/03/2020 10:17:11,Aluno,Januária,Casa,0,3,1,0,0,3,3,0,0,1
-26/03/2020 10:19:08,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,1,1
-26/03/2020 10:21:07,Aluno,Januária,República,0,4,0,0,1,2,4,0,0,0
-26/03/2020 10:22:33,Aluno,Januária,Casa,0,2,1,1,0,3,1,0,2,0
-26/03/2020 10:24:12,Professor,Januária,Casa,0,3,2,0,0,4,4,1,1,0
-26/03/2020 10:24:30,Aluno,Teófilo Otoni,Casa,0,3,1,0,0,2,3,1,1,0
-26/03/2020 10:26:21,Aluno,Teófilo Otoni,Casa,0,1,1,0,0,2,1,0,0,1
-26/03/2020 10:26:35,Aluno,Teófilo Otoni,Casa,0,2,2,1,3,3,2,1,0,2
-26/03/2020 10:27:05,Aluno,Januária,Casa,0,3,0,0,1,2,1,0,1,2
-26/03/2020 10:27:15,Aluno,Januária,Casa,0,3,0,1,1,3,3,0,0,0
-26/03/2020 10:27:40,Professor,Arinos,Casa,2,3,0,2,2,4,3,1,1,3
-26/03/2020 10:28:01,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
-26/03/2020 10:29:04,Aluno,Januária,Casa,0,2,1,0,1,2,2,0,0,0
-26/03/2020 10:29:07,Professor,Januária,Apartamento,0,0,1,0,0,3,0,10,0,0
-26/03/2020 10:29:49,Aluno,Januária,Casa,0,3,1,0,0,2,3,0,0,0
-26/03/2020 10:30:02,Aluno,Januária,Casa,2,0,0,0,0,3,2,0,0,1
-26/03/2020 10:30:27,Aluno,Januária,Alojamento,0,108,0,0,0,12,108,0,0,0
-26/03/2020 10:31:04,Aluno,Januária,Casa,0,2,2,0,3,3,2,0,0,1
-26/03/2020 10:31:19,Aluno,Januária,Casa,0,2,2,0,3,3,2,0,0,1
-26/03/2020 10:32:45,Aluno,Januária,Casa,0,2,2,0,1,2,2,1,0,1
-26/03/2020 10:34:32,Professor,Januária,Casa,1,2,0,1,1,4,1,1,0,0
-26/03/2020 10:34:40,Aluno,Januária,Casa,2,1,2,0,2,2,1,0,0,1
-26/03/2020 10:35:54,Aluno,Januária,Casa,0,3,2,0,0,4,3,1,0,1
-26/03/2020 10:36:56,Professor,Januária,Casa,0,1,1,1,2,4,1,2,0,0
-26/03/2020 10:39:13,Aluno,Januária,Casa,0,5,1,0,1,4,4,0,0,0
-26/03/2020 10:39:45,Aluno,Januária,Casa,0,2,1,1,2,4,3,1,0,1
-26/03/2020 10:41:40,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,1
-26/03/2020 10:41:51,Aluno,Januária,Casa,1,3,1,0,0,3,2,0,2,0
-26/03/2020 10:42:03,Aluno,Januária,Casa,1,2,0,1,0,5,2,0,0,3
-26/03/2020 10:42:16,Aluno,Januária,Casa,1,2,0,1,0,3,4,0,0,0
-26/03/2020 10:42:28,Aluno,Januária,Casa,1,2,0,1,0,3,4,0,0,0
-26/03/2020 10:42:35,Aluno,Januária,Casa,0,1,2,0,1,3,1,1,0,1
-26/03/2020 10:44:50,Aluno,Januária,Casa,0,2,0,2,2,4,1,0,0,1
-26/03/2020 10:49:20,Aluno,Januária,Casa,1,0,1,0,0,2,1,0,0,1
-26/03/2020 10:50:43,Aluno,Januária,Casa,0,0,1,2,2,3,1,0,0,0
-26/03/2020 10:51:28,Aluno,Januária,Casa,0,4,0,0,0,2,3,0,0,1
-26/03/2020 10:53:15,Aluno,Januária,Casa,0,1,1,0,1,3,2,1,1,1
-26/03/2020 10:54:30,Aluno,Teófilo Otoni,Casa,0,1,1,0,0,3,1,0,1,0
-26/03/2020 10:57:17,Aluno,Januária,Casa,1,3,0,0,0,2,2,0,1,2
-26/03/2020 10:58:17,Aluno,Januária,Casa,1,2,0,0,0,2,1,1,0,0
-26/03/2020 10:58:34,Aluno,Januária,Casa,0,1,2,0,1,2,1,0,0,2
-26/03/2020 11:00:21,Aluno,Januária,Casa,0,2,2,0,0,2,2,1,1,0
-26/03/2020 11:01:26,Aluno,Januária,Casa,1,4,0,0,2,3,3,0,0,0
-26/03/2020 11:02:55,Aluno,Januária,República,0,7,0,0,0,7,7,0,0,0
-26/03/2020 11:03:28,Aluno,Januária,Casa,0,2,1,1,1,3,2,0,0,0
-26/03/2020 11:03:53,Aluno,Januária,Casa,0,4,0,1,1,4,2,0,0,1
-26/03/2020 11:04:45,Aluno,Januária,Casa,1,1,0,0,0,2,3,1,0,0
-26/03/2020 11:04:48,Aluno,Januária,Casa,1,2,1,0,0,2,2,0,2,1
-26/03/2020 11:05:05,Aluno,Januária,Casa,1,1,0,0,0,2,3,1,0,0
-26/03/2020 11:05:10,Aluno,Januária,Casa,0,2,2,0,1,2,1,0,1,0
-26/03/2020 11:08:37,Aluno,Januária,Casa,1,3,2,0,0,3,1,0,0,0
-26/03/2020 11:08:49,Aluno,Januária,Casa,0,0,1,2,2,3,1,0,0,0
-26/03/2020 11:09:25,Aluno,Januária,Casa,0,3,2,0,0,2,3,0,0,0
-26/03/2020 11:10:52,Aluno,Januária,República,1,3,0,0,0,2,3,0,0,0
-26/03/2020 11:10:54,Aluno,Januária,República,1,3,0,0,0,2,3,0,0,0
-26/03/2020 11:12:30,Aluno,Januária,Apartamento,0,2,2,0,0,4,2,0,0,0
-26/03/2020 11:13:04,Professor,Januária,Casa,0,2,1,0,0,3,2,1,0,0
-26/03/2020 11:13:19,Aluno,Januária,Apartamento,0,16,0,0,0,3,4,0,0,0
-26/03/2020 11:13:57,Aluno,Januária,Apartamento,0,1,0,0,0,2,0,0,0,0
-26/03/2020 11:16:22,Aluno,Januária,Casa,1,1,1,1,1,3,1,0,0,0
-26/03/2020 11:16:53,Aluno,Januária,Pensionato,0,15,0,0,0,16,13,1,2,0
-26/03/2020 11:17:22,Aluno,Januária,República,0,5,0,0,0,3,3,0,1,0
-26/03/2020 11:23:52,Aluno,Januária,Alojamento,0,104,0,0,0,12,104,0,0,0
-26/03/2020 11:24:14,Aluno,Januária,Casa,0,2,2,0,2,4,2,1,0,1
-26/03/2020 11:24:45,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,0,1
-26/03/2020 11:26:57,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,0,2
-26/03/2020 11:27:01,Aluno,Januária,Casa,0,1,2,1,1,3,1,0,1,0
-26/03/2020 11:28:46,Aluno,Januária,Casa,0,2,2,0,0,5,2,1,0,0
-26/03/2020 11:28:53,Aluno,Januária,Casa,0,1,2,0,0,2,1,0,2,0
-26/03/2020 11:31:21,Aluno,Januária,Casa,1,2,0,0,0,4,2,0,0,2
-26/03/2020 11:29:14,Aluno,Januária,Casa,0,2,0,1,0,2,2,0,0,1
-26/03/2020 11:35:58,Aluno,Januária,Casa,0,3,1,1,0,4,1,0,0,0
-26/03/2020 11:38:33,Aluno,Januária,Casa,1,3,1,0,1,3,3,1,1,0
-26/03/2020 11:39:40,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,0,1
-26/03/2020 11:39:51,Aluno,Januária,Casa,0,3,3,2,1,5,2,0,0,0
-26/03/2020 11:39:58,Aluno,Januária,Fazenda,2,2,0,0,0,2,2,0,0,0
-26/03/2020 11:40:04,Aluno,Januária,Casa,2,2,0,1,1,3,3,0,1,1
-26/03/2020 11:44:40,Aluno,Januária,Apartamento,0,1,2,2,2,4,1,0,0,1
-26/03/2020 11:40:58,Aluno,Januária,Casa,0,5,2,0,2,3,2,0,3,0
-26/03/2020 11:44:18,Aluno,Januária,Casa,1,2,3,0,1,2,2,1,0,0
-26/03/2020 11:45:00,Aluno,Januária,Casa,1,5,2,0,1,8,2,0,4,0
-26/03/2020 11:49:06,Aluno,Januária,Casa,0,6,0,0,1,5,6,0,0,0
-26/03/2020 11:45:43,Aluno,Januária,Casa,0,2,2,0,0,4,1,0,0,3
-26/03/2020 11:47:19,Aluno,Januária,Casa,1,2,0,0,1,3,2,0,0,2
-26/03/2020 11:48:54,Aluno,Januária,Casa,1,2,0,2,3,3,2,1,1,0
-26/03/2020 11:50:50,Aluno,Januária,Casa,2,2,1,0,2,2,3,0,0,0
-26/03/2020 11:56:37,Aluno,Januária,Apartamento,0,3,0,0,0,1,3,0,0,0
-26/03/2020 11:53:26,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,0,2
-26/03/2020 11:53:29,Aluno,Januária,Casa,2,2,0,1,3,3,3,0,0,0
-26/03/2020 11:54:11,Aluno,Januária,Pensionato,0,8,0,0,0,1,8,0,0,0
-26/03/2020 12:01:27,Aluno,Januária,Casa,4,2,2,0,2,2,2,0,1,0
-26/03/2020 11:58:06,Aluno,Januária,Casa,0,1,0,0,0,2,1,0,0,0
-26/03/2020 12:00:35,Aluno,Teófilo Otoni,Casa,0,1,1,0,0,2,1,1,0,0
-26/03/2020 12:00:37,Professor,Salinas,Apartamento,0,3,1,0,1,3,3,1,0,0
-26/03/2020 12:01:18,Aluno,Januária,Casa,0,2,2,1,1,4,2,0,0,2
-26/03/2020 12:03:06,Aluno,Teófilo Otoni,Casa,0,2,2,0,1,1,2,1,0,1
-26/03/2020 12:04:01,Aluno,Januária,Casa,0,4,2,0,0,3,2,0,0,0
-26/03/2020 12:06:22,Aluno,Januária,Casa,0,1,0,2,1,2,1,0,0,0
-26/03/2020 12:06:07,Aluno,Januária,Casa,0,2,2,2,1,2,1,0,0,4
-26/03/2020 12:06:17,Aluno,Januária,Casa,0,2,2,1,2,3,3,0,0,0
-26/03/2020 12:06:54,Aluno,Januária,Casa,0,4,0,0,0,3,3,0,0,0
-26/03/2020 12:08:37,Aluno,Teófilo Otoni,Casa,0,2,0,2,1,3,1,0,1,0
-26/03/2020 12:07:59,Aluno,Januária,Casa,0,3,1,1,0,3,3,0,0,1
-26/03/2020 12:08:30,Aluno,Januária,Casa,1,2,0,0,0,3,1,0,0,1
-26/03/2020 12:08:33,Aluno,Januária,Casa,1,2,0,0,0,3,1,0,0,1
-26/03/2020 12:18:27,Aluno,Teófilo Otoni,Casa,0,3,1,0,0,2,2,0,2,0
-26/03/2020 12:11:45,Aluno,Januária,Casa,0,3,2,1,0,4,1,0,1,1
-26/03/2020 12:12:09,Aluno,Januária,Apartamento,1,3,0,0,1,2,3,0,0,1
-26/03/2020 12:18:24,Aluno,Januária,Casa,0,3,1,0,0,3,2,0,0,0
-26/03/2020 12:18:31,Aluno,Januária,Casa,0,1,2,0,0,5,1,0,0,1
-26/03/2020 12:22:43,Aluno,Januária,República,0,4,0,0,0,1,4,0,0,0
-26/03/2020 12:22:39,Aluno,Januária,Pensionato,0,2,0,0,1,3,2,0,0,0
-26/03/2020 12:22:55,Aluno,Januária,Casa,1,2,1,0,2,2,2,1,0,1
-26/03/2020 12:23:09,Aluno,Januária,República,0,2,0,0,0,2,1,0,1,0
-26/03/2020 12:23:46,Aluno,Januária,Casa,0,4,0,0,0,2,2,0,1,0
-26/03/2020 12:24:45,Aluno,Januária,Casa,1,3,0,0,0,2,3,0,0,1
-26/03/2020 12:24:17,Aluno,Januária,Casa,0,2,0,0,0,1,2,0,1,0
-26/03/2020 12:24:33,Aluno,Januária,Casa,0,1,0,0,0,3,1,0,1,0
-26/03/2020 12:24:50,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,0
-26/03/2020 12:24:56,Aluno,Januária,Casa,0,2,2,0,0,2,2,1,0,1
-26/03/2020 12:25:10,Aluno,Januária,Apartamento,0,4,0,0,0,2,4,0,0,0
-26/03/2020 12:25:11,Aluno,Januária,República,0,4,0,0,2,2,3,0,0,0
-26/03/2020 12:25:45,Aluno,Januária,"Pensionato, República",0,6,0,0,0,7,7,1,0,0
-26/03/2020 12:36:16,Aluno,Januária,Casa,1,6,0,0,0,3,4,0,0,0
-26/03/2020 12:38:31,Aluno,Januária,Casa,0,1,2,0,2,2,1,0,0,1
-26/03/2020 12:37:28,Aluno,Januária,Casa,0,1,1,0,0,3,1,0,1,0
-26/03/2020 12:43:29,Aluno,Januária,Casa,0,2,2,0,1,2,2,0,0,0
-26/03/2020 12:40:53,Aluno,Januária,República,0,6,0,0,0,4,5,0,0,0
-26/03/2020 12:43:35,Aluno,Januária,Casa,1,1,2,0,0,2,2,0,0,2
-26/03/2020 12:56:52,Aluno,Januária,Casa,0,3,0,2,1,4,1,1,0,0
-26/03/2020 12:44:51,Aluno,Januária,Casa,1,2,2,0,2,3,3,0,1,0
-26/03/2020 12:46:59,Aluno,Januária,República,0,5,0,0,0,4,5,0,0,0
-26/03/2020 12:50:01,Aluno,Januária,Casa,0,2,1,2,2,6,1,0,0,1
-26/03/2020 12:57:58,Aluno,Januária,Casa,0,3,0,0,0,3,1,0,0,1
-26/03/2020 13:11:57,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
-26/03/2020 13:03:09,Aluno,Januária,Apartamento,0,3,0,0,0,1,2,0,1,1
-26/03/2020 13:04:59,Aluno,Januária,Casa,2,3,1,0,2,3,4,0,1,0
-26/03/2020 13:07:36,Aluno,Januária,Sítio,0,1,2,0,0,4,1,0,0,1
-26/03/2020 13:13:56,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
-26/03/2020 13:20:18,Aluno,Januária,Casa,1,1,2,0,0,2,2,1,0,1
-26/03/2020 13:24:31,Aluno,Januária,Casa,0,2,2,0,2,4,1,0,0,1
-26/03/2020 13:22:55,Aluno,Januária,Alojamento,0,1,2,0,1,3,1,0,2,0
-26/03/2020 13:23:34,Aluno,Januária,Casa,1,2,1,0,0,2,2,0,1,0
-26/03/2020 13:28:33,Professor,Januária,Casa,2,1,1,0,1,3,4,1,0,0
-26/03/2020 13:28:34,Professor,Teófilo Otoni,Casa,0,1,2,0,0,3,1,1,0,1
-26/03/2020 13:29:49,Aluno,Januária,Apartamento,0,2,0,0,0,1,2,0,0,0
-26/03/2020 13:30:00,Aluno,Januária,Casa,1,3,1,1,0,4,1,0,2,0
-26/03/2020 13:35:27,Professor,Januária,Casa,2,2,0,0,0,2,1,1,0,0
-26/03/2020 13:35:53,Aluno,Januária,Casa,0,3,2,0,0,2,3,1,1,0
-26/03/2020 13:36:10,Aluno,Januária,Casa,0,1,0,1,1,2,1,0,0,0
-26/03/2020 13:36:23,Aluno,Januária,Casa,0,3,1,1,1,4,1,1,3,0
-26/03/2020 13:37:03,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,1,1
-26/03/2020 13:37:48,Aluno,Januária,Apartamento,0,6,0,0,0,2,6,0,0,0
-26/03/2020 13:42:54,Aluno,Januária,Casa,0,1,1,0,0,3,2,0,0,0
-26/03/2020 13:41:38,Aluno,Teófilo Otoni,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 13:44:15,Tecnico administrativo,Januária,Casa,1,2,0,0,0,3,0,1,0,0
-26/03/2020 13:45:22,Aluno,Januária,Casa,0,0,0,84,4,3,1,0,0,0
-26/03/2020 13:55:09,Aluno,Januária,Casa,0,4,1,0,2,3,3,0,0,1
-26/03/2020 13:55:10,Aluno,Januária,Casa,0,3,2,0,0,3,2,0,1,2
-26/03/2020 13:59:33,Aluno,Januária,Alojamento,0,4,0,0,2,4,3,0,0,2
-26/03/2020 14:00:48,Aluno,Januária,Casa,0,4,1,1,1,2,2,0,0,1
-26/03/2020 14:01:43,Aluno,Januária,Casa,0,0,0,0,0,1,1,0,0,0
-26/03/2020 14:01:53,Aluno,Januária,Casa,1,2,0,0,0,3,2,0,0,1
-26/03/2020 14:02:39,Aluno,Januária,Casa,0,2,2,0,0,3,1,0,0,0
-26/03/2020 14:02:50,Aluno,Januária,Casa,0,0,1,1,0,2,1,0,0,0
-26/03/2020 14:08:03,Aluno,Januária,Casa,1,0,2,0,2,3,1,1,0,0
-26/03/2020 14:08:43,Professor,Januária,Casa,2,1,1,0,0,3,2,1,0,0
-26/03/2020 14:10:42,Aluno,Januária,Casa,7,4,1,2,2,3,3,0,0,3
-26/03/2020 14:14:37,Aluno,Januária,República,0,6,0,0,0,3,5,0,1,0
-26/03/2020 14:15:01,Aluno,Januária,Casa,0,4,1,0,0,3,3,0,0,2
-26/03/2020 14:16:29,Aluno,Januária,Casa,0,5,1,0,0,2,5,0,1,1
-26/03/2020 14:17:03,Aluno,Januária,República,0,0,12,0,0,6,111,1,0,0
-26/03/2020 14:17:17,Aluno,Januária,Casa,0,2,2,0,0,3,2,0,1,0
-26/03/2020 14:19:58,Aluno,Januária,Sítio,0,1,1,1,1,3,1,0,0,2
-26/03/2020 14:20:06,Aluno,Januária,Casa,0,0,0,0,0,1,1,0,0,0
-26/03/2020 14:24:19,Aluno,Januária,Casa,0,1,0,0,0,2,0,0,1,0
-26/03/2020 14:24:55,Aluno,Januária,Casa,0,3,0,1,2,3,1,0,0,0
-26/03/2020 14:25:07,Aluno,Januária,Casa,0,1,2,0,0,1,2,0,0,1
-26/03/2020 14:26:09,Aluno,Januária,Casa,0,1,2,0,3,3,1,1,1,1
-26/03/2020 14:26:16,Aluno,Januária,República,0,6,0,0,0,5,6,0,0,0
-26/03/2020 14:27:07,Aluno,Januária,República,0,2,0,0,0,1,2,0,0,0
-26/03/2020 14:27:22,Aluno,Januária,Casa,0,5,2,0,3,4,3,1,2,1
-26/03/2020 14:28:00,Aluno,Januária,Casa,0,2,0,1,1,2,1,0,0,1
-26/03/2020 14:30:06,Aluno,Januária,Casa,0,2,2,0,1,3,2,0,2,0
-26/03/2020 14:31:18,Aluno,Januária,Casa,0,2,0,0,0,2,1,0,2,0
-26/03/2020 14:38:59,Aluno,Januária,Apartamento,0,1,0,0,0,1,1,0,0,0
-26/03/2020 14:43:10,Aluno,Januária,Casa,0,3,1,1,3,3,2,0,1,2
-26/03/2020 14:45:35,Aluno,Januária,Casa,1,3,2,0,1,3,2,1,0,0
-26/03/2020 14:46:30,Aluno,Januária,República,4,4,0,0,0,4,4,0,1,2
-26/03/2020 14:47:03,Aluno,Almenara,Casa,2,2,1,0,1,2,1,0,2,0
-26/03/2020 14:49:15,Aluno,Januária,Casa,0,0,0,0,1,1,1,0,1,1
-26/03/2020 14:49:29,Aluno,Januária,Casa,3,2,0,0,0,2,2,0,1,0
-26/03/2020 14:50:41,Aluno,Januária,Casa,0,2,1,0,2,3,1,0,0,1
-26/03/2020 14:51:14,Aluno,Januária,República,0,6,0,0,0,5,6,0,0,2
-26/03/2020 14:53:28,Aluno,Januária,Casa,0,2,0,0,0,3,3,0,0,0
-26/03/2020 14:53:42,Aluno,Januária,Casa,0,2,2,0,0,4,2,0,2,0
-26/03/2020 14:54:34,Aluno,Janaúba,Casa,0,7,1,1,4,3,3,0,3,3
-26/03/2020 14:56:45,Aluno,Januária,Casa,0,1,2,3,2,6,1,0,0,3
-26/03/2020 14:59:05,Aluno,Teófilo Otoni,Apartamento,1,3,0,0,1,2,3,1,0,1
-26/03/2020 15:01:22,Aluno,Teófilo Otoni,Apartamento,1,3,0,0,1,2,3,1,0,1
-26/03/2020 15:02:39,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
-26/03/2020 15:02:54,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
-26/03/2020 15:03:09,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
-26/03/2020 15:03:28,Aluno,Januária,Casa,0,4,0,1,1,3,1,0,2,0
-26/03/2020 15:04:44,Aluno,Januária,Casa,5,3,0,2,2,3,3,0,0,0
-26/03/2020 15:06:35,Aluno,Januária,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 15:08:05,Aluno,Pirapora,Apartamento,0,1,0,0,0,1,1,0,0,1
-26/03/2020 15:09:54,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,1,2
-26/03/2020 15:09:57,Aluno,Januária,República,0,2,0,0,0,1,2,0,0,0
-26/03/2020 15:11:22,Aluno,Januária,República,0,6,0,0,1,5,6,0,0,1
-26/03/2020 15:11:34,Aluno,Januária,República,0,2,0,0,0,3,3,0,0,0
-26/03/2020 15:14:28,Aluno,Januária,Casa,2,0,0,0,0,2,2,0,0,0
-26/03/2020 15:16:42,Aluno,Januária,Casa,0,5,2,0,0,4,5,0,0,1
-26/03/2020 15:17:59,Aluno,Januária,República,0,4,0,0,2,2,4,0,0,2
-26/03/2020 15:19:02,Aluno,Januária,Casa,1,1,1,0,1,2,1,0,0,0
-26/03/2020 15:18:40,Aluno,Januária,Casa,0,1,0,1,1,3,1,0,0,0
-26/03/2020 15:21:05,Aluno,Januária,Apartamento,0,0,0,0,0,1,1,0,0,0
-26/03/2020 15:21:20,Aluno,Teófilo Otoni,Apartamento,0,4,1,1,3,3,2,1,0,1
-26/03/2020 15:22:59,Aluno,Teófilo Otoni,Apartamento,0,2,2,0,2,3,2,1,0,0
-26/03/2020 15:23:09,Aluno,Januária,Casa,1,1,2,0,1,4,2,0,0,1
-26/03/2020 15:27:47,Aluno,Januária,Casa,0,3,1,0,2,3,2,0,2,1
-26/03/2020 15:28:01,Aluno,Teófilo Otoni,Apartamento,0,2,1,0,1,3,2,0,0,0
-26/03/2020 15:29:03,Aluno,Januária,República,0,2,0,0,0,2,2,0,0,0
-26/03/2020 15:29:20,Aluno,Januária,Casa,1,3,2,1,2,15,2,0,2,2
-26/03/2020 15:31:33,Aluno,Januária,Apartamento,0,1,0,0,1,1,1,0,0,0
-26/03/2020 15:33:42,Aluno,Januária,Pensionato,0,15,8,2,5,3,2,0,0,0
-26/03/2020 15:34:16,Aluno,Januária,Casa,0,5,1,1,0,4,3,0,4,0
-26/03/2020 15:37:01,Aluno,Januária,Casa,0,2,1,2,2,2,1,0,0,0
-26/03/2020 15:39:41,Aluno,Januária,Casa,0,1,1,0,2,2,1,0,1,1
-26/03/2020 15:40:11,Aluno,Januária,Casa,0,2,0,2,2,3,2,0,0,0
-26/03/2020 15:45:16,Aluno,Teófilo Otoni,Casa,1,4,0,0,0,2,3,0,0,1
-26/03/2020 15:45:38,Aluno,Januária,Casa,0,2,1,0,2,2,1,0,0,1
-26/03/2020 15:47:21,Aluno,Januária,Casa,0,4,0,0,3,3,3,0,0,2
-26/03/2020 15:49:39,Aluno,Teófilo Otoni,Apartamento,0,2,1,0,1,4,2,0,1,0
-26/03/2020 15:49:55,Aluno,Januária,Casa,0,2,2,0,2,3,2,1,0,0
-26/03/2020 15:50:07,Aluno,Teófilo Otoni,Casa,0,2,2,0,0,3,2,1,0,1
-26/03/2020 15:52:12,Aluno,Januária,República,0,12,0,0,0,8,11,1,0,11
-26/03/2020 15:52:37,Aluno,Januária,Casa,0,1,2,0,0,2,2,1,0,1
-26/03/2020 15:53:35,Professor,Januária,Casa,1,3,0,0,0,4,3,2,0,0
-26/03/2020 15:56:08,Aluno,Januária,Casa,1,3,0,2,0,5,2,0,0,3
-26/03/2020 16:03:10,Tecnico administrativo,Januária,Casa,1,2,0,0,1,3,1,0,1,0
-26/03/2020 16:06:26,Aluno,Januária,República,0,3,0,0,1,3,3,0,0,0
-26/03/2020 16:06:59,Aluno,Januária,Casa,2,4,2,1,1,3,4,2,1,1
-26/03/2020 16:07:01,Aluno,Januária,Casa,0,1,1,0,0,1,1,1,0,0
-26/03/2020 16:08:00,Aluno,Januária,República,0,3,0,0,0,3,3,0,0,0
-26/03/2020 16:08:18,Aluno,Januária,Apartamento,0,1,0,0,1,1,1,0,0,0
-26/03/2020 16:08:27,Aluno,Januária,República,0,2,0,0,0,1,2,0,0,0
-26/03/2020 16:08:27,Aluno,Januária,"Casa, República",3,3,0,0,1,3,3,0,0,0
-26/03/2020 16:11:36,Aluno,Januária,Casa,1,2,0,0,0,2,2,0,0,1
-26/03/2020 16:11:59,Aluno,Januária,República,0,6,0,0,0,3,6,0,0,0
-26/03/2020 16:19:18,Aluno,Teófilo Otoni,Casa,0,4,1,0,1,3,4,0,2,1
-26/03/2020 16:20:30,Aluno,Januária,Casa,0,3,2,0,2,3,3,1,1,0
-26/03/2020 16:20:31,Aluno,Januária,Apartamento,0,3,0,0,0,1,1,0,2,0
-26/03/2020 16:27:39,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 16:28:38,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 16:31:16,Aluno,Januária,Casa,0,2,2,0,2,2,2,1,1,2
-26/03/2020 16:35:05,Aluno,Januária,República,0,4,0,0,0,2,4,0,0,0
-26/03/2020 16:35:34,Aluno,Januária,Casa,0,3,1,0,0,4,2,0,1,0
-26/03/2020 16:37:54,Aluno,Januária,Casa,0,2,2,0,1,2,2,0,0,1
-26/03/2020 16:39:44,Aluno,Januária,Casa,0,3,0,1,0,2,1,2,1,0
-26/03/2020 16:44:37,Aluno,Januária,República,0,6,0,0,0,4,5,0,0,1
-26/03/2020 16:46:07,Aluno,Januária,Pensionato,0,12,0,0,0,9,10,1,2,1
-26/03/2020 16:46:18,Aluno,Januária,Casa,1,5,0,2,1,4,3,0,0,0
-26/03/2020 16:46:32,Aluno,Januária,Casa,0,3,0,0,0,2,1,0,1,1
-26/03/2020 16:47:39,Aluno,Januária,Casa,0,4,2,0,0,3,2,0,1,1
-26/03/2020 16:51:02,Aluno,Januária,Casa,0,4,1,0,1,2,3,0,0,1
-26/03/2020 16:54:36,Aluno,Januária,Casa,0,0,2,0,1,2,1,0,0,0
-26/03/2020 16:54:44,Aluno,Januária,Casa,0,2,0,0,0,3,3,0,0,0
-26/03/2020 16:55:37,Aluno,Januária,República,0,6,0,0,0,3,6,0,0,0
-26/03/2020 16:58:48,Aluno,Januária,Casa,0,3,1,1,0,3,2,0,1,0
-26/03/2020 16:59:09,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,0,1
-26/03/2020 17:00:23,Aluno,Januária,Casa,0,1,1,2,0,3,1,0,0,1
-26/03/2020 17:01:09,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,1
-26/03/2020 17:01:32,Aluno,Januária,Casa,0,3,1,1,1,4,3,0,0,0
-26/03/2020 17:01:39,Aluno,Januária,Casa,1,2,0,0,1,2,0,1,0,1
-26/03/2020 17:02:10,Aluno,Januária,Apartamento,0,3,0,0,0,3,2,0,0,1
-26/03/2020 17:03:45,Aluno,Januária,Casa,1,3,2,1,2,3,4,1,1,0
-26/03/2020 17:04:22,Aluno,Januária,Casa,0,1,1,1,3,3,1,0,0,0
-26/03/2020 17:05:59,Aluno,Januária,Casa,0,4,0,0,1,3,2,0,3,1
-26/03/2020 17:05:55,Aluno,Januária,Casa,0,2,2,0,0,3,2,1,1,0
-26/03/2020 17:08:05,Aluno,Januária,Casa,1,2,2,0,0,3,2,0,1,0
-26/03/2020 17:09:32,Aluno,Januária,Apartamento,0,2,0,0,0,1,2,0,1,0
-26/03/2020 17:09:33,Aluno,Januária,Casa,1,3,0,0,0,3,2,0,2,1
-26/03/2020 17:09:49,Aluno,Januária,Casa,0,1,0,0,1,3,1,0,0,0
-26/03/2020 17:11:45,Aluno,Januária,Casa,0,2,0,0,0,3,2,0,1,1
-26/03/2020 17:15:44,Aluno,Januária,Pensionato,0,18,3,2,0,18,18,0,0,2
-26/03/2020 17:21:51,Professor,Januária,Casa,0,1,2,0,1,3,1,1,0,0
-26/03/2020 17:22:26,Aluno,Januária,Casa,0,2,1,0,0,3,1,0,0,0
-26/03/2020 17:29:36,Aluno,Januária,Pensionato,0,20,2,2,0,17,15,1,1,0
-26/03/2020 17:30:01,Aluno,Januária,Casa,0,1,2,2,1,6,1,1,0,1
-26/03/2020 17:32:29,Aluno,Januária,Casa,0,4,2,0,1,3,3,3,0,0
-26/03/2020 17:35:26,Aluno,Januária,Casa,0,2,0,1,2,3,2,0,2,2
-26/03/2020 17:44:07,Aluno,Januária,Apartamento,0,1,0,0,0,1,10,0,0,0
-26/03/2020 17:48:52,Aluno,Januária,República,0,3,0,0,0,3,3,0,0,0
-26/03/2020 17:50:27,Aluno,Januária,Casa,1,2,1,0,1,4,1,0,0,1
-26/03/2020 17:54:31,Aluno,Januária,Casa,0,3,2,0,0,3,2,1,0,1
-26/03/2020 18:00:04,Aluno,Porteirinha,Casa,0,1,1,0,0,2,1,0,0,1
-26/03/2020 18:00:06,Aluno,Porteirinha,Casa,0,1,1,1,0,3,1,0,0,0
-26/03/2020 18:00:29,Aluno,Porteirinha,Casa,0,2,2,0,0,3,2,0,1,1
-26/03/2020 18:01:43,Aluno,Porteirinha,Casa,0,3,2,0,1,2,2,1,1,1
-26/03/2020 18:02:30,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,1
-26/03/2020 18:02:32,Aluno,Porteirinha,Casa,0,1,1,2,3,3,1,1,0,1
-26/03/2020 18:02:56,Aluno,Porteirinha,Casa,0,3,0,0,0,3,1,0,0,2
-26/03/2020 18:03:19,Aluno,Porteirinha,Casa,0,1,2,0,2,2,1,1,1,0
-26/03/2020 18:04:16,Aluno,Porteirinha,Casa,0,2,2,0,2,3,1,1,0,1
-26/03/2020 18:04:21,Aluno,Porteirinha,Casa,0,1,1,0,1,3,2,0,0,0
-26/03/2020 18:04:47,Aluno,Porteirinha,Apartamento,0,1,0,0,0,2,0,0,1,0
-26/03/2020 18:04:52,Aluno,Porteirinha,Casa,0,1,0,0,0,1,1,0,0,0
-26/03/2020 18:05:19,Aluno,Porteirinha,Casa,1,3,0,0,0,3,2,0,0,3
-26/03/2020 18:06:46,Aluno,Porteirinha,Casa,1,2,1,1,0,4,2,1,0,1
-26/03/2020 18:06:59,Professor,Araçuaí,Casa,0,4,0,2,2,4,4,2,2,1
-26/03/2020 18:07:13,Aluno,Araçuaí,Casa,0,1,1,0,0,2,1,1,0,0
-26/03/2020 18:07:15,Aluno,Januária,Casa,0,1,1,1,1,4,1,1,0,0
-26/03/2020 18:07:23,Aluno,Porteirinha,Casa,0,1,2,0,1,3,1,0,0,2
-26/03/2020 18:07:33,Aluno,Porteirinha,Casa,0,1,0,1,1,3,1,0,0,0
-26/03/2020 18:08:49,Aluno,Porteirinha,Casa,0,2,0,0,0,2,2,0,0,0
-26/03/2020 18:11:33,Aluno,Montes Claros,Casa,0,2,2,0,0,4,2,0,0,0
-26/03/2020 18:12:00,Aluno,Araçuaí,Casa,0,1,1,1,0,3,1,0,0,1
-26/03/2020 18:12:02,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 18:12:06,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 18:12:52,Professor,Montes Claros,Casa,0,3,1,0,0,2,4,1,0,0
-26/03/2020 18:13:46,Tecnico administrativo,Montes Claros,Apartamento,0,1,0,0,0,1,1,0,0,0
-26/03/2020 18:14:23,Aluno,Porteirinha,Casa,0,1,2,0,2,3,1,1,0,0
-26/03/2020 18:14:42,Aluno,Porteirinha,Apartamento,0,1,0,0,0,1,1,0,0,0
-26/03/2020 18:14:47,Aluno,Montes Claros,Casa,1,2,2,0,0,2,2,0,1,0
-26/03/2020 18:16:23,Aluno,Montes Claros,Casa,0,1,1,0,0,2,1,0,0,1
-26/03/2020 18:16:32,Professor,Porteirinha,Casa,0,1,2,0,0,3,1,1,1,1
-26/03/2020 18:16:47,Aluno,Montes Claros,Casa,1,3,4,2,5,6,5,0,0,1
-26/03/2020 18:18:18,Aluno,Salinas,República,0,5,0,0,2,4,5,0,0,0
-26/03/2020 18:18:56,Aluno,Januária,Casa,6,3,2,1,0,3,1,2,1,1
-26/03/2020 18:19:19,Professor,Salinas,Apartamento,0,0,0,0,0,2,0,1,0,0
-26/03/2020 18:19:57,Aluno,Salinas,Apartamento,0,4,0,0,0,2,4,0,0,0
-26/03/2020 18:19:59,Professor,Januária,Casa,0,2,1,0,1,3,1,1,0,0
-26/03/2020 18:20:14,Aluno,Salinas,República,0,6,2,0,2,2,3,0,0,3
-26/03/2020 18:20:31,Professor,Montes Claros,Casa,1,2,0,0,1,9,0,1,0,0
-26/03/2020 18:21:59,Professor,Montes Claros,Casa,0,1,2,0,3,4,0,1,0,0
-26/03/2020 18:22:30,Aluno,Janaúba,Apartamento,0,2,0,0,0,2,1,0,1,0
-26/03/2020 18:23:32,Aluno,Montes Claros,Casa,0,5,0,1,2,3,4,0,0,0
-26/03/2020 18:23:45,Aluno,Januária,República,0,13,0,1,2,15,13,1,0,1
-26/03/2020 18:24:49,Aluno,Salinas,Apartamento,0,3,0,0,0,2,3,0,2,0
-26/03/2020 18:24:58,Aluno,Araçuaí,Casa,1,2,0,0,0,3,2,0,0,1
-26/03/2020 18:25:10,Aluno,Montes Claros,Casa,0,3,2,0,0,4,1,0,2,1
-26/03/2020 18:27:17,Aluno,Porteirinha,Casa,0,2,0,0,1,3,1,0,0,1
-26/03/2020 18:27:55,Aluno,Januária,Casa,2,4,2,0,0,3,1,0,3,0
-26/03/2020 18:28:57,Aluno,Salinas,Casa,0,1,1,1,1,2,2,1,0,0
-26/03/2020 18:29:32,Aluno,Salinas,Casa,2,2,0,0,0,3,1,1,1,0
-26/03/2020 18:30:16,Aluno,Porteirinha,Casa,0,0,0,0,0,3,2,0,1,1
-26/03/2020 18:30:34,Aluno,Porteirinha,Casa,1,4,1,1,0,5,2,0,2,0
-26/03/2020 18:30:58,Aluno,Januária,Casa,0,3,2,0,1,3,3,1,0,0
-26/03/2020 18:31:10,Aluno,Montes Claros,Casa,0,3,2,0,0,5,3,0,1,0
-26/03/2020 18:31:19,Aluno,Montes Claros,Casa,1,3,1,0,3,5,2,0,0,0
-26/03/2020 18:32:23,Aluno,Porteirinha,Apartamento,0,1,0,0,0,2,1,0,1,0
-26/03/2020 18:32:35,Aluno,Porteirinha,Casa,1,1,0,1,1,2,1,0,0,0
-26/03/2020 18:33:11,Professor,Montes Claros,Apartamento,0,2,0,2,2,3,1,1,0,0
-26/03/2020 18:33:33,Aluno,Montes Claros,Casa,0,3,2,0,2,3,4,0,0,3
-26/03/2020 18:37:00,Aluno,Januária,Casa,1,4,1,1,1,3,5,0,0,0
-26/03/2020 18:37:33,Aluno,Montes Claros,Casa,0,3,4,3,4,6,3,3,0,0
-26/03/2020 18:38:41,Aluno,Montes Claros,Casa,0,2,0,0,1,2,2,0,0,2
-26/03/2020 18:39:39,Aluno,Januária,Casa,0,3,1,1,0,3,3,0,0,1
-26/03/2020 18:39:43,Aluno,Montes Claros,Casa,2,2,2,1,1,2,6,0,0,1
-26/03/2020 18:40:59,Aluno,Araçuaí,Casa,0,2,0,0,0,1,0,0,1,1
-26/03/2020 18:41:41,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,3,0,0,1
-26/03/2020 18:43:26,Aluno,Porteirinha,Casa,0,3,2,0,0,3,3,0,0,1
-26/03/2020 18:47:53,Aluno,Porteirinha,Casa,0,3,2,0,0,4,3,0,1,2
-26/03/2020 18:48:29,Professor,Diamantina,Apartamento,0,2,0,0,0,2,0,2,0,0
-26/03/2020 18:48:56,Aluno,Montes Claros,Casa,0,2,2,0,4,2,3,0,1,0
-26/03/2020 18:48:57,Aluno,Porteirinha,República,0,6,0,0,0,5,4,0,1,4
-26/03/2020 18:49:04,Professor,Diamantina,Apartamento,0,2,2,0,2,3,2,1,0,0
-26/03/2020 18:49:05,Aluno,Januária,República,0,3,0,0,0,3,2,0,1,0
-26/03/2020 18:50:18,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,2,0,1
-26/03/2020 18:50:45,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 18:51:03,Professor,Montes Claros,Casa,0,2,0,0,1,3,1,1,0,0
-26/03/2020 18:51:59,Aluno,Porteirinha,Casa,2,3,0,0,1,2,4,0,0,2
-26/03/2020 18:52:50,Aluno,Montes Claros,Casa,1,2,1,0,1,5,1,0,1,1
-26/03/2020 18:53:08,Aluno,Januária,Casa,1,7,1,0,0,4,5,0,0,1
-26/03/2020 18:53:10,Tecnico administrativo,Diamantina,Apartamento,0,2,0,0,1,2,0,0,0,0
-26/03/2020 18:55:32,Aluno,Montes Claros,Casa,0,1,2,0,1,3,1,1,0,0
-26/03/2020 18:55:47,Aluno,Montes Claros,Casa,1,1,2,0,0,3,2,1,0,0
-26/03/2020 18:56:09,Aluno,Montes Claros,República,0,3,0,0,1,2,3,0,1,1
-26/03/2020 18:56:16,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,3,0,0,0
-26/03/2020 18:56:18,Aluno,Montes Claros,Casa,0,2,2,0,0,2,2,1,0,0
-26/03/2020 18:56:21,Aluno,Montes Claros,Casa,0,2,2,0,0,4,1,1,1,0
-26/03/2020 18:56:24,Aluno,Montes Claros,Casa,0,4,0,0,0,2,2,0,1,1
-26/03/2020 18:56:26,Aluno,Montes Claros,Casa,0,1,2,0,2,2,1,0,0,0
-26/03/2020 18:56:29,Aluno,Araçuaí,Casa,0,2,1,0,0,4,2,0,0,0
-26/03/2020 18:56:34,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,0,0
-26/03/2020 18:56:45,Aluno,Montes Claros,Casa,0,2,0,3,2,5,2,0,1,1
-26/03/2020 18:56:58,Aluno,Montes Claros,Apartamento,0,3,2,0,0,3,3,1,1,1
-26/03/2020 18:57:06,Aluno,Montes Claros,Casa,1,1,2,0,3,2,2,0,2,2
-26/03/2020 18:57:46,Aluno,Montes Claros,Casa,0,3,2,0,2,3,3,0,1,1
-26/03/2020 18:58:13,Aluno,Montes Claros,Casa,0,4,2,0,2,3,3,1,0,1
-26/03/2020 18:58:18,Aluno,Montes Claros,Casa,0,2,1,2,3,3,1,0,1,1
-26/03/2020 18:58:40,Aluno,Montes Claros,Casa,0,4,0,0,0,3,4,2,1,1
-26/03/2020 18:58:43,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,0,1,0
-26/03/2020 18:58:43,Aluno,Montes Claros,Apartamento,0,4,0,0,0,2,4,0,0,0
-26/03/2020 18:58:51,Aluno,Montes Claros,Apartamento,0,21,2,0,0,2,2,0,0,0
-26/03/2020 18:59:00,Aluno,Montes Claros,Casa,0,2,2,0,0,3,4,2,1,1
-26/03/2020 18:59:03,Aluno,Montes Claros,Casa,2,2,1,0,0,3,1,1,0,0
-26/03/2020 18:59:05,Aluno,Montes Claros,Casa,0,1,2,0,2,4,1,1,0,1
-26/03/2020 18:59:26,Aluno,Montes Claros,Casa,0,2,2,0,0,2,1,0,1,0
-26/03/2020 18:59:39,Aluno,Montes Claros,Casa,0,1,0,1,0,2,1,1,0,0
-26/03/2020 18:59:42,Aluno,Montes Claros,Casa,0,1,1,0,2,3,1,0,0,0
-26/03/2020 18:59:43,Aluno,Montes Claros,Apartamento,0,4,0,0,0,4,4,0,0,0
-26/03/2020 18:59:50,Aluno,Montes Claros,Casa,1,3,0,0,0,3,3,0,0,2
-26/03/2020 18:59:54,Aluno,Montes Claros,Casa,0,4,2,0,2,3,1,0,1,1
-26/03/2020 19:00:12,Aluno,Montes Claros,Apartamento,0,1,1,0,1,2,2,0,0,0
-26/03/2020 19:00:25,Aluno,Montes Claros,Casa,1,1,2,0,0,3,2,0,1,0
-26/03/2020 19:00:34,Aluno,Montes Claros,Casa,0,4,1,0,2,3,3,0,0,0
-26/03/2020 19:00:35,Tecnico administrativo,Diamantina,Apartamento,0,1,0,0,0,1,1,0,0,0
-26/03/2020 19:00:40,Aluno,Montes Claros,Casa,1,0,2,0,0,3,2,2,0,0
-26/03/2020 19:01:45,Aluno,Montes Claros,Casa,0,1,0,0,0,2,1,0,0,0
-26/03/2020 19:02:17,Aluno,Montes Claros,Casa,0,2,2,0,0,2,3,0,0,0
-26/03/2020 19:02:54,Aluno,Montes Claros,República,0,3,0,0,3,2,3,0,2,0
-26/03/2020 19:02:59,Aluno,Montes Claros,Casa,0,1,2,0,1,3,2,0,0,1
-26/03/2020 19:03:00,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,0,0,2
-26/03/2020 19:03:26,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,0,0
-26/03/2020 19:03:39,Aluno,Salinas,República,0,4,0,0,0,3,4,0,1,1
-26/03/2020 19:03:55,Aluno,Montes Claros,Casa,0,2,0,0,0,2,1,0,0,0
-26/03/2020 19:04:09,Aluno,Montes Claros,Casa,1,4,2,0,1,4,4,0,0,1
-26/03/2020 19:04:12,Aluno,Montes Claros,Casa,0,4,0,0,0,2,3,0,0,0
-26/03/2020 19:04:34,Aluno,Montes Claros,Apartamento,0,2,1,1,2,2,2,0,1,2
-26/03/2020 19:04:47,Aluno,Montes Claros,Casa,1,3,0,0,0,3,3,0,0,2
-26/03/2020 19:05:01,Aluno,Montes Claros,Casa,0,2,2,0,0,2,2,0,0,0
-26/03/2020 19:05:27,Aluno,Montes Claros,Apartamento,0,4,1,0,1,3,3,0,0,1
-26/03/2020 19:05:41,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 19:05:43,Aluno,Montes Claros,República,0,2,0,0,0,3,3,0,0,0
-26/03/2020 19:05:48,Aluno,Montes Claros,Casa,0,3,0,0,1,2,1,1,0,1
-26/03/2020 19:05:50,Aluno,Montes Claros,Casa,0,2,2,1,1,2,2,0,0,0
-26/03/2020 19:06:12,Aluno,Araçuaí,Casa,0,2,2,0,0,3,2,1,1,1
-26/03/2020 19:06:14,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:06:50,Aluno,Montes Claros,Casa,0,2,2,0,0,4,2,0,0,0
-26/03/2020 19:07:13,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 19:07:45,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,2,0
-26/03/2020 19:07:55,Aluno,Montes Claros,Casa,0,1,0,1,0,2,1,0,0,0
-26/03/2020 19:07:55,Aluno,Teófilo Otoni,Casa,0,5,0,0,0,3,3,0,0,1
-26/03/2020 19:08:13,Aluno,Montes Claros,Casa,0,3,1,1,3,4,2,1,1,2
-26/03/2020 19:08:23,Aluno,Montes Claros,Pensionato,0,7,0,0,1,7,7,0,0,0
-26/03/2020 19:09:02,Aluno,Montes Claros,Casa,0,4,1,0,0,3,4,0,1,2
-26/03/2020 19:09:02,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,1,1
-26/03/2020 19:09:39,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,1,1,0
-26/03/2020 19:10:13,Aluno,Montes Claros,Apartamento,0,2,0,0,0,3,2,0,0,0
-26/03/2020 19:10:23,Aluno,Montes Claros,Casa,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:10:25,Aluno,Montes Claros,Casa,1,1,0,2,2,3,2,0,2,2
-26/03/2020 19:11:50,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,0,1
-26/03/2020 19:12:15,Aluno,Montes Claros,Casa,0,3,2,0,2,4,2,1,3,0
-26/03/2020 19:12:31,Aluno,Montes Claros,Casa,0,3,1,0,0,3,3,0,0,0
-26/03/2020 19:12:36,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,1,2,1
-26/03/2020 19:12:50,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 19:12:58,Aluno,Montes Claros,Apartamento,0,0,0,0,1,2,0,0,0,0
-26/03/2020 19:13:38,Aluno,Montes Claros,Apartamento,0,2,0,0,0,1,2,0,0,0
-26/03/2020 19:14:12,Aluno,Montes Claros,"Apartamento, República",0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:15:35,Aluno,Montes Claros,Apartamento,0,3,0,0,2,2,2,0,0,1
-26/03/2020 19:16:25,Aluno,Montes Claros,Casa,0,3,2,0,1,3,3,1,0,1
-26/03/2020 19:16:50,Aluno,Montes Claros,Apartamento,0,2,0,0,1,2,2,0,0,0
-26/03/2020 19:17:02,Aluno,Januária,Apartamento,0,2,0,0,0,2,1,0,1,0
-26/03/2020 19:17:55,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,1,0,0
-26/03/2020 19:18:23,Aluno,Montes Claros,Casa,0,3,2,0,0,3,2,0,0,2
-26/03/2020 19:18:43,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 19:19:06,Aluno,Montes Claros,Casa,0,4,2,0,3,4,2,0,2,1
-26/03/2020 19:19:17,Professor,Diamantina,Apartamento,0,3,0,0,1,2,0,2,0,1
-26/03/2020 19:19:18,Aluno,Montes Claros,Casa,0,3,2,0,1,5,3,0,0,1
-26/03/2020 19:19:47,Aluno,Montes Claros,Casa,0,3,2,1,3,5,3,0,0,1
-26/03/2020 19:21:10,Professor,Montes Claros,Apartamento,2,0,2,0,2,3,2,1,0,0
-26/03/2020 19:22:10,Professor,Diamantina,Casa,2,2,0,0,0,3,2,1,1,0
-26/03/2020 19:22:36,Aluno,Januária,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 19:22:55,Aluno,Januária,Casa,3,4,0,0,0,3,2,0,1,0
-26/03/2020 19:23:57,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:24:11,Aluno,Montes Claros,Casa,1,3,2,0,0,2,3,1,0,2
-26/03/2020 19:24:16,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:24:21,Aluno,Montes Claros,Apartamento,0,3,2,0,0,3,3,1,0,2
-26/03/2020 19:24:46,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,0,0
-26/03/2020 19:25:48,Aluno,Montes Claros,Casa,0,3,2,0,1,4,2,0,0,1
-26/03/2020 19:27:45,Tecnico administrativo,Diamantina,Casa,0,1,2,0,0,2,1,1,10,0
-26/03/2020 19:27:58,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,2,1
-26/03/2020 19:29:22,Aluno,Montes Claros,Apartamento,0,1,0,0,0,1,1,0,0,0
-26/03/2020 19:29:49,Aluno,Montes Claros,Casa,0,1,0,2,0,2,1,0,0,1
-26/03/2020 19:29:50,Aluno,Montes Claros,Casa,0,2,1,0,0,3,3,0,2,0
-26/03/2020 19:29:58,Aluno,Montes Claros,"Casa, Pensionato",0,2,0,0,0,3,1,0,1,0
-26/03/2020 19:30:01,Aluno,Montes Claros,Casa,0,2,2,0,1,5,3,1,0,0
-26/03/2020 19:30:22,Aluno,Montes Claros,Casa,1,2,1,0,1,3,2,0,0,1
-26/03/2020 19:30:24,Aluno,Montes Claros,Casa,1,3,0,0,1,3,1,0,0,0
-26/03/2020 19:30:32,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,2,0,0,1
-26/03/2020 19:30:51,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,1,0
-26/03/2020 19:30:52,Aluno,Montes Claros,Casa,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:31:38,Tecnico administrativo,Diamantina,Casa,0,0,0,0,0,3,1,0,0,0
-26/03/2020 19:31:49,Aluno,Montes Claros,Casa,1,1,2,0,1,1,2,0,0,2
-26/03/2020 19:33:06,Aluno,Montes Claros,Casa,0,3,2,0,0,4,1,0,0,3
-26/03/2020 19:34:05,Aluno,Montes Claros,Casa,0,1,0,2,1,2,1,0,0,0
-26/03/2020 19:34:12,Aluno,Montes Claros,Casa,0,3,1,0,1,4,2,0,0,3
-26/03/2020 19:34:32,Aluno,Porteirinha,Casa,0,2,2,0,1,4,2,1,0,1
-26/03/2020 19:34:51,Aluno,Montes Claros,Casa,0,2,1,0,1,2,2,0,0,1
-26/03/2020 19:34:51,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,1,1,1
-26/03/2020 19:35:08,Aluno,Montes Claros,Casa,1,2,1,0,0,4,2,1,0,0
-26/03/2020 19:37:04,Professor,Montes Claros,Casa,0,2,2,0,1,4,2,1,0,1
-26/03/2020 19:37:06,Aluno,Montes Claros,Casa,0,1,2,0,0,3,1,0,0,1
-26/03/2020 19:37:47,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 19:37:55,Aluno,Montes Claros,Casa,0,1,1,0,0,3,1,0,0,0
-26/03/2020 19:38:48,Aluno,Porteirinha,Casa,0,1,2,0,1,2,2,0,1,0
-26/03/2020 19:40:30,Aluno,Montes Claros,Casa,0,2,2,0,2,2,2,0,2,0
-26/03/2020 19:40:38,Aluno,Montes Claros,Apartamento,0,3,0,0,0,2,1,0,0,0
-26/03/2020 19:40:51,Aluno,Montes Claros,Casa,0,1,2,0,1,2,1,0,0,0
-26/03/2020 19:41:23,Tecnico administrativo,Diamantina,Apartamento,0,1,1,0,0,2,2,0,0,0
-26/03/2020 19:41:28,Aluno,Montes Claros,Casa,1,1,2,0,0,2,2,0,0,0
-26/03/2020 19:41:47,Aluno,Montes Claros,Apartamento,0,4,0,0,0,2,4,0,0,1
-26/03/2020 19:42:33,Professor,Diamantina,República,0,5,0,0,0,5,5,1,0,0
-26/03/2020 19:42:56,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,1,0
-26/03/2020 19:43:02,Aluno,Montes Claros,Casa,5,3,2,0,2,4,2,0,2,0
-26/03/2020 19:43:05,Aluno,Montes Claros,Apartamento,0,3,0,0,2,3,3,0,0,0
-26/03/2020 19:43:15,Aluno,Montes Claros,Casa,0,2,0,0,1,3,1,1,0,0
-26/03/2020 19:43:24,Aluno,Januária,Casa,0,2,0,0,0,3,2,0,0,1
-26/03/2020 19:43:34,Aluno,Montes Claros,Casa,1,2,2,0,0,2,2,0,0,1
-26/03/2020 19:44:11,Aluno,Montes Claros,Casa,0,2,2,0,1,4,2,1,0,1
-26/03/2020 19:44:40,Aluno,Montes Claros,Casa,0,2,2,0,0,2,1,0,3,0
-26/03/2020 19:44:44,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:45:05,Aluno,Montes Claros,Casa,0,2,0,0,1,3,2,0,0,0
-26/03/2020 19:46:59,Aluno,Montes Claros,Casa,1,3,0,2,2,3,2,0,1,1
-26/03/2020 19:47:07,Aluno,Montes Claros,Casa,3,6,0,3,3,4,5,1,1,2
-26/03/2020 19:47:15,Aluno,Montes Claros,Casa,0,1,2,0,1,2,1,0,1,0
-26/03/2020 19:48:34,Aluno,Montes Claros,Apartamento,0,0,0,0,1,2,2,0,0,0
-26/03/2020 19:48:48,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 19:49:16,Aluno,Montes Claros,Casa,1,2,2,2,3,4,3,0,1,1
-26/03/2020 19:49:23,Aluno,Montes Claros,Casa,6,1,1,2,1,4,2,0,0,0
-26/03/2020 19:49:41,Aluno,Montes Claros,Casa,0,2,0,1,0,3,1,0,0,2
-26/03/2020 19:49:46,Aluno,Montes Claros,Apartamento,1,3,0,0,0,2,1,0,1,0
-26/03/2020 19:50:26,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 19:50:48,Aluno,Montes Claros,Casa,0,3,2,0,1,3,3,0,0,1
-26/03/2020 19:51:16,Aluno,Montes Claros,Casa,1,2,2,0,1,2,3,0,1,1
-26/03/2020 19:51:44,Aluno,Montes Claros,Casa,0,1,1,0,0,3,1,0,1,0
-26/03/2020 19:52:41,Aluno,Montes Claros,Casa,2,3,1,0,0,3,4,0,0,1
-26/03/2020 19:52:55,Aluno,Januária,Apartamento,0,3,0,0,0,2,3,0,0,0
-26/03/2020 19:55:12,Aluno,Porteirinha,Casa,0,0,0,1,1,3,1,0,0,0
-26/03/2020 19:57:32,Aluno,Porteirinha,Casa,0,2,1,0,1,3,1,1,0,0
-26/03/2020 19:57:51,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,1,0
-26/03/2020 19:57:53,Aluno,Montes Claros,Casa,0,3,2,0,0,4,3,2,0,0
-26/03/2020 19:58:18,Professor,Diamantina,Casa,0,0,0,1,1,2,0,1,0,0
-26/03/2020 19:58:48,Aluno,Montes Claros,Casa,0,3,1,0,0,3,2,0,0,0
-26/03/2020 19:59:31,Aluno,Montes Claros,Casa,1,1,2,0,1,3,3,1,0,0
-26/03/2020 19:59:43,Aluno,Januária,Casa,0,4,0,0,3,2,1,0,1,0
-26/03/2020 19:59:52,Aluno,Porteirinha,Sítio,0,3,1,0,0,2,3,0,0,1
-26/03/2020 20:01:22,Tecnico administrativo,Diamantina,Apartamento,2,1,0,0,0,2,0,0,0,0
-26/03/2020 20:03:56,Professor,Diamantina,Casa,0,2,2,0,1,5,2,1,0,1
-26/03/2020 20:05:21,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,0,1,1
-26/03/2020 20:06:48,Aluno,Montes Claros,Casa,0,1,1,0,0,3,1,0,0,1
-26/03/2020 20:07:25,Aluno,Montes Claros,Casa,0,3,2,0,1,4,3,0,2,0
-26/03/2020 20:07:44,Aluno,Montes Claros,Casa,0,2,1,1,2,3,2,1,1,0
-26/03/2020 20:08:45,Aluno,Montes Claros,Apartamento,0,1,0,0,0,2,1,0,0,0
-26/03/2020 20:08:54,Aluno,Montes Claros,Apartamento,0,2,0,0,1,2,2,0,0,0
-26/03/2020 20:09:58,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,0,0,0
-26/03/2020 20:11:17,Tecnico administrativo,Diamantina,Casa,1,3,0,0,0,2,1,0,0,0
-26/03/2020 20:13:46,Aluno,Porteirinha,Casa,2,3,0,0,1,2,4,0,0,1
-26/03/2020 20:14:42,Aluno,Montes Claros,Casa,3,1,2,0,0,3,1,0,1,0
-26/03/2020 20:15:38,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,1,0
-26/03/2020 20:17:42,Aluno,Porteirinha,Casa,1,2,0,0,0,2,2,0,0,0
-26/03/2020 20:18:24,Aluno,Januária,Alojamento,0,8,0,0,0,1,8,0,0,0
-26/03/2020 20:19:26,Professor,Diamantina,Casa,1,2,0,0,0,3,1,1,0,1
-26/03/2020 20:20:00,Aluno,Montes Claros,Casa,0,1,1,1,2,3,2,2,1,0
-26/03/2020 20:21:00,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 20:21:58,Professor,Diamantina,Apartamento,0,0,0,0,0,2,0,1,0,0
-26/03/2020 20:22:30,Aluno,Montes Claros,Apartamento,0,2,0,0,2,2,2,0,0,1
-26/03/2020 20:23:36,Aluno,Montes Claros,Casa,0,4,2,1,2,6,3,1,0,0
-26/03/2020 20:26:01,Aluno,Porteirinha,Casa,0,2,0,0,0,2,1,0,0,0
-26/03/2020 20:26:54,Aluno,Januária,Alojamento,0,10,0,0,0,1,10,0,0,0
-26/03/2020 20:27:44,Aluno,Montes Claros,Casa,0,3,0,0,0,3,3,0,0,0
-26/03/2020 20:28:44,Aluno,Montes Claros,Casa,0,2,2,0,1,2,2,0,0,2
-26/03/2020 20:34:02,Aluno,Montes Claros,Casa,0,2,1,1,2,3,2,0,1,2
-26/03/2020 20:41:27,Aluno,Montes Claros,Apartamento,0,2,4,0,6,3,2,3,0,1
-26/03/2020 20:43:46,Aluno,Montes Claros,Apartamento,0,2,4,0,6,3,2,3,0,1
-26/03/2020 20:45:02,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-26/03/2020 20:46:12,Aluno,Montes Claros,Apartamento,0,0,0,0,0,2,1,0,0,0
-26/03/2020 20:47:52,Aluno,Januária,Casa,1,4,2,0,0,4,2,1,1,1
-26/03/2020 20:48:18,Aluno,Montes Claros,Apartamento,0,1,1,1,2,3,1,0,0,1
-26/03/2020 20:49:50,Aluno,Montes Claros,Casa,0,2,2,0,2,4,1,0,0,2
-26/03/2020 20:49:53,Aluno,Montes Claros,Apartamento,0,2,2,0,0,3,2,1,0,1
-26/03/2020 20:50:41,Aluno,Montes Claros,Casa,1,2,0,0,0,8,1,2,0,0
-26/03/2020 20:52:34,Aluno,Montes Claros,Casa,1,1,2,0,2,2,1,0,1,0
-26/03/2020 20:52:44,Aluno,Montes Claros,Casa,0,3,1,0,1,3,2,0,1,0
-26/03/2020 20:53:42,Aluno,Porteirinha,Casa,4,2,2,0,1,3,2,0,0,2
-26/03/2020 20:54:04,Aluno,Montes Claros,Casa,0,1,1,1,3,5,1,0,1,0
-26/03/2020 20:57:33,Aluno,Montes Claros,Apartamento,0,2,0,0,1,2,2,0,0,1
-26/03/2020 21:01:47,Tecnico administrativo,Montes Claros,Apartamento,0,0,1,0,1,1,0,0,1,0
-26/03/2020 21:03:42,Aluno,Montes Claros,Casa,0,1,2,0,0,2,1,1,0,0
-26/03/2020 21:04:12,Aluno,Montes Claros,Casa,0,2,1,1,3,3,2,2,1,1
-26/03/2020 21:06:52,Aluno,Porteirinha,Casa,0,2,2,0,1,3,1,0,0,2
-26/03/2020 21:07:34,Aluno,Montes Claros,Casa,0,1,1,0,1,4,1,0,0,1
-26/03/2020 21:08:34,Aluno,Januária,Casa,0,3,0,1,0,6,1,0,2,0
-26/03/2020 21:08:52,Aluno,Januária,Pensionato,0,16,2,0,0,14,16,0,8,0
-26/03/2020 21:09:34,Aluno,Montes Claros,Apartamento,2,0,1,1,1,4,2,0,1,1
-26/03/2020 21:10:06,Professor,Diamantina,Apartamento,0,2,1,0,0,3,2,1,0,0
-26/03/2020 21:11:29,Aluno,Montes Claros,Casa,1,2,0,0,0,2,1,0,0,0
-26/03/2020 21:13:48,Aluno,Araçuaí,Casa,0,1,2,0,1,3,1,0,0,0
-26/03/2020 21:14:04,Aluno,Araçuaí,Fazenda,0,2,2,1,0,3,2,0,2,0
-26/03/2020 21:14:35,Aluno,Araçuaí,Casa,0,2,1,0,2,4,2,0,0,1
-26/03/2020 21:15:02,Professor,Diamantina,Casa,2,2,0,0,2,4,2,1,1,0
-26/03/2020 21:17:56,Aluno,Araçuaí,Casa,0,2,2,0,0,3,1,0,0,1
-26/03/2020 21:18:44,Aluno,Montes Claros,Casa,0,2,1,0,0,2,3,0,1,1
-26/03/2020 21:18:55,Aluno,Januária,República,0,6,0,0,1,3,6,0,0,0
-26/03/2020 21:21:33,Aluno,Araçuaí,Apartamento,0,3,0,0,1,2,3,0,2,1
-26/03/2020 21:21:46,Aluno,Araçuaí,Casa,0,2,1,1,3,3,2,0,0,1
-26/03/2020 21:25:45,Aluno,Januária,República,0,5,0,0,0,4,4,0,2,0
-26/03/2020 21:25:49,Professor,Montes Claros,Casa,0,1,2,0,3,4,0,1,0,0
-26/03/2020 21:28:15,Aluno,Montes Claros,Casa,0,2,2,0,1,3,2,1,0,1
-26/03/2020 21:35:35,Aluno,Montes Claros,Casa,0,4,0,0,0,2,3,0,2,0
-26/03/2020 21:36:24,Aluno,Januária,Casa,1,4,3,1,1,2,3,0,1,1
-26/03/2020 21:40:19,Aluno,Januária,Casa,1,3,1,0,0,8,3,2,0,1
-26/03/2020 21:42:25,Aluno,Porteirinha,Casa,0,2,1,0,1,3,1,0,0,1
-26/03/2020 21:42:30,Tecnico administrativo,Diamantina,Apartamento,0,2,0,0,0,2,0,0,0,0
-26/03/2020 21:42:37,Aluno,Januária,Casa,0,5,2,2,3,4,5,1,0,1
-26/03/2020 21:42:53,Tecnico administrativo,Diamantina,Casa,1,2,0,0,1,3,1,0,0,0
-26/03/2020 21:43:00,Aluno,Montes Claros,Apartamento,0,2,0,0,0,2,2,0,0,0
-26/03/2020 21:45:18,Aluno,Montes Claros,Casa,0,3,0,0,0,2,3,0,1,0
-26/03/2020 21:49:13,Aluno,Araçuaí,Casa,3,3,1,0,1,2,2,0,1,0
-26/03/2020 21:51:47,Aluno,Montes Claros,Casa,3,3,1,2,3,4,4,0,0,3
-26/03/2020 21:56:10,Aluno,Montes Claros,Casa,1,3,1,0,0,3,3,1,1,0
-26/03/2020 21:57:30,Aluno,Porteirinha,Casa,2,2,0,0,0,2,2,1,0,1
-26/03/2020 21:59:26,Professor,Diamantina,Casa,0,0,1,0,0,3,1,1,0,0
-26/03/2020 22:09:53,Aluno,Porteirinha,Casa,0,2,2,0,3,2,1,0,0,0
-26/03/2020 22:14:23,Aluno,Montes Claros,Casa,1,2,0,0,2,3,1,0,2,0
-26/03/2020 22:15:44,Nenhum,Salinas,Casa,3,2,0,0,0,2,4,0,1,2
-26/03/2020 22:18:35,Aluno,Montes Claros,"Apartamento, Casa",0,1,1,1,2,2,1,0,0,2
-26/03/2020 22:22:16,Aluno,Januária,Casa,0,5,0,0,0,4,2,1,1,0
-26/03/2020 22:28:21,Aluno,Montes Claros,República,0,4,0,0,3,4,4,3,0,2
-26/03/2020 22:29:20,Aluno,Porteirinha,Casa,0,2,2,0,1,4,1,0,0,1
-26/03/2020 22:31:45,Aluno,Montes Claros,Casa,2,5,1,0,2,3,2,0,3,1
-26/03/2020 22:31:49,Aluno,Januária,Casa,0,2,2,0,2,2,2,0,0,2
-26/03/2020 22:35:44,Aluno,Montes Claros,Casa,0,2,0,0,1,3,1,0,0,1
-26/03/2020 22:36:16,Aluno,Porteirinha,Casa,0,1,0,1,0,3,1,0,0,0
-26/03/2020 22:36:25,Professor,Diamantina,Casa,0,4,0,0,3,4,2,1,0,0
-26/03/2020 22:37:02,Professor,Diamantina,Casa,1,0,2,0,1,4,1,2,0,1
-26/03/2020 22:43:51,Aluno,Montes Claros,Casa,1,4,2,1,1,4,3,0,2,2
-26/03/2020 22:46:25,Aluno,Januária,República,0,12,0,0,0,8,12,1,0,0
-26/03/2020 22:54:04,Aluno,Januária,República,0,4,0,0,1,2,4,0,0,0
-26/03/2020 22:57:22,Aluno,Montes Claros,Casa,1,2,2,0,1,4,3,0,0,3
-26/03/2020 23:02:31,Aluno,Montes Claros,Casa,0,3,1,1,3,4,2,1,1,1
-26/03/2020 23:34:44,Aluno,Januária,Casa,1,4,0,2,2,4,2,0,3,0
-26/03/2020 23:46:46,Aluno,Porteirinha,Casa,0,2,1,1,0,2,2,0,0,1
-26/03/2020 23:56:04,Aluno,Montes Claros,Apartamento,0,3,1,0,1,3,2,0,2,0
-27/03/2020 00:19:22,Aluno,Januária,Pensionato,0,15,1,2,0,20,15,0,0,0
-27/03/2020 00:53:50,Aluno,Januária,República,3,3,0,0,0,2,2,0,0,0
-27/03/2020 00:54:59,Aluno,Montes Claros,Casa,0,4,0,0,1,3,2,0,0,0
-27/03/2020 01:25:16,Aluno,Januária,Casa,1,3,1,0,1,3,3,0,1,1
-27/03/2020 01:33:01,Aluno,Januária,Casa,0,2,1,0,0,5,2,0,0,1
-27/03/2020 01:33:52,Aluno,Januária,Casa,0,2,1,0,0,2,2,1,1,0
-27/03/2020 01:37:15,Aluno,Januária,Pensionato,0,11,0,0,0,9,11,1,0,0
-27/03/2020 02:16:53,Aluno,Montes Claros,Casa,0,3,1,0,0,3,2,1,0,1
-27/03/2020 02:35:27,Aluno,Januária,Casa,0,3,2,0,0,4,1,1,0,0
-27/03/2020 07:04:25,Aluno,Januária,Casa,3,1,0,0,0,1,3,0,0,0
-27/03/2020 07:15:16,Aluno,Januária,República,0,4,0,0,1,5,4,0,0,0
-27/03/2020 07:45:05,Aluno,Januária,Apartamento,0,2,0,0,0,1,2,0,0,0
-27/03/2020 07:46:16,Aluno,Januária,Apartamento,0,2,0,0,0,2,2,0,0,0
-27/03/2020 07:46:28,Aluno,Januária,Apartamento,0,1,0,0,0,1,1,0,0,0
-27/03/2020 08:18:13,Aluno,Montes Claros,Casa,0,3,1,1,0,4,3,0,0,1
-27/03/2020 08:25:26,Aluno,Januária,Casa,0,3,2,0,2,2,1,0,0,1
-27/03/2020 08:47:24,Aluno,Montes Claros,República,0,4,0,0,2,4,3,0,0,1
-27/03/2020 08:51:10,Aluno,Januária,Casa,4,4,1,1,1,4,6,0,0,3
-27/03/2020 08:54:51,Professor,Januária,Casa,0,2,2,0,1,3,2,1,0,1
-27/03/2020 09:08:39,Tecnico administrativo,Diamantina,Apartamento,0,1,1,0,2,3,0,1,0,0
-27/03/2020 09:14:41,Aluno,Montes Claros,Apartamento,0,4,0,0,0,2,4,0,0,0
-27/03/2020 09:15:23,Professor,Diamantina,Casa,1,0,2,0,0,3,1,1,0,1
-27/03/2020 09:15:49,Professor,Diamantina,Sítio,2,4,1,0,0,3,3,2,0,0
-27/03/2020 09:24:02,Aluno,Januária,Pensionato,0,20,0,0,0,20,20,0,5,0
-27/03/2020 09:25:57,Professor,Diamantina,Casa,0,2,0,0,0,4,1,1,0,0
-27/03/2020 09:29:39,Tecnico administrativo,Diamantina,Apartamento,0,2,0,0,0,3,1,0,0,0
-27/03/2020 09:35:53,Aluno,Porteirinha,Casa,1,1,2,0,0,3,2,3,1,1
-27/03/2020 09:37:36,Professor,Januária,Casa,1,1,1,0,0,5,0,1,0,1
-27/03/2020 09:45:00,Aluno,Januária,Casa,0,0,0,0,0,2,2,0,0,0
-27/03/2020 09:47:48,Aluno,Porteirinha,Apartamento,1,1,2,0,0,3,2,0,0,1
-27/03/2020 09:55:51,Aluno,Porteirinha,Casa,1,2,1,2,2,4,4,0,1,0
-27/03/2020 09:58:43,Aluno,Porteirinha,Casa,1,2,1,2,2,4,4,0,1,0
-27/03/2020 10:00:32,Aluno,Montes Claros,Casa,0,3,1,1,2,3,2,1,1,0
-27/03/2020 10:07:14,Tecnico administrativo,Diamantina,Apartamento,0,1,1,0,0,2,1,0,0,0
-27/03/2020 10:18:34,Aluno,Teófilo Otoni,Apartamento,0,3,0,0,0,4,1,0,2,0
-27/03/2020 10:22:06,Aluno,Januária,Casa,0,1,1,0,0,2,1,0,0,0
-27/03/2020 10:22:26,Aluno,Januária,Casa,0,3,1,0,0,2,2,0,1,1
-27/03/2020 10:24:42,Aluno,Januária,Apartamento,0,2,0,0,0,3,1,0,0,0
-27/03/2020 10:41:58,Aluno,Araçuaí,Casa,1,3,1,2,4,4,2,0,1,1
-27/03/2020 10:49:15,Aluno,Araçuaí,Casa,1,1,2,0,0,2,1,0,0,1
-27/03/2020 10:52:57,Aluno,Januária,Casa,1,4,1,0,0,2,4,0,1,0
-27/03/2020 10:56:04,Aluno,Porteirinha,Casa,0,0,1,0,1,2,1,0,0,1
-27/03/2020 10:56:29,Aluno,Montes Claros,Apartamento,0,3,1,0,3,2,3,0,1,1
-27/03/2020 10:57:47,Aluno,Januária,Apartamento,0,1,0,0,0,2,1,0,0,0
-27/03/2020 10:58:58,Aluno,Januária,República,0,4,0,0,0,3,4,0,0,0
-27/03/2020 11:08:50,Aluno,Januária,Casa,8,4,1,0,0,2,4,0,1,0
-27/03/2020 11:50:43,Aluno,Januária,Casa,4,2,0,0,0,3,1,1,0,0
-27/03/2020 11:55:51,Aluno,Januária,Casa,0,2,2,1,1,3,2,1,0,2
-27/03/2020 12:08:18,Aluno,Araçuaí,Casa,2,2,0,0,0,2,2,0,1,0
-27/03/2020 12:31:13,Aluno,Montes Claros,Casa,0,2,0,0,0,1,2,0,0,0
-27/03/2020 12:09:57,Aluno,Januária,Casa,0,1,2,0,0,3,1,0,1,0
-27/03/2020 12:37:08,Aluno,Araçuaí,Casa,0,3,2,0,1,3,2,0,0,1
-27/03/2020 12:36:26,Aluno,Januária,Casa,1,3,0,0,0,4,2,2,0,0
-27/03/2020 12:54:10,Aluno,Januária,Casa,0,2,0,0,1,2,1,0,0,0
-27/03/2020 12:41:40,Aluno,Januária,Casa,0,1,0,1,1,2,1,0,0,1
-27/03/2020 13:15:26,Aluno,Januária,Casa,0,2,0,0,1,3,1,0,0,2
-27/03/2020 13:26:42,Aluno,Januária,Alojamento,0,1,0,0,0,1,1,0,1,1
-27/03/2020 13:56:21,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,0,1
-27/03/2020 14:10:50,Aluno,Januária,Apartamento,0,1,1,2,1,4,2,1,1,1
-27/03/2020 14:22:59,Aluno,Januária,Casa,0,2,0,1,1,2,2,0,0,1
-27/03/2020 14:34:22,Aluno,Januária,Casa,0,4,1,3,1,5,2,0,0,0
-27/03/2020 14:53:48,Aluno,Januária,República,0,3,0,0,0,3,3,0,0,0
-27/03/2020 14:56:05,Aluno,Januária,Casa,0,5,1,1,0,3,3,0,3,2
-27/03/2020 15:00:22,Aluno,Montes Claros,Casa,0,3,2,0,2,3,3,2,0,0
-27/03/2020 15:02:20,Aluno,Januária,Casa,0,1,1,0,1,3,1,0,0,0
-27/03/2020 16:13:34,Professor,Januária,Casa,1,1,1,0,0,3,1,1,0,0
-27/03/2020 18:31:11,Aluno,Januária,Casa,0,2,0,0,0,4,2,0,0,1
-27/03/2020 18:41:28,Aluno,Montes Claros,Casa,0,1,2,0,2,2,1,0,0,1
-27/03/2020 19:43:29,Aluno,Montes Claros,Apartamento,0,1,1,0,1,2,1,1,0,0
-27/03/2020 19:58:22,Aluno,Montes Claros,Apartamento,0,3,0,0,0,3,3,0,0,0
-27/03/2020 20:02:57,Aluno,Montes Claros,Casa,0,2,0,2,1,4,1,0,1,0
-27/03/2020 20:05:27,Aluno,Montes Claros,Casa,0,3,1,1,0,4,3,1,1,1
-27/03/2020 20:40:24,Aluno,Salinas,Casa,0,3,0,0,0,2,2,0,0,1
-27/03/2020 21:35:52,Aluno,Teófilo Otoni,Casa,0,3,1,0,0,2,3,0,1,0
-27/03/2020 21:36:37,Aluno,Montes Claros,Casa,0,1,2,0,2,2,1,0,0,0
-27/03/2020 23:29:28,Aluno,Januária,Casa,0,1,0,0,1,2,2,0,0,1
-28/03/2020 03:16:03,Professor,Januária,Casa,0,2,0,2,1,4,1,1,0,0
-28/03/2020 10:11:55,Aluno,Montes Claros,Pensionato,0,7,0,0,1,7,7,0,0,0
-28/03/2020 12:11:56,Aluno,Januária,Pensionato,0,18,2,3,3,25,19,0,3,1
-28/03/2020 12:14:21,Aluno,Januária,Casa,0,3,1,0,0,3,2,0,0,0
-28/03/2020 14:03:16,Aluno,Januária,Casa,0,3,2,0,0,4,3,1,1,0
-28/03/2020 15:32:30,Aluno,Januária,Casa,0,2,2,0,1,3,2,0,1,1
-28/03/2020 16:10:41,Aluno,Montes Claros,Apartamento,0,0,0,0,0,1,1,0,0,0
-28/03/2020 16:55:23,Aluno,Montes Claros,Casa,0,1,1,0,1,2,2,0,0,1
-28/03/2020 17:37:59,Nenhum,Januária,Casa,0,2,2,0,3,3,1,0,1,2
-28/03/2020 18:51:29,Aluno,Montes Claros,Casa,1,2,1,0,2,2,2,1,0,1
-28/03/2020 19:38:40,Aluno,Januária,República,0,3,0,0,0,2,3,0,0,0
-28/03/2020 19:39:14,Aluno,Montes Claros,Casa,0,0,2,0,1,3,2,1,1,0
-28/03/2020 20:33:01,Aluno,Montes Claros,Casa,0,2,2,0,0,3,2,0,0,2
-28/03/2020 20:55:49,Aluno,Januária,Casa,0,3,1,0,0,2,2,0,0,0
+"","DATA_RESPOSTA","EMAIL","VINCULO","CAMPUS","TIPO_DOMICILIO","IDADE_0_9","IDADE_10_39","IDADE_40_59","IDADE_MAIS_59","DOENCA_CRONICA","QUARTOS_DOMICILIO","ESTUDANTES","PROFESSORES","SERVICOS_ESSENCIAIS","INFORMAIS_AUTONOMOS"
+"1","26/03/2020 00:45:12","52f2c7178ab4745e5acdbc35ff801d9e","Professor","Januária","Casa",1,2,0,0,0,3,0,2,0,1
+"2","26/03/2020 01:21:16","2894c6e6f40a20d7b5d2c52c0e955686","Aluno","Januária","Apartamento",0,1,0,0,0,2,1,0,0,0
+"3","26/03/2020 01:24:41","a47ddcc5335d16c6cfaf8b3d8b47ae1e","Aluno","Januária","Casa",3,2,1,0,1,3,2,0,0,0
+"4","26/03/2020 01:27:01","3ae2382f971ceaec3e366ad191f750ef","Professor","Januária","Casa",0,2,2,0,2,4,2,2,0,0
+"5","26/03/2020 02:04:27","c49fa21114dff41c5da61ec548890c38","Aluno","Januária","Casa",0,4,0,0,0,3,3,1,0,1
+"6","26/03/2020 02:42:10","b8961a56730f37fcc3d4fd409b3e56de","Professor","Januária","Casa",0,2,2,0,0,4,2,1,0,1
+"7","26/03/2020 02:51:23","b4c11d782f70e1a06ec946a68d14cc35","Aluno","Januária","Casa",0,2,1,0,0,3,2,0,0,0
+"8","26/03/2020 06:05:56","d66548697da8f626f605d0858cc52901","Tecnico administrativo","Januária","Casa",0,2,2,0,2,2,3,1,0,0
+"9","26/03/2020 07:03:08","bb49d9e6cd8ac1f510e352692288f85d","Aluno","Januária","Casa",1,4,0,0,0,2,4,0,0,1
+"12","26/03/2020 07:27:08","43c5d1a3957d0bc3ab8ec3daa1c94a37","Aluno","Januária","Casa",0,2,0,0,0,2,2,0,0,0
+"13","26/03/2020 07:46:50","94d954c403bbc7d7b7bb1d29e539940a","Aluno","Januária","Casa",0,3,2,0,0,3,3,0,0,2
+"14","26/03/2020 08:04:45","db1bd46aac43043752f047ec66e50b34","Aluno","Januária","República",0,6,0,0,2,3,3,0,1,2
+"17","26/03/2020 08:35:32","dc91fdcb2bcadbdc7fccfab5345e65e8","Tecnico administrativo","Januária","Casa",2,3,0,0,0,3,4,0,0,0
+"18","26/03/2020 08:52:20","5684d7a799e157a3a74bd816bc37fc22","Aluno","Januária","República",3,0,0,0,1,3,3,0,0,1
+"21","26/03/2020 09:28:47","d1ad9ff30cb807d4bbb1fe1bc39c95d3","Professor","Januária","Casa",2,2,0,0,0,4,2,1,1,0
+"22","26/03/2020 09:29:45","7f07e557bdc1e4c1171170f78e8915c7","Aluno","Januária","Casa",0,4,2,0,6,3,3,1,0,0
+"23","26/03/2020 09:33:08","a4c0f594980f8fd1f855f81e62866621","Aluno","Januária","Casa",0,4,0,0,1,3,3,0,0,0
+"24","26/03/2020 09:35:03","6f45c232b64b04093ed21fb4daa560fb","Professor","Januária","Casa",1,2,0,0,0,3,0,2,0,0
+"26","26/03/2020 09:37:40","e21ec2bd5539c18b190d22eb20099756","Aluno","Januária","Casa",0,4,0,0,0,2,2,0,0,1
+"30","26/03/2020 09:40:21","bc3604056a4853bdb7d500747c74ddf4","Aluno","Januária","Casa",0,2,2,1,3,4,2,0,0,1
+"31","26/03/2020 09:40:27","98d827fd7b7b62decbbab1071c3a99f3","Aluno","Januária","Casa",5,3,1,0,1,4,3,0,2,0
+"32","26/03/2020 09:43:04","9d169f9d6deda074bc973f1c49dd6221","Aluno","Januária","Casa",0,4,2,0,0,3,1,0,0,2
+"34","26/03/2020 09:44:42","73e78531d1ead0c7746c75007ec07583","Professor","Januária","Casa",0,2,0,0,1,2,2,1,1,0
+"35","26/03/2020 09:46:07","ea0b2c137b945123367eb1da6999263a","Professor","Teófilo Otoni","Casa",0,2,0,2,0,3,1,1,0,0
+"36","26/03/2020 09:46:49","6fa8afc6437a435a5414940b18abd889","Aluno","Januária","Casa",6,1,4,1,1,3,1,0,1,1
+"37","26/03/2020 09:47:00","360f359c9de0d75288d2978359616a5a","Aluno","Januária","Casa",0,2,2,0,0,3,2,1,1,0
+"39","26/03/2020 09:47:18","7923ca4d5fee5f471bd396006d821394","Aluno","Januária","Casa",0,1,2,2,4,5,1,0,0,0
+"42","26/03/2020 09:49:44","93717ad90df0627e7c5de671e3724e8e","Aluno","Januária","Casa",0,1,2,0,1,2,1,1,0,1
+"43","26/03/2020 09:50:10","93b1b4a9471f2945fdc0a6786e9f99aa","Aluno","Januária","Casa",0,1,2,0,1,4,1,0,2,0
+"44","26/03/2020 09:50:59","1d497de821bc739c06bcd63f08d27cb0","Aluno","Januária","Casa",1,2,1,0,0,2,2,0,0,1
+"45","26/03/2020 09:51:23","8b69632f9aa46a58fa0edec1239c4aff","Aluno","Januária","Casa",0,2,2,0,2,3,3,0,0,0
+"46","26/03/2020 09:52:37","8d221da83c04292e37d3923e5440bb10","Aluno","Januária","Casa",1,2,1,0,0,3,2,0,2,0
+"47","26/03/2020 09:54:21","4ed718a489ba9de6273190fe34e1f705","Professor","Januária","Casa",0,2,0,0,0,2,0,1,0,0
+"50","26/03/2020 09:55:16","105b7908b865683202050f8dbb700b6b","Aluno","Teófilo Otoni","Casa",0,3,2,2,3,4,3,1,1,1
+"51","26/03/2020 09:56:31","e4df96c9c4e6a672a64b231350a746d2","Aluno","Januária","Casa",0,3,1,1,1,4,3,0,0,2
+"52","26/03/2020 09:56:41","b8cbad50815b6e4c7517cff7ef187c57","Professor","Januária","Casa",1,3,1,0,1,3,3,1,1,0
+"54","26/03/2020 09:57:42","f2250fa04546c9bfb19084a532bf55ae","Aluno","Januária","Casa",0,1,2,0,0,3,1,0,1,1
+"55","26/03/2020 09:57:59","6fafe812e18eff9f2821b1954b6875b2","Professor","Januária","Casa",0,1,1,0,0,2,0,1,0,1
+"56","26/03/2020 09:58:20","2f04763ec2e4249f4cf4caaf9f0ecbbd","Aluno","Januária","Casa",0,3,1,1,1,3,2,0,0,2
+"57","26/03/2020 09:58:23","7cbc90be092b83dcc9b4cb919d0e7864","Aluno","Januária","Casa",0,4,1,1,1,3,1,0,3,1
+"58","26/03/2020 09:59:17","1deb3f883a275df04a2c1dffbb6e0ff5","Aluno","Januária","República",0,3,0,0,0,2,3,0,0,0
+"59","26/03/2020 09:59:48","ff0c8cde984f6eb0431caaa4a6633a67","Professor","Teófilo Otoni","Casa",1,2,0,0,0,4,1,1,1,0
+"60","26/03/2020 10:00:36","2f1eeec74d955e6cd8480a546b97b6b5","Professor","Diamantina","Apartamento",0,2,0,0,0,3,2,1,0,0
+"61","26/03/2020 10:01:32","a1afe058150693931b5ceaa59c99911f","Professor","Januária","Casa",0,1,0,0,1,2,0,1,0,0
+"62","26/03/2020 10:02:04","4090bb250afb04c9af866843a93a917c","Aluno","Januária","Alojamento",0,96,0,0,0,12,96,0,0,0
+"63","26/03/2020 10:02:24","d882fe7d6e22509cc796954e4e84818a","Aluno","Teófilo Otoni","Casa",0,2,1,0,1,3,1,1,0,0
+"64","26/03/2020 10:02:27","81a8637df822bb48de0af58f3e2e00f1","Aluno","Teófilo Otoni","Apartamento",0,2,0,0,0,2,2,0,0,0
+"65","26/03/2020 10:03:13","8d724e2312bbbd3d3de84191060569d1","Aluno","Januária","Casa",0,4,2,0,1,3,2,0,0,0
+"66","26/03/2020 10:03:25","667d8dc1c98aa96ab943b29e636665f3","Aluno","Teófilo Otoni","Casa",1,3,0,0,0,3,3,0,0,0
+"68","26/03/2020 10:05:34","a4d963ec53b6d582c49b2f7b458bdfde","Aluno","Januária","Casa",1,4,0,1,1,3,3,1,0,0
+"69","26/03/2020 10:05:34","eb4b1f516101b33296030e5813e123ca","Aluno","Januária","Casa",0,0,51,0,0,3,0,0,0,3
+"70","26/03/2020 10:06:42","1ba1badbb0665b9058f4e988cdb51212","Aluno","Januária","Casa",0,2,2,0,0,3,2,0,0,1
+"71","26/03/2020 10:06:42","6c71c0131c699f5dddc3aa1682dfdb37","Aluno","Januária","Casa",3,3,1,0,0,4,4,0,3,0
+"72","26/03/2020 10:07:17","6c71c0131c699f5dddc3aa1682dfdb37","Aluno","Januária","Casa",3,3,1,0,0,4,4,0,3,0
+"73","26/03/2020 10:07:17","55b388d005b9b2caa61d4d77286d3fea","Aluno","Teófilo Otoni","Casa",1,2,1,0,0,3,3,0,0,0
+"74","26/03/2020 10:07:21","2b03269517e84143661d0c3e170fe9c4","Aluno","Januária","Casa",0,1,2,0,0,5,1,0,0,0
+"75","26/03/2020 10:07:47","c1ced7404be05bd8eff188a2fbe89648","Aluno","Januária","Casa",0,3,2,0,0,2,3,0,0,0
+"76","26/03/2020 10:08:23","a993b1945991e5769c033b706329e2cd","Professor","Januária","Apartamento",0,1,0,0,0,2,0,1,0,0
+"77","26/03/2020 10:10:47","c68b09ae70052658c5e73dcbc025a59e","Professor","Januária","Casa",1,0,1,0,0,3,1,1,0,0
+"79","26/03/2020 10:11:36","95c4846e2ef0a77d38204fe667258eaa","Aluno","Januária","Alojamento, Casa",0,3,2,0,1,4,3,0,0,0
+"81","26/03/2020 10:12:46","0ce0f1b3d5e5e1dff0348087e2d69ca8","Aluno","Januária","Casa",1,3,1,0,0,2,3,0,0,1
+"82","26/03/2020 10:14:23","deeca5f0d7cec871e08b2622426a65f7","Aluno","Januária","Casa",0,1,2,0,0,10,1,1,0,1
+"83","26/03/2020 10:15:20","613f342dce341e716e3bdafe8c70b60a","Aluno","Januária","Apartamento",0,1,0,0,0,4,5,0,0,0
+"84","26/03/2020 10:17:11","359e03b9545368de5d7ef0722fe0e182","Aluno","Januária","Casa",0,3,1,0,0,3,3,0,0,1
+"86","26/03/2020 10:21:07","18d410dd680b2ae57c040dcc3c811481","Aluno","Januária","República",0,4,0,0,1,2,4,0,0,0
+"87","26/03/2020 10:22:33","123f55c55c1801372baa0a0416de4ed1","Aluno","Januária","Casa",0,2,1,1,0,3,1,0,2,0
+"89","26/03/2020 10:24:30","5b99ea9cd56cb5fdff750ac2881385e9","Aluno","Teófilo Otoni","Casa",0,3,1,0,0,2,3,1,1,0
+"90","26/03/2020 10:26:21","f3ce9a68dccbbafe529ec6a967ea5649","Aluno","Teófilo Otoni","Casa",0,1,1,0,0,2,1,0,0,1
+"91","26/03/2020 10:26:35","f3cebf22d6f6aad27936eed2ef3f929f","Aluno","Teófilo Otoni","Casa",0,2,2,1,3,3,2,1,0,2
+"92","26/03/2020 10:27:05","303b0ff39209ae2ea27a95b28c54c04c","Aluno","Januária","Casa",0,3,0,0,1,2,1,0,1,2
+"94","26/03/2020 10:27:40","16ee7aa488683564d6d3b0b888c4653d","Professor","Arinos","Casa",2,3,0,2,2,4,3,1,1,3
+"95","26/03/2020 10:28:01","dc035a960e9ab55215c8def24d2b7343","Aluno","Januária","Apartamento",0,3,0,0,0,2,3,0,0,0
+"96","26/03/2020 10:29:04","a83fca1bee09dcaf98e8cc8347ba7827","Aluno","Januária","Casa",0,2,1,0,1,2,2,0,0,0
+"97","26/03/2020 10:29:07","3db1b364de2c1697b8ccc8fd6d7b0d57","Professor","Januária","Apartamento",0,0,1,0,0,3,0,10,0,0
+"98","26/03/2020 10:29:49","c442b09f46d9ea6151c02bad8cd82669","Aluno","Januária","Casa",0,3,1,0,0,2,3,0,0,0
+"99","26/03/2020 10:30:02","bf0a075d3359b71f7b62155905e13c14","Aluno","Januária","Casa",2,0,0,0,0,3,2,0,0,1
+"100","26/03/2020 10:30:27","7157665074e22889daf6b678e2d09c1b","Aluno","Januária","Alojamento",0,108,0,0,0,12,108,0,0,0
+"101","26/03/2020 10:31:04","6d7e74857a22dfedcc65baf7b4a9b361","Aluno","Januária","Casa",0,2,2,0,3,3,2,0,0,1
+"102","26/03/2020 10:31:19","6d7e74857a22dfedcc65baf7b4a9b361","Aluno","Januária","Casa",0,2,2,0,3,3,2,0,0,1
+"103","26/03/2020 10:32:45","ff087db783cba180a55c24ced872186d","Aluno","Januária","Casa",0,2,2,0,1,2,2,1,0,1
+"104","26/03/2020 10:34:32","36c3644a95c377a5b12951960681a856","Professor","Januária","Casa",1,2,0,1,1,4,1,1,0,0
+"105","26/03/2020 10:34:40","188d79deada6ed52a532542e4985b44c","Aluno","Januária","Casa",2,1,2,0,2,2,1,0,0,1
+"107","26/03/2020 10:36:56","5d021d7a4bdb689526c8143a13a81291","Professor","Januária","Casa",0,1,1,1,2,4,1,2,0,0
+"108","26/03/2020 10:39:13","ae0b9aab771bfb8269d8adffcf701d69","Aluno","Januária","Casa",0,5,1,0,1,4,4,0,0,0
+"109","26/03/2020 10:39:45","546c13714ae2770f01ccca1bae385030","Aluno","Januária","Casa",0,2,1,1,2,4,3,1,0,1
+"110","26/03/2020 10:41:40","f8a6fbc839e1243a698b4ce6d98ba8a3","Aluno","Januária","Casa",0,1,1,0,0,2,1,0,0,1
+"111","26/03/2020 10:41:51","d18dfdacf38a9ad1d2fcbdfe5573b6f0","Aluno","Januária","Casa",1,3,1,0,0,3,2,0,2,0
+"112","26/03/2020 10:42:03","57371162cc6dfce4471e2d283df50034","Aluno","Januária","Casa",1,2,0,1,0,5,2,0,0,3
+"113","26/03/2020 10:42:16","2d26f7cce6980ed65446e7fbddc27477","Aluno","Januária","Casa",1,2,0,1,0,3,4,0,0,0
+"114","26/03/2020 10:42:28","2d26f7cce6980ed65446e7fbddc27477","Aluno","Januária","Casa",1,2,0,1,0,3,4,0,0,0
+"115","26/03/2020 10:42:35","a1d9febe958908f39d4fa57494a80d68","Aluno","Januária","Casa",0,1,2,0,1,3,1,1,0,1
+"116","26/03/2020 10:44:50","3d9df2ffc36cc1b02e1a9de499a04417","Aluno","Januária","Casa",0,2,0,2,2,4,1,0,0,1
+"117","26/03/2020 10:49:20","f626f98a49dec431356b54869245e1bf","Aluno","Januária","Casa",1,0,1,0,0,2,1,0,0,1
+"118","26/03/2020 10:50:43","86df509d65e57af0de78f63e4ddc8bd4","Aluno","Januária","Casa",0,0,1,2,2,3,1,0,0,0
+"119","26/03/2020 10:51:28","1c93b9cc48b93a7bf2e10033fd3c67c1","Aluno","Januária","Casa",0,4,0,0,0,2,3,0,0,1
+"120","26/03/2020 10:53:15","7461514fd217a149bbf5db88c5735caf","Aluno","Januária","Casa",0,1,1,0,1,3,2,1,1,1
+"121","26/03/2020 10:54:30","210fd28809feaa35f15538b9cf140b54","Aluno","Teófilo Otoni","Casa",0,1,1,0,0,3,1,0,1,0
+"122","26/03/2020 10:57:17","919512fd2b5f9550679bcc1f5a74b48b","Aluno","Januária","Casa",1,3,0,0,0,2,2,0,1,2
+"123","26/03/2020 10:58:17","1c972510f47b7c8f488d01ff5785da06","Aluno","Januária","Casa",1,2,0,0,0,2,1,1,0,0
+"125","26/03/2020 11:00:21","98f206d3903299a292c2a9572c0687ad","Aluno","Januária","Casa",0,2,2,0,0,2,2,1,1,0
+"127","26/03/2020 11:02:55","3f1c9ede741fcdc89dfa1d73729c7e79","Aluno","Januária","República",0,7,0,0,0,7,7,0,0,0
+"128","26/03/2020 11:03:28","07a25bec396f7de993370670e01f5f6b","Aluno","Januária","Casa",0,2,1,1,1,3,2,0,0,0
+"129","26/03/2020 11:03:53","68e13bbba5e454f19a12544430571fc3","Aluno","Januária","Casa",0,4,0,1,1,4,2,0,0,1
+"130","26/03/2020 11:04:45","a713b708a1f9e447e65f3be4f4fdc955","Aluno","Januária","Casa",1,1,0,0,0,2,3,1,0,0
+"131","26/03/2020 11:04:48","06be51a41d164085a8c69afccb00f48a","Aluno","Januária","Casa",1,2,1,0,0,2,2,0,2,1
+"132","26/03/2020 11:05:05","a713b708a1f9e447e65f3be4f4fdc955","Aluno","Januária","Casa",1,1,0,0,0,2,3,1,0,0
+"133","26/03/2020 11:05:10","7d79a51b999528c3f3e0dc653510f773","Aluno","Januária","Casa",0,2,2,0,1,2,1,0,1,0
+"134","26/03/2020 11:08:37","21e361bad28374262f555e32e355af63","Aluno","Januária","Casa",1,3,2,0,0,3,1,0,0,0
+"135","26/03/2020 11:08:49","fea0497db65489cdd503487c51fca479","Aluno","Januária","Casa",0,0,1,2,2,3,1,0,0,0
+"136","26/03/2020 11:09:25","15232f395238dc37c308281797fa4faa","Aluno","Januária","Casa",0,3,2,0,0,2,3,0,0,0
+"137","26/03/2020 11:10:52","75b5b95687d9c7a220e204081566f75e","Aluno","Januária","República",1,3,0,0,0,2,3,0,0,0
+"138","26/03/2020 11:10:54","75b5b95687d9c7a220e204081566f75e","Aluno","Januária","República",1,3,0,0,0,2,3,0,0,0
+"139","26/03/2020 11:12:30","f84d3105ecbb5a8d8ef5d05fef92f996","Aluno","Januária","Apartamento",0,2,2,0,0,4,2,0,0,0
+"140","26/03/2020 11:13:04","3f0bdfc88e945e4705c27bc6a65bf40d","Professor","Januária","Casa",0,2,1,0,0,3,2,1,0,0
+"141","26/03/2020 11:13:19","cb0ed58f8cec5db6f41095cac0a491b6","Aluno","Januária","Apartamento",0,16,0,0,0,3,4,0,0,0
+"142","26/03/2020 11:13:57","4d0bcfc97c2650c2eb02b166fea091b3","Aluno","Januária","Apartamento",0,1,0,0,0,2,0,0,0,0
+"143","26/03/2020 11:16:22","622943cc48c59908e17295dadafbdee7","Aluno","Januária","Casa",1,1,1,1,1,3,1,0,0,0
+"144","26/03/2020 11:16:53","396769c724817b49c6412a6e76327c9e","Aluno","Januária","Pensionato",0,15,0,0,0,16,13,1,2,0
+"145","26/03/2020 11:17:22","84a053387fa52324cd574e22e978feaa","Aluno","Januária","República",0,5,0,0,0,3,3,0,1,0
+"146","26/03/2020 11:23:52","d50eeed2d6a7d0acd1f79eb6ddfdeb3b","Aluno","Januária","Alojamento",0,104,0,0,0,12,104,0,0,0
+"147","26/03/2020 11:24:14","dec2daf32bf85980c0fcb7344557878f","Aluno","Januária","Casa",0,2,2,0,2,4,2,1,0,1
+"148","26/03/2020 11:24:45","cb22905829d6c502e7d2594c051caa83","Aluno","Januária","Casa",0,2,2,0,0,3,2,0,0,1
+"149","26/03/2020 11:26:57","5b87eba146780968be49a51b60228c9c","Aluno","Januária","Casa",0,2,2,0,0,3,2,0,0,2
+"150","26/03/2020 11:27:01","e089994a124416c85f4f4652245bdb4c","Aluno","Januária","Casa",0,1,2,1,1,3,1,0,1,0
+"151","26/03/2020 11:28:46","3a4cdb8660e9b3c42b424dd3bb7ab4a8","Aluno","Januária","Casa",0,2,2,0,0,5,2,1,0,0
+"152","26/03/2020 11:28:53","69aada0cca5219c2976f3da1d4511d4f","Aluno","Januária","Casa",0,1,2,0,0,2,1,0,2,0
+"153","26/03/2020 11:31:21","3686bec73cc520beede1eaa4cacdbccf","Aluno","Januária","Casa",1,2,0,0,0,4,2,0,0,2
+"154","26/03/2020 11:29:14","cfc9f201f21fb5a458803891a5ae74d6","Aluno","Januária","Casa",0,2,0,1,0,2,2,0,0,1
+"155","26/03/2020 11:35:58","c34e2ee8ecab3b65d215d2759b38cbed","Aluno","Januária","Casa",0,3,1,1,0,4,1,0,0,0
+"156","26/03/2020 11:38:33","444f5da3e893c39217f0202ed4fdfb3a","Aluno","Januária","Casa",1,3,1,0,1,3,3,1,1,0
+"157","26/03/2020 11:39:40","22afe00214a3b7e5bef24afe6ac6a05b","Aluno","Januária","Casa",0,2,2,0,0,3,2,1,0,1
+"158","26/03/2020 11:39:51","b472fe6d1da5f2c830902f1e1377b389","Aluno","Januária","Casa",0,3,3,2,1,5,2,0,0,0
+"160","26/03/2020 11:40:04","d56c63c98534cdf6bd092069d0fe0f2d","Aluno","Januária","Casa",2,2,0,1,1,3,3,0,1,1
+"161","26/03/2020 11:44:40","8f4e40cdff6ace1b811d776692df9eeb","Aluno","Januária","Apartamento",0,1,2,2,2,4,1,0,0,1
+"162","26/03/2020 11:40:58","2d9e4fdd9fe0878841e0157bff6eb512","Aluno","Januária","Casa",0,5,2,0,2,3,2,0,3,0
+"163","26/03/2020 11:44:18","7a2d68501e6591fb49c5588b94ff9f2d","Aluno","Januária","Casa",1,2,3,0,1,2,2,1,0,0
+"164","26/03/2020 11:45:00","0030ed40a5675e67bb89d9bed778c856","Aluno","Januária","Casa",1,5,2,0,1,8,2,0,4,0
+"165","26/03/2020 11:49:06","6f1b039eedb22385fb2a167f9d540f9a","Aluno","Januária","Casa",0,6,0,0,1,5,6,0,0,0
+"166","26/03/2020 11:45:43","4deb3f398a0c256578a2f460177b493d","Aluno","Januária","Casa",0,2,2,0,0,4,1,0,0,3
+"168","26/03/2020 11:48:54","3d315afd971ab7ff12cb2c4369c9cc16","Aluno","Januária","Casa",1,2,0,2,3,3,2,1,1,0
+"169","26/03/2020 11:50:50","ce8bd102bfc4879d7a06979b866242e5","Aluno","Januária","Casa",2,2,1,0,2,2,3,0,0,0
+"170","26/03/2020 11:56:37","95d9ba2fbc0ea5e50cc7447c9f6d48cc","Aluno","Januária","Apartamento",0,3,0,0,0,1,3,0,0,0
+"171","26/03/2020 11:53:26","5a447d27bdf2a2d6c2b7f33e7851e9a0","Aluno","Januária","Casa",0,1,2,0,0,3,1,0,0,2
+"172","26/03/2020 11:53:29","d0039f2f8313ce688912cc486ae288a7","Aluno","Januária","Casa",2,2,0,1,3,3,3,0,0,0
+"173","26/03/2020 11:54:11","80c2c2b0815b3fabf3d7fc558dc80f14","Aluno","Januária","Pensionato",0,8,0,0,0,1,8,0,0,0
+"174","26/03/2020 12:01:27","cbc73c6b6ab6c6cf8186d18b7ef62510","Aluno","Januária","Casa",4,2,2,0,2,2,2,0,1,0
+"176","26/03/2020 12:00:35","e97727703e521b19e04967b01b9461e8","Aluno","Teófilo Otoni","Casa",0,1,1,0,0,2,1,1,0,0
+"177","26/03/2020 12:00:37","0257b32b07225173a0f01f681c6cc091","Professor","Salinas","Apartamento",0,3,1,0,1,3,3,1,0,0
+"179","26/03/2020 12:03:06","c4a3a549524954aabe300bab9bdbecd4","Aluno","Teófilo Otoni","Casa",0,2,2,0,1,1,2,1,0,1
+"180","26/03/2020 12:04:01","92bc33f666c485df4bad2d3d63db9732","Aluno","Januária","Casa",0,4,2,0,0,3,2,0,0,0
+"181","26/03/2020 12:06:22","8d73aa15cd0a5f2dfe6c4cab8a997d03","Aluno","Januária","Casa",0,1,0,2,1,2,1,0,0,0
+"182","26/03/2020 12:06:07","0c85dbd62658529d26c51981f79e99d9","Aluno","Januária","Casa",0,2,2,2,1,2,1,0,0,4
+"183","26/03/2020 12:06:17","a5dd2d9ed808f8bb3737c95805fae26e","Aluno","Januária","Casa",0,2,2,1,2,3,3,0,0,0
+"184","26/03/2020 12:06:54","4311e0f24a3e2a1b244ca1d3c4c81ad5","Aluno","Januária","Casa",0,4,0,0,0,3,3,0,0,0
+"185","26/03/2020 12:08:37","6e17606ecd6bfe876eb570094ab18c0f","Aluno","Teófilo Otoni","Casa",0,2,0,2,1,3,1,0,1,0
+"187","26/03/2020 12:08:30","5115dafc58d2bfc48a6d76f853ae2991","Aluno","Januária","Casa",1,2,0,0,0,3,1,0,0,1
+"188","26/03/2020 12:08:33","5115dafc58d2bfc48a6d76f853ae2991","Aluno","Januária","Casa",1,2,0,0,0,3,1,0,0,1
+"189","26/03/2020 12:18:27","105597f4c96c91d17fdd009bb9ac83f2","Aluno","Teófilo Otoni","Casa",0,3,1,0,0,2,2,0,2,0
+"190","26/03/2020 12:11:45","95717c93e762a6603627baaa07a781e9","Aluno","Januária","Casa",0,3,2,1,0,4,1,0,1,1
+"191","26/03/2020 12:12:09","331b7e3284ad7118b595bf09e6c54c26","Aluno","Januária","Apartamento",1,3,0,0,1,2,3,0,0,1
+"192","26/03/2020 12:18:24","dc56eae0cff5dd1b41060b44ae4994e7","Aluno","Januária","Casa",0,3,1,0,0,3,2,0,0,0
+"193","26/03/2020 12:18:31","788c30457c5a7b091ee918e28eb68a07","Aluno","Januária","Casa",0,1,2,0,0,5,1,0,0,1
+"194","26/03/2020 12:22:43","8e4c309355962fdae5271ed9685d8f0a","Aluno","Januária","República",0,4,0,0,0,1,4,0,0,0
+"195","26/03/2020 12:22:39","9d531e0c7aa7797c48e60c25ce9b37de","Aluno","Januária","Pensionato",0,2,0,0,1,3,2,0,0,0
+"196","26/03/2020 12:22:55","8133a8f49503d5497220a455fc277e9d","Aluno","Januária","Casa",1,2,1,0,2,2,2,1,0,1
+"197","26/03/2020 12:23:09","b8ceed942d6b432a8b5067a52a9cac0b","Aluno","Januária","República",0,2,0,0,0,2,1,0,1,0
+"198","26/03/2020 12:23:46","557e1a2b4de95d55e8922a69b6cb7597","Aluno","Januária","Casa",0,4,0,0,0,2,2,0,1,0
+"199","26/03/2020 12:24:45","85ba2eacfaa8970065426b972c6af41f","Aluno","Januária","Casa",1,3,0,0,0,2,3,0,0,1
+"200","26/03/2020 12:24:17","86549c9ad5b2d396c73c46261135e38f","Aluno","Januária","Casa",0,2,0,0,0,1,2,0,1,0
+"201","26/03/2020 12:24:33","5ce98729183701192244614f438f5a4e","Aluno","Januária","Casa",0,1,0,0,0,3,1,0,1,0
+"203","26/03/2020 12:24:56","26f11495f5578605668fe7eb8b3fc0a1","Aluno","Januária","Casa",0,2,2,0,0,2,2,1,0,1
+"204","26/03/2020 12:25:10","ce846bd65b72a8e89fb3dcbc39650dfb","Aluno","Januária","Apartamento",0,4,0,0,0,2,4,0,0,0
+"205","26/03/2020 12:25:11","7f5572c1b1dbf4fbed03776fdb3fc0f8","Aluno","Januária","República",0,4,0,0,2,2,3,0,0,0
+"206","26/03/2020 12:25:45","5a11cf9b64e13a5de845887b20fc9216","Aluno","Januária","Pensionato, República",0,6,0,0,0,7,7,1,0,0
+"207","26/03/2020 12:36:16","aae161ff4e8763b0776666ada3f01c95","Aluno","Januária","Casa",1,6,0,0,0,3,4,0,0,0
+"208","26/03/2020 12:38:31","da3c08fe189687015a00f9ebf84b611c","Aluno","Januária","Casa",0,1,2,0,2,2,1,0,0,1
+"209","26/03/2020 12:37:28","a6e6b66034f59beaf5fcee00eeda2907","Aluno","Januária","Casa",0,1,1,0,0,3,1,0,1,0
+"210","26/03/2020 12:43:29","bb16a66a49f138f4df920f86923c3cca","Aluno","Januária","Casa",0,2,2,0,1,2,2,0,0,0
+"211","26/03/2020 12:40:53","2fa43c0d9365dc073996eb99cf4e2ef1","Aluno","Januária","República",0,6,0,0,0,4,5,0,0,0
+"212","26/03/2020 12:43:35","b0adc97ff49aeb34aba38bd2420b84d5","Aluno","Januária","Casa",1,1,2,0,0,2,2,0,0,2
+"213","26/03/2020 12:56:52","1f3757586c319e9b05bd605c5a058875","Aluno","Januária","Casa",0,3,0,2,1,4,1,1,0,0
+"214","26/03/2020 12:44:51","4d1e0f9db64847ae47cf2b12bf14b29a","Aluno","Januária","Casa",1,2,2,0,2,3,3,0,1,0
+"215","26/03/2020 12:46:59","8d7e2dab7ea841ecac95130a62ce0861","Aluno","Januária","República",0,5,0,0,0,4,5,0,0,0
+"216","26/03/2020 12:50:01","2eee97c2005163356cc7f09ce52d4bae","Aluno","Januária","Casa",0,2,1,2,2,6,1,0,0,1
+"218","26/03/2020 13:11:57","0863a720d36aeddca33b51242d26881f","Aluno","Januária","Apartamento",0,3,0,0,0,2,3,0,0,0
+"219","26/03/2020 13:03:09","d4ed519fd76c12294e25b5305b939f5e","Aluno","Januária","Apartamento",0,3,0,0,0,1,2,0,1,1
+"220","26/03/2020 13:04:59","148fe192f617425344f25fdde1ed2a32","Aluno","Januária","Casa",2,3,1,0,2,3,4,0,1,0
+"221","26/03/2020 13:07:36","900ef8f6aa13a670c27b4a34dba0e990","Aluno","Januária","Sítio",0,1,2,0,0,4,1,0,0,1
+"222","26/03/2020 13:13:56","4a8859aa324880994a61dfd6938e0939","Aluno","Januária","Apartamento",0,3,0,0,0,2,3,0,0,0
+"224","26/03/2020 13:24:31","ed9219b35a123417df2f4498990d6256","Aluno","Januária","Casa",0,2,2,0,2,4,1,0,0,1
+"225","26/03/2020 13:22:55","2d1bc5050263873559129d85eb26462f","Aluno","Januária","Alojamento",0,1,2,0,1,3,1,0,2,0
+"226","26/03/2020 13:23:34","ebcd7527853dbe91ae45b4ede00e4501","Aluno","Januária","Casa",1,2,1,0,0,2,2,0,1,0
+"227","26/03/2020 13:28:33","51af754415b9447704cdea2a568e8e32","Professor","Januária","Casa",2,1,1,0,1,3,4,1,0,0
+"229","26/03/2020 13:29:49","6938c375c51d7a0fad07469c2fcc8097","Aluno","Januária","Apartamento",0,2,0,0,0,1,2,0,0,0
+"230","26/03/2020 13:30:00","025b8f7829221d7b2acb26f8cf16131a","Aluno","Januária","Casa",1,3,1,1,0,4,1,0,2,0
+"231","26/03/2020 13:35:27","9457ebc652c1c9c5d8525cf7c5ca774c","Professor","Januária","Casa",2,2,0,0,0,2,1,1,0,0
+"232","26/03/2020 13:35:53","c1fc85bd7f7f4909fc88a4e7a528d2a1","Aluno","Januária","Casa",0,3,2,0,0,2,3,1,1,0
+"233","26/03/2020 13:36:10","2cd6c257e13377d6b02662527d08bb45","Aluno","Januária","Casa",0,1,0,1,1,2,1,0,0,0
+"235","26/03/2020 13:37:03","b8da40bc351fe769217ecbfdc7078c08","Aluno","Januária","Casa",0,2,2,0,0,3,2,0,1,1
+"236","26/03/2020 13:37:48","24b169aa3758b8a60ab7b60732781bc2","Aluno","Januária","Apartamento",0,6,0,0,0,2,6,0,0,0
+"237","26/03/2020 13:42:54","63b7308b24b97716d128c3ca8b13af11","Aluno","Januária","Casa",0,1,1,0,0,3,2,0,0,0
+"238","26/03/2020 13:41:38","33e3b747dd48311365ae287d8a864b43","Aluno","Teófilo Otoni","Apartamento",0,1,0,0,0,2,1,0,0,0
+"240","26/03/2020 13:45:22","4770ffa9353fc35fbea0d90f9b8b1e3b","Aluno","Januária","Casa",0,0,0,84,4,3,1,0,0,0
+"243","26/03/2020 13:59:33","f7ba26a0e2ca3465179ba8ecd10d15ad","Aluno","Januária","Alojamento",0,4,0,0,2,4,3,0,0,2
+"244","26/03/2020 14:00:48","2d3c11a8324610a96cee257f6c97f59c","Aluno","Januária","Casa",0,4,1,1,1,2,2,0,0,1
+"245","26/03/2020 14:01:43","a544b654d73f3e5f89c62a8a106d7284","Aluno","Januária","Casa",0,0,0,0,0,1,1,0,0,0
+"246","26/03/2020 14:01:53","1dadbf7417776c23af0f137175dac424","Aluno","Januária","Casa",1,2,0,0,0,3,2,0,0,1
+"247","26/03/2020 14:02:39","763f674cb08aa65b069255c7ea97f3fa","Aluno","Januária","Casa",0,2,2,0,0,3,1,0,0,0
+"248","26/03/2020 14:02:50","8ee23f2abea1418b403a9f14fb5263b1","Aluno","Januária","Casa",0,0,1,1,0,2,1,0,0,0
+"249","26/03/2020 14:08:03","e9c148c5dbc63d0f0c07511b734a2fb4","Aluno","Januária","Casa",1,0,2,0,2,3,1,1,0,0
+"250","26/03/2020 14:08:43","5d97e24ed61756464b0eded900df9db2","Professor","Januária","Casa",2,1,1,0,0,3,2,1,0,0
+"251","26/03/2020 14:10:42","d11012c33dda10b93ee709b53b61e543","Aluno","Januária","Casa",7,4,1,2,2,3,3,0,0,3
+"252","26/03/2020 14:14:37","599d841212c622340b4f065d1b8a7085","Aluno","Januária","República",0,6,0,0,0,3,5,0,1,0
+"253","26/03/2020 14:15:01","27d9ff0cf8264807f63cb8485a0c18f9","Aluno","Januária","Casa",0,4,1,0,0,3,3,0,0,2
+"255","26/03/2020 14:17:03","140716c19b38e5afbe284ca1e10deee5","Aluno","Januária","República",0,0,12,0,0,6,111,1,0,0
+"256","26/03/2020 14:17:17","d473ca876cd3e50f2804e90a75a69891","Aluno","Januária","Casa",0,2,2,0,0,3,2,0,1,0
+"257","26/03/2020 14:19:58","8deec69a4b62cded2b234f03cc6c4edc","Aluno","Januária","Sítio",0,1,1,1,1,3,1,0,0,2
+"258","26/03/2020 14:20:06","2e5391410576a81642acb6f28ea3ba52","Aluno","Januária","Casa",0,0,0,0,0,1,1,0,0,0
+"260","26/03/2020 14:24:55","015b4adba8d35df8dd3dafb4e2df163c","Aluno","Januária","Casa",0,3,0,1,2,3,1,0,0,0
+"261","26/03/2020 14:25:07","5ce872247cd0f92d015830c80fe89b93","Aluno","Januária","Casa",0,1,2,0,0,1,2,0,0,1
+"263","26/03/2020 14:26:16","6b544c464d2e7fe6568e9e8f6bd5fac4","Aluno","Januária","República",0,6,0,0,0,5,6,0,0,0
+"264","26/03/2020 14:27:07","01c29d8c51cf5028787cdde7d5b7e132","Aluno","Januária","República",0,2,0,0,0,1,2,0,0,0
+"269","26/03/2020 14:38:59","11879506767843cdf894ac1a59c93978","Aluno","Januária","Apartamento",0,1,0,0,0,1,1,0,0,0
+"270","26/03/2020 14:43:10","d1531d0232553c2ae85dd2afef235d3f","Aluno","Januária","Casa",0,3,1,1,3,3,2,0,1,2
+"271","26/03/2020 14:45:35","1cc36c8b2bf06e45ff1dacc01f39dbe2","Aluno","Januária","Casa",1,3,2,0,1,3,2,1,0,0
+"272","26/03/2020 14:46:30","eb6af8d70c108c3d50c78a7f319ca3fc","Aluno","Januária","República",4,4,0,0,0,4,4,0,1,2
+"273","26/03/2020 14:47:03","fa2b2678d3e415fa45e7c0bd615646d2","Aluno","Almenara","Casa",2,2,1,0,1,2,1,0,2,0
+"275","26/03/2020 14:49:29","8c9fd9557765ffd6807302d0b4f1b1c2","Aluno","Januária","Casa",3,2,0,0,0,2,2,0,1,0
+"276","26/03/2020 14:50:41","31204e09bc7c1075aa311da68446acb8","Aluno","Januária","Casa",0,2,1,0,2,3,1,0,0,1
+"277","26/03/2020 14:51:14","762d0e76a29d455bb1990b2267986355","Aluno","Januária","República",0,6,0,0,0,5,6,0,0,2
+"278","26/03/2020 14:53:28","3178896b2c3f44b5f6711ef00c210f74","Aluno","Januária","Casa",0,2,0,0,0,3,3,0,0,0
+"279","26/03/2020 14:53:42","1bae5fbdada1fd149781d1d8809315f3","Aluno","Januária","Casa",0,2,2,0,0,4,2,0,2,0
+"280","26/03/2020 14:54:34","357d801af2322d15a802eca7a40e2445","Aluno","Janaúba","Casa",0,7,1,1,4,3,3,0,3,3
+"282","26/03/2020 14:59:05","70cf9f8506ea1ff8b033f2e25ea4eeac","Aluno","Teófilo Otoni","Apartamento",1,3,0,0,1,2,3,1,0,1
+"283","26/03/2020 15:01:22","77e4bda2647f25edaf7d24515fd99ffe","Aluno","Teófilo Otoni","Apartamento",1,3,0,0,1,2,3,1,0,1
+"284","26/03/2020 15:02:39","e242ed624acaeaecdadaea49b28b6eb1","Aluno","Januária","Casa",0,4,0,1,1,3,1,0,2,0
+"285","26/03/2020 15:02:54","e242ed624acaeaecdadaea49b28b6eb1","Aluno","Januária","Casa",0,4,0,1,1,3,1,0,2,0
+"286","26/03/2020 15:03:09","e242ed624acaeaecdadaea49b28b6eb1","Aluno","Januária","Casa",0,4,0,1,1,3,1,0,2,0
+"287","26/03/2020 15:03:28","e242ed624acaeaecdadaea49b28b6eb1","Aluno","Januária","Casa",0,4,0,1,1,3,1,0,2,0
+"289","26/03/2020 15:06:35","464d2c848395cdf584e7ebdad394d792","Aluno","Januária","Apartamento",0,1,0,0,0,2,1,0,0,0
+"290","26/03/2020 15:08:05","0172af82ca93072a6048f4b6438dc2e8","Aluno","Pirapora","Apartamento",0,1,0,0,0,1,1,0,0,1
+"291","26/03/2020 15:09:54","5a6beef4fe2b72f1a72968c81e265139","Aluno","Januária","Casa",0,1,2,0,0,3,1,0,1,2
+"292","26/03/2020 15:09:57","58d144c4877f9706543c54da93ff7d23","Aluno","Januária","República",0,2,0,0,0,1,2,0,0,0
+"293","26/03/2020 15:11:22","ca5e360d0ea42cee801fe88058ee83a7","Aluno","Januária","República",0,6,0,0,1,5,6,0,0,1
+"294","26/03/2020 15:11:34","bc548f6572852e923187710a2683ee88","Aluno","Januária","República",0,2,0,0,0,3,3,0,0,0
+"295","26/03/2020 15:14:28","6abf26e4c26d51e3c9f6d6a3b9b539b9","Aluno","Januária","Casa",2,0,0,0,0,2,2,0,0,0
+"296","26/03/2020 15:16:42","a996640acbeefb0fb83de2797d500563","Aluno","Januária","Casa",0,5,2,0,0,4,5,0,0,1
+"297","26/03/2020 15:17:59","f42cf51eae3c323f49ab9c386e509c64","Aluno","Januária","República",0,4,0,0,2,2,4,0,0,2
+"298","26/03/2020 15:19:02","232ff02d87294b971ff6be83095af987","Aluno","Januária","Casa",1,1,1,0,1,2,1,0,0,0
+"299","26/03/2020 15:18:40","a602a9ee55d217a30ad222487f62d42c","Aluno","Januária","Casa",0,1,0,1,1,3,1,0,0,0
+"300","26/03/2020 15:21:05","4bda20abc5f75f885eb1e19551568984","Aluno","Januária","Apartamento",0,0,0,0,0,1,1,0,0,0
+"301","26/03/2020 15:21:20","86a675183509bab264ef65462c090809","Aluno","Teófilo Otoni","Apartamento",0,4,1,1,3,3,2,1,0,1
+"302","26/03/2020 15:22:59","74bad969f27d9375cd30a947dab04c6c","Aluno","Teófilo Otoni","Apartamento",0,2,2,0,2,3,2,1,0,0
+"303","26/03/2020 15:23:09","8fb28560b2c80eeb8fee79623b326bca","Aluno","Januária","Casa",1,1,2,0,1,4,2,0,0,1
+"304","26/03/2020 15:27:47","d8ad9309f5feafbf4b02ee807f7979c7","Aluno","Januária","Casa",0,3,1,0,2,3,2,0,2,1
+"305","26/03/2020 15:28:01","d227233b26f0480832099afc4a754843","Aluno","Teófilo Otoni","Apartamento",0,2,1,0,1,3,2,0,0,0
+"306","26/03/2020 15:29:03","b2833048638602a3fe2351ee6b9b610e","Aluno","Januária","República",0,2,0,0,0,2,2,0,0,0
+"307","26/03/2020 15:29:20","9112234b03431e471f66932511b82ad9","Aluno","Januária","Casa",1,3,2,1,2,15,2,0,2,2
+"308","26/03/2020 15:31:33","df8e98621fb54010f525d068784863ef","Aluno","Januária","Apartamento",0,1,0,0,1,1,1,0,0,0
+"309","26/03/2020 15:33:42","e0339c40080badbae20ae9577cd08f8e","Aluno","Januária","Pensionato",0,15,8,2,5,3,2,0,0,0
+"311","26/03/2020 15:37:01","f9d6a9eb364af251a7535519e8de7e02","Aluno","Januária","Casa",0,2,1,2,2,2,1,0,0,0
+"312","26/03/2020 15:39:41","58190e63ae0805183c388d6c73c73689","Aluno","Januária","Casa",0,1,1,0,2,2,1,0,1,1
+"313","26/03/2020 15:40:11","2776ab3a60619f23a688282559ff24ff","Aluno","Januária","Casa",0,2,0,2,2,3,2,0,0,0
+"315","26/03/2020 15:45:38","a94d99bea9d447e8262b41012ea60145","Aluno","Januária","Casa",0,2,1,0,2,2,1,0,0,1
+"316","26/03/2020 15:47:21","2368ee142a59a2cbbe4c893ed159e00d","Aluno","Januária","Casa",0,4,0,0,3,3,3,0,0,2
+"319","26/03/2020 15:50:07","64651e552c30450be8b752fca197430a","Aluno","Teófilo Otoni","Casa",0,2,2,0,0,3,2,1,0,1
+"320","26/03/2020 15:52:12","e802bbc5741ed2a33f6271859475bd6b","Aluno","Januária","República",0,12,0,0,0,8,11,1,0,11
+"321","26/03/2020 15:52:37","3e3a084e6cc416bd6696ed0a264353e6","Aluno","Januária","Casa",0,1,2,0,0,2,2,1,0,1
+"322","26/03/2020 15:53:35","57305986cab5d8694fa6a51a2e986492","Professor","Januária","Casa",1,3,0,0,0,4,3,2,0,0
+"323","26/03/2020 15:56:08","1f786ebfa2810296fbcffaffb698518d","Aluno","Januária","Casa",1,3,0,2,0,5,2,0,0,3
+"324","26/03/2020 16:03:10","e5aebeed6a7d0462b9aefc7ea1d241fd","Tecnico administrativo","Januária","Casa",1,2,0,0,1,3,1,0,1,0
+"326","26/03/2020 16:06:59","826768ac4db4547ffc51f24365941208","Aluno","Januária","Casa",2,4,2,1,1,3,4,2,1,1
+"327","26/03/2020 16:07:01","c84c4528db618564ccf7bdcdd8e4f2fd","Aluno","Januária","Casa",0,1,1,0,0,1,1,1,0,0
+"328","26/03/2020 16:08:00","5e7c18bcddc2a16d6a2781d0e0a0864d","Aluno","Januária","República",0,3,0,0,0,3,3,0,0,0
+"332","26/03/2020 16:11:36","f5857890dcc5ebbed82488bbae5bb51f","Aluno","Januária","Casa",1,2,0,0,0,2,2,0,0,1
+"333","26/03/2020 16:11:59","a88c5469d1b337c5079505d1199257f9","Aluno","Januária","República",0,6,0,0,0,3,6,0,0,0
+"334","26/03/2020 16:19:18","6f24c6c9b3580f7a88b3e73587ec64cb","Aluno","Teófilo Otoni","Casa",0,4,1,0,1,3,4,0,2,1
+"336","26/03/2020 16:20:31","349c56f7edf3aae79f30a36dc41dcb91","Aluno","Januária","Apartamento",0,3,0,0,0,1,1,0,2,0
+"337","26/03/2020 16:27:39","2a234e94dc4bc71879afc6efe228e1e6","Aluno","Januária","Apartamento",0,2,0,0,0,2,2,0,0,0
+"338","26/03/2020 16:28:38","2a234e94dc4bc71879afc6efe228e1e6","Aluno","Januária","Apartamento",0,2,0,0,0,2,2,0,0,0
+"339","26/03/2020 16:31:16","06ee5f4d6b5b4ca7b0b07eb80c875044","Aluno","Januária","Casa",0,2,2,0,2,2,2,1,1,2
+"340","26/03/2020 16:35:05","9ea30b2c5037de4b89eb1dc71fe8ae0b","Aluno","Januária","República",0,4,0,0,0,2,4,0,0,0
+"341","26/03/2020 16:35:34","fab6c34c7e0633e7b1dc717ca3a3ef87","Aluno","Januária","Casa",0,3,1,0,0,4,2,0,1,0
+"342","26/03/2020 16:37:54","5c8f7057ec2316a61708817d4e130005","Aluno","Januária","Casa",0,2,2,0,1,2,2,0,0,1
+"343","26/03/2020 16:39:44","c7bf5f6ed677daffb3395519f87633ae","Aluno","Januária","Casa",0,3,0,1,0,2,1,2,1,0
+"344","26/03/2020 16:44:37","c0e34baa8ff4a18403423828052bb636","Aluno","Januária","República",0,6,0,0,0,4,5,0,0,1
+"345","26/03/2020 16:46:07","2ff74f4c8d0873b5c2ec1b2cf571559d","Aluno","Januária","Pensionato",0,12,0,0,0,9,10,1,2,1
+"346","26/03/2020 16:46:18","f7bb5b4a9ba3d4ab302f799b3f368b15","Aluno","Januária","Casa",1,5,0,2,1,4,3,0,0,0
+"347","26/03/2020 16:46:32","9ff3970387841b35400aa30ee0682f67","Aluno","Januária","Casa",0,3,0,0,0,2,1,0,1,1
+"348","26/03/2020 16:47:39","a67a6288ae0a58613dd118b4476a9748","Aluno","Januária","Casa",0,4,2,0,0,3,2,0,1,1
+"349","26/03/2020 16:51:02","5e1be5f092b9dd6381680c09f980fea6","Aluno","Januária","Casa",0,4,1,0,1,2,3,0,0,1
+"351","26/03/2020 16:54:44","2c5dacd9a7b9d126076c89205f2e9907","Aluno","Januária","Casa",0,2,0,0,0,3,3,0,0,0
+"352","26/03/2020 16:55:37","fd45ae83cbd5b9413f0a12d130128cc2","Aluno","Januária","República",0,6,0,0,0,3,6,0,0,0
+"353","26/03/2020 16:58:48","43dacde9dbca990f041a04c7ffd6f29b","Aluno","Januária","Casa",0,3,1,1,0,3,2,0,1,0
+"354","26/03/2020 16:59:09","3319a73ea6123e38c76f293b2b543d8e","Aluno","Januária","Casa",0,2,2,0,0,3,2,1,0,1
+"355","26/03/2020 17:00:23","2770a4209aad045cdd5c69a1a74f16fb","Aluno","Januária","Casa",0,1,1,2,0,3,1,0,0,1
+"356","26/03/2020 17:01:09","3a613cd0f3716016ccc2b349945776b0","Aluno","Januária","Casa",0,1,1,0,0,2,1,0,0,1
+"357","26/03/2020 17:01:32","3a2df56bbb4d0612c02a085ef9992ab5","Aluno","Januária","Casa",0,3,1,1,1,4,3,0,0,0
+"358","26/03/2020 17:01:39","a738723d9fee51576d3150c08b7ecbbe","Aluno","Januária","Casa",1,2,0,0,1,2,0,1,0,1
+"359","26/03/2020 17:02:10","d62333485623e68c5b861d6a3ad8d6e8","Aluno","Januária","Apartamento",0,3,0,0,0,3,2,0,0,1
+"361","26/03/2020 17:04:22","6510145671963908bbe3c719d3884c54","Aluno","Januária","Casa",0,1,1,1,3,3,1,0,0,0
+"364","26/03/2020 17:08:05","f101d3e98489e130b87dd6fc6d7233a7","Aluno","Januária","Casa",1,2,2,0,0,3,2,0,1,0
+"365","26/03/2020 17:09:32","35834a4b998525f43463318798529702","Aluno","Januária","Apartamento",0,2,0,0,0,1,2,0,1,0
+"367","26/03/2020 17:09:49","459c57478b3cdf207c208e8bbed77d2d","Aluno","Januária","Casa",0,1,0,0,1,3,1,0,0,0
+"369","26/03/2020 17:15:44","c11dd43faaf829fea6bb4061e46301cc","Aluno","Januária","Pensionato",0,18,3,2,0,18,18,0,0,2
+"370","26/03/2020 17:21:51","021f965aed5bb0c422b59b5d925f5dcf","Professor","Januária","Casa",0,1,2,0,1,3,1,1,0,0
+"372","26/03/2020 17:29:36","d4f00c05d5886e88b19ecb8a2e5efb04","Aluno","Januária","Pensionato",0,20,2,2,0,17,15,1,1,0
+"373","26/03/2020 17:30:01","0ac7571fdbb76d1482056766019ccfed","Aluno","Januária","Casa",0,1,2,2,1,6,1,1,0,1
+"374","26/03/2020 17:32:29","ca4f319756e4129fca26ec5de2870724","Aluno","Januária","Casa",0,4,2,0,1,3,3,3,0,0
+"375","26/03/2020 17:35:26","0c27aceecb7cd6f50bfad170a889de54","Aluno","Januária","Casa",0,2,0,1,2,3,2,0,2,2
+"376","26/03/2020 17:44:07","084a1f1c536abd40174ec7cf574c7a36","Aluno","Januária","Apartamento",0,1,0,0,0,1,10,0,0,0
+"377","26/03/2020 17:48:52","2c58fe0a88f2925367e46a7dc823b68c","Aluno","Januária","República",0,3,0,0,0,3,3,0,0,0
+"378","26/03/2020 17:50:27","fdd9b7c62544f2519fdb372b8e2ab810","Aluno","Januária","Casa",1,2,1,0,1,4,1,0,0,1
+"379","26/03/2020 17:54:31","de4807637dcc7ca67550a84c41991fc3","Aluno","Januária","Casa",0,3,2,0,0,3,2,1,0,1
+"382","26/03/2020 18:00:29","c8996ded816039434d1cf6666eedbd14","Aluno","Porteirinha","Casa",0,2,2,0,0,3,2,0,1,1
+"384","26/03/2020 18:02:30","2d2114fe97a85dd27d6d0811b7802234","Aluno","Januária","Apartamento",0,2,0,0,0,2,2,0,0,1
+"385","26/03/2020 18:02:32","b593da35b423623a0021a7fab748aa4b","Aluno","Porteirinha","Casa",0,1,1,2,3,3,1,1,0,1
+"386","26/03/2020 18:02:56","8c5ea82eb5d87e317b71512f5da74da7","Aluno","Porteirinha","Casa",0,3,0,0,0,3,1,0,0,2
+"387","26/03/2020 18:03:19","4bd3508c31e81d1dddfbb442b8db2547","Aluno","Porteirinha","Casa",0,1,2,0,2,2,1,1,1,0
+"388","26/03/2020 18:04:16","8b4c0b0bde2550396dab91263f952dfd","Aluno","Porteirinha","Casa",0,2,2,0,2,3,1,1,0,1
+"389","26/03/2020 18:04:21","c959b977150ba9443b94503ba8238a21","Aluno","Porteirinha","Casa",0,1,1,0,1,3,2,0,0,0
+"390","26/03/2020 18:04:47","57831e27537987303a6a455805b57bf6","Aluno","Porteirinha","Apartamento",0,1,0,0,0,2,0,0,1,0
+"391","26/03/2020 18:04:52","4861b2ec18d4dff805289277557798d6","Aluno","Porteirinha","Casa",0,1,0,0,0,1,1,0,0,0
+"392","26/03/2020 18:05:19","c67b034d63f909bf898e82d1c6cc3500","Aluno","Porteirinha","Casa",1,3,0,0,0,3,2,0,0,3
+"393","26/03/2020 18:06:46","b1580f42baf18113ed4c8732b9014419","Aluno","Porteirinha","Casa",1,2,1,1,0,4,2,1,0,1
+"394","26/03/2020 18:06:59","d320681c7c031c9101b6ec17627e01fd","Professor","Araçuaí","Casa",0,4,0,2,2,4,4,2,2,1
+"398","26/03/2020 18:07:33","560ea98a38f6ec5aca87a6a5763697a2","Aluno","Porteirinha","Casa",0,1,0,1,1,3,1,0,0,0
+"399","26/03/2020 18:08:49","57e67a496b970f1011d7205d649e5802","Aluno","Porteirinha","Casa",0,2,0,0,0,2,2,0,0,0
+"400","26/03/2020 18:11:33","8e739fc9480c4e378e50d4d996225776","Aluno","Montes Claros","Casa",0,2,2,0,0,4,2,0,0,0
+"402","26/03/2020 18:12:02","7d1264bfbdd970b7e758abe134af701b","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"403","26/03/2020 18:12:06","1444bdd6b6dd8b8cec97cb9ecb4b9c42","Aluno","Montes Claros","Apartamento",0,1,0,0,0,2,1,0,0,0
+"404","26/03/2020 18:12:52","7fe40b2bbd6a29d7ee2a062447f99752","Professor","Montes Claros","Casa",0,3,1,0,0,2,4,1,0,0
+"405","26/03/2020 18:13:46","fb98a2174687453845b6691d78eb98d4","Tecnico administrativo","Montes Claros","Apartamento",0,1,0,0,0,1,1,0,0,0
+"406","26/03/2020 18:14:23","3c994bf178461e9ca63e143e7da440e2","Aluno","Porteirinha","Casa",0,1,2,0,2,3,1,1,0,0
+"407","26/03/2020 18:14:42","37f1fe6bc6e9a0844b084596fda4ae8b","Aluno","Porteirinha","Apartamento",0,1,0,0,0,1,1,0,0,0
+"408","26/03/2020 18:14:47","024faff9ac89769cb8b0d8cdcc1ab517","Aluno","Montes Claros","Casa",1,2,2,0,0,2,2,0,1,0
+"409","26/03/2020 18:16:23","dd8a30a8ba88c8fe26f545832dddd0b8","Aluno","Montes Claros","Casa",0,1,1,0,0,2,1,0,0,1
+"410","26/03/2020 18:16:32","fcef1130ab9a764453eed3fad26b2303","Professor","Porteirinha","Casa",0,1,2,0,0,3,1,1,1,1
+"411","26/03/2020 18:16:47","b7930259bc09bf73d96b7db7e66691b0","Aluno","Montes Claros","Casa",1,3,4,2,5,6,5,0,0,1
+"412","26/03/2020 18:18:18","d9ba3d1fbac56bf083fe6f7f95480615","Aluno","Salinas","República",0,5,0,0,2,4,5,0,0,0
+"413","26/03/2020 18:18:56","1a63fae0ac07e3cb8eb7e24462a36e97","Aluno","Januária","Casa",6,3,2,1,0,3,1,2,1,1
+"415","26/03/2020 18:19:57","def03ac3c62acda742ea3b3eee24969c","Aluno","Salinas","Apartamento",0,4,0,0,0,2,4,0,0,0
+"416","26/03/2020 18:19:59","43d1c33f06f36ad4095da7c592057de8","Professor","Januária","Casa",0,2,1,0,1,3,1,1,0,0
+"417","26/03/2020 18:20:14","5aa294be27df7abab82d8f46dd960ac2","Aluno","Salinas","República",0,6,2,0,2,2,3,0,0,3
+"418","26/03/2020 18:20:31","75c2ac2736bef0eb6ec167347dae0ad2","Professor","Montes Claros","Casa",1,2,0,0,1,9,0,1,0,0
+"419","26/03/2020 18:21:59","5a69ed06c5be4ce862d2e7ac4a2572ac","Professor","Montes Claros","Casa",0,1,2,0,3,4,0,1,0,0
+"420","26/03/2020 18:22:30","599ffbb12a93a84b534edfcd12b9ec6b","Aluno","Janaúba","Apartamento",0,2,0,0,0,2,1,0,1,0
+"421","26/03/2020 18:23:32","49db7949a75ae2bf91d2d8e0572499c2","Aluno","Montes Claros","Casa",0,5,0,1,2,3,4,0,0,0
+"422","26/03/2020 18:23:45","ad19858f3fa2bff08eabe36610ec9377","Aluno","Januária","República",0,13,0,1,2,15,13,1,0,1
+"423","26/03/2020 18:24:49","4d365a8db2510a5db2eebaa44b45afaa","Aluno","Salinas","Apartamento",0,3,0,0,0,2,3,0,2,0
+"424","26/03/2020 18:24:58","156d2e5b229af0b363b7c11ee50d7f53","Aluno","Araçuaí","Casa",1,2,0,0,0,3,2,0,0,1
+"427","26/03/2020 18:27:55","ef9c36902907f41cfb60efb767e3998a","Aluno","Januária","Casa",2,4,2,0,0,3,1,0,3,0
+"428","26/03/2020 18:28:57","09559de38c98b40e1bffdf7a3c18a0bd","Aluno","Salinas","Casa",0,1,1,1,1,2,2,1,0,0
+"429","26/03/2020 18:29:32","2ee5c13f5e8f43ca61b8480b83963089","Aluno","Salinas","Casa",2,2,0,0,0,3,1,1,1,0
+"431","26/03/2020 18:30:34","213142219cc0a476f70c7ba5d04063b3","Aluno","Porteirinha","Casa",1,4,1,1,0,5,2,0,2,0
+"432","26/03/2020 18:30:58","f93b37d73e5ea6402bc229533d0f1541","Aluno","Januária","Casa",0,3,2,0,1,3,3,1,0,0
+"433","26/03/2020 18:31:10","1dd1b488519fdb023adc2f54328e606b","Aluno","Montes Claros","Casa",0,3,2,0,0,5,3,0,1,0
+"434","26/03/2020 18:31:19","9e24f149410b4400075a94f043378570","Aluno","Montes Claros","Casa",1,3,1,0,3,5,2,0,0,0
+"435","26/03/2020 18:32:23","c2fc47560c4a9ed9fb247ac7691faca6","Aluno","Porteirinha","Apartamento",0,1,0,0,0,2,1,0,1,0
+"436","26/03/2020 18:32:35","ec41e8ad32c9ee462d9bf1ccfc36820d","Aluno","Porteirinha","Casa",1,1,0,1,1,2,1,0,0,0
+"439","26/03/2020 18:37:00","89d7f1f0be81ca64aa3cca88a55ce034","Aluno","Januária","Casa",1,4,1,1,1,3,5,0,0,0
+"440","26/03/2020 18:37:33","3784d76cbc4944e5d03fd1569c621cb1","Aluno","Montes Claros","Casa",0,3,4,3,4,6,3,3,0,0
+"441","26/03/2020 18:38:41","6878c0358a00529f794da928bb189362","Aluno","Montes Claros","Casa",0,2,0,0,1,2,2,0,0,2
+"443","26/03/2020 18:39:43","e4218ab31ef8eb37e1a6f2370675bfc6","Aluno","Montes Claros","Casa",2,2,2,1,1,2,6,0,0,1
+"445","26/03/2020 18:41:41","c216deadaec5459be46b85ae2284a486","Aluno","Montes Claros","Apartamento",0,3,0,0,0,2,3,0,0,1
+"446","26/03/2020 18:43:26","b5da8af22e8b7fd47070639e7a4787ef","Aluno","Porteirinha","Casa",0,3,2,0,0,3,3,0,0,1
+"447","26/03/2020 18:47:53","4a643142bed7b84f22d56c4040820c2d","Aluno","Porteirinha","Casa",0,3,2,0,0,4,3,0,1,2
+"448","26/03/2020 18:48:29","7ee5d3696e693595389ba51d3e6e490b","Professor","Diamantina","Apartamento",0,2,0,0,0,2,0,2,0,0
+"449","26/03/2020 18:48:56","7e596283418229933fbb0ecf74971a7c","Aluno","Montes Claros","Casa",0,2,2,0,4,2,3,0,1,0
+"450","26/03/2020 18:48:57","fe86c44ad7460ceb27df8955269511a9","Aluno","Porteirinha","República",0,6,0,0,0,5,4,0,1,4
+"451","26/03/2020 18:49:04","03e19ff3b0bfc5730ad86aa4c6a53b09","Professor","Diamantina","Apartamento",0,2,2,0,2,3,2,1,0,0
+"452","26/03/2020 18:49:05","6663913f259fb28cafc74f207eb200b9","Aluno","Januária","República",0,3,0,0,0,3,2,0,1,0
+"453","26/03/2020 18:50:18","1f096f76535579c799704028db5bc1de","Aluno","Montes Claros","Casa",0,2,2,0,1,3,2,2,0,1
+"454","26/03/2020 18:50:45","52d85ff48ee9b6cbce0801e7d17c4e48","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"455","26/03/2020 18:51:03","a93eb8b686a7be9bff55ea910040fc95","Professor","Montes Claros","Casa",0,2,0,0,1,3,1,1,0,0
+"456","26/03/2020 18:51:59","0ae2b2cd3f9d9e60d1dfadbe7821f51a","Aluno","Porteirinha","Casa",2,3,0,0,1,2,4,0,0,2
+"457","26/03/2020 18:52:50","53f07b25264b4b38c09c8992d4f517f3","Aluno","Montes Claros","Casa",1,2,1,0,1,5,1,0,1,1
+"458","26/03/2020 18:53:08","27b61733e74ecf4a891b98872835499a","Aluno","Januária","Casa",1,7,1,0,0,4,5,0,0,1
+"462","26/03/2020 18:56:09","9b090e1b432b0fbeb04e40a40306902d","Aluno","Montes Claros","República",0,3,0,0,1,2,3,0,1,1
+"463","26/03/2020 18:56:16","8fef6a4e96242777ddf3fe6b10ed9683","Aluno","Montes Claros","Apartamento",0,3,0,0,0,2,3,0,0,0
+"464","26/03/2020 18:56:18","28f6b6e11150a2d02dd869639a64a44e","Aluno","Montes Claros","Casa",0,2,2,0,0,2,2,1,0,0
+"465","26/03/2020 18:56:21","5ab803761a0954b1a7a5585e51b09b47","Aluno","Montes Claros","Casa",0,2,2,0,0,4,1,1,1,0
+"466","26/03/2020 18:56:24","1f7557c1ac0fc5771466e06d787b68f9","Aluno","Montes Claros","Casa",0,4,0,0,0,2,2,0,1,1
+"467","26/03/2020 18:56:26","2b7dcdc758305f2d71429973874221e0","Aluno","Montes Claros","Casa",0,1,2,0,2,2,1,0,0,0
+"468","26/03/2020 18:56:29","060c3adbcb7f05be061c9d09b788ed4d","Aluno","Araçuaí","Casa",0,2,1,0,0,4,2,0,0,0
+"469","26/03/2020 18:56:34","09c810d8105edf9a213e7791d8339c1c","Aluno","Montes Claros","Casa",0,2,2,0,1,3,2,0,0,0
+"470","26/03/2020 18:56:45","3c95656b953586352c8c2f76808052e6","Aluno","Montes Claros","Casa",0,2,0,3,2,5,2,0,1,1
+"471","26/03/2020 18:56:58","0c517d4ba631ef81b1ad3e817b62424b","Aluno","Montes Claros","Apartamento",0,3,2,0,0,3,3,1,1,1
+"474","26/03/2020 18:58:13","a1109806c0264db33ac8f9d236ddb87a","Aluno","Montes Claros","Casa",0,4,2,0,2,3,3,1,0,1
+"476","26/03/2020 18:58:40","0a9ae21b3bb55e14acd66f309713b17b","Aluno","Montes Claros","Casa",0,4,0,0,0,3,4,2,1,1
+"477","26/03/2020 18:58:43","25b64193054bfb53574d275e70ee9327","Aluno","Montes Claros","Casa",0,1,2,0,0,3,1,0,1,0
+"478","26/03/2020 18:58:43","2ccfe10898a46077fadf72aa40a336e4","Aluno","Montes Claros","Apartamento",0,4,0,0,0,2,4,0,0,0
+"479","26/03/2020 18:58:51","ddd9084ee2ff64e88c223ebb81ca255b","Aluno","Montes Claros","Apartamento",0,21,2,0,0,2,2,0,0,0
+"480","26/03/2020 18:59:00","60f9d5fa44f50df1dc873ca8ed48ef05","Aluno","Montes Claros","Casa",0,2,2,0,0,3,4,2,1,1
+"481","26/03/2020 18:59:03","8c04f253f6e2289dcc6d524515917d3d","Aluno","Montes Claros","Casa",2,2,1,0,0,3,1,1,0,0
+"482","26/03/2020 18:59:05","b2611a9064651b5d3cc7ca25fed29ef3","Aluno","Montes Claros","Casa",0,1,2,0,2,4,1,1,0,1
+"483","26/03/2020 18:59:26","1d86e3f569ced62a672dd5b961df4819","Aluno","Montes Claros","Casa",0,2,2,0,0,2,1,0,1,0
+"484","26/03/2020 18:59:39","181c6a5431603ef373de8fece0c9165e","Aluno","Montes Claros","Casa",0,1,0,1,0,2,1,1,0,0
+"485","26/03/2020 18:59:42","637ccdafa2f46478c0639bf175e23d33","Aluno","Montes Claros","Casa",0,1,1,0,2,3,1,0,0,0
+"486","26/03/2020 18:59:43","6bccf6dedada2f2bfa58f825223eda4e","Aluno","Montes Claros","Apartamento",0,4,0,0,0,4,4,0,0,0
+"487","26/03/2020 18:59:50","8a46205a05d8bc28a16767ed4ba2f491","Aluno","Montes Claros","Casa",1,3,0,0,0,3,3,0,0,2
+"488","26/03/2020 18:59:54","a3411809ab99610314e95a407822a5cf","Aluno","Montes Claros","Casa",0,4,2,0,2,3,1,0,1,1
+"489","26/03/2020 19:00:12","47b11722316a444aa57ee77c49315f02","Aluno","Montes Claros","Apartamento",0,1,1,0,1,2,2,0,0,0
+"491","26/03/2020 19:00:34","a1a26f0de6336e64b02a6b66407e947f","Aluno","Montes Claros","Casa",0,4,1,0,2,3,3,0,0,0
+"492","26/03/2020 19:00:35","4bcf468b365888d94752ece62e51fde8","Tecnico administrativo","Diamantina","Apartamento",0,1,0,0,0,1,1,0,0,0
+"493","26/03/2020 19:00:40","97c36f192072bf934898b581efbe9eb1","Aluno","Montes Claros","Casa",1,0,2,0,0,3,2,2,0,0
+"495","26/03/2020 19:02:17","c009ef2080481f8b0b964bf249bada64","Aluno","Montes Claros","Casa",0,2,2,0,0,2,3,0,0,0
+"496","26/03/2020 19:02:54","394f61460c0d3be6ceed460276a0d4e7","Aluno","Montes Claros","República",0,3,0,0,3,2,3,0,2,0
+"497","26/03/2020 19:02:59","638b4452178c196a90a4fe8c5a449f8b","Aluno","Montes Claros","Casa",0,1,2,0,1,3,2,0,0,1
+"499","26/03/2020 19:03:26","1846b723413229dbc4a34424a4a8789e","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,0,0,0
+"500","26/03/2020 19:03:39","325080a04c1f7161921aa820502c08c6","Aluno","Salinas","República",0,4,0,0,0,3,4,0,1,1
+"501","26/03/2020 19:03:55","f3758cd5036883a371328965bc117eea","Aluno","Montes Claros","Casa",0,2,0,0,0,2,1,0,0,0
+"502","26/03/2020 19:04:09","4435780fd02ef7e177cd64896b582dad","Aluno","Montes Claros","Casa",1,4,2,0,1,4,4,0,0,1
+"503","26/03/2020 19:04:12","1ddb3d8dacb3c6f8bad4ed5018045410","Aluno","Montes Claros","Casa",0,4,0,0,0,2,3,0,0,0
+"505","26/03/2020 19:04:47","aefc9b8819376daea906236fd45e49b1","Aluno","Montes Claros","Casa",1,3,0,0,0,3,3,0,0,2
+"507","26/03/2020 19:05:27","df62b29f3a560cabfd8207fe9580f747","Aluno","Montes Claros","Apartamento",0,4,1,0,1,3,3,0,0,1
+"508","26/03/2020 19:05:41","9e9e94959c95baa9bbc579987eeec033","Aluno","Montes Claros","Apartamento",0,1,0,0,0,2,1,0,0,0
+"509","26/03/2020 19:05:43","2f3d0892f5e7e68c7a1785c902ef4a7f","Aluno","Montes Claros","República",0,2,0,0,0,3,3,0,0,0
+"510","26/03/2020 19:05:48","096f45417382409e6863f8446e4f8aec","Aluno","Montes Claros","Casa",0,3,0,0,1,2,1,1,0,1
+"511","26/03/2020 19:05:50","182475f0c0ad26f98e51296a6225612b","Aluno","Montes Claros","Casa",0,2,2,1,1,2,2,0,0,0
+"512","26/03/2020 19:06:12","045aae0bee808435e386215e2cafe7f6","Aluno","Araçuaí","Casa",0,2,2,0,0,3,2,1,1,1
+"513","26/03/2020 19:06:14","6c9322d4b0ee374b5149b8708e981f0b","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"514","26/03/2020 19:06:50","0e092860c8a34c1abc3f211ab95734a6","Aluno","Montes Claros","Casa",0,2,2,0,0,4,2,0,0,0
+"515","26/03/2020 19:07:13","b9ef0e763cf3cb6a6a007acec212dc26","Aluno","Montes Claros","Apartamento",0,1,0,0,0,2,1,0,0,0
+"517","26/03/2020 19:07:55","d11425d3c79973327aa5530eb32693e4","Aluno","Montes Claros","Casa",0,1,0,1,0,2,1,0,0,0
+"518","26/03/2020 19:07:55","bb3a4a61de134cc8a87f98e6a868ded4","Aluno","Teófilo Otoni","Casa",0,5,0,0,0,3,3,0,0,1
+"519","26/03/2020 19:08:13","6d72832e45783f2f41096824c05ffbf6","Aluno","Montes Claros","Casa",0,3,1,1,3,4,2,1,1,2
+"520","26/03/2020 19:08:23","5a1a8b5a56749039e28fb6e378a48b98","Aluno","Montes Claros","Pensionato",0,7,0,0,1,7,7,0,0,0
+"522","26/03/2020 19:09:02","7295278b99d74a9036b5b98a049c176c","Aluno","Montes Claros","Casa",0,1,2,0,0,2,1,0,1,1
+"523","26/03/2020 19:09:39","f6b068b5e4e9e7609e1c6806e66ede25","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,1,1,0
+"525","26/03/2020 19:10:23","1ee4578e9b629eb6f0183e2f53d2ef84","Aluno","Montes Claros","Casa",0,2,0,0,0,2,2,0,0,0
+"526","26/03/2020 19:10:25","0e18bbd2d4d264ba737911d51c6bbc2c","Aluno","Montes Claros","Casa",1,1,0,2,2,3,2,0,2,2
+"527","26/03/2020 19:11:50","f55d66d3882f4376e82bf726864db734","Aluno","Montes Claros","Casa",0,1,2,0,0,2,1,0,0,1
+"528","26/03/2020 19:12:15","30b494a5d475e2a762969ed03c712faa","Aluno","Montes Claros","Casa",0,3,2,0,2,4,2,1,3,0
+"529","26/03/2020 19:12:31","d0908f5952927a6b3ac62482ce6c8698","Aluno","Montes Claros","Casa",0,3,1,0,0,3,3,0,0,0
+"530","26/03/2020 19:12:36","572ab2383217761ff84d6a9cc940a984","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,1,2,1
+"531","26/03/2020 19:12:50","7a8117cbccdd81f698133d2ea42e3614","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"532","26/03/2020 19:12:58","4e7e30e2236492924695e979b4ec29f7","Aluno","Montes Claros","Apartamento",0,0,0,0,1,2,0,0,0,0
+"533","26/03/2020 19:13:38","d027d392920a13c38ca6e6780551a346","Aluno","Montes Claros","Apartamento",0,2,0,0,0,1,2,0,0,0
+"534","26/03/2020 19:14:12","ec4375096564567b302a62e85a7c9290","Aluno","Montes Claros","Apartamento, República",0,2,0,0,0,2,2,0,0,0
+"535","26/03/2020 19:15:35","d10c65f01c5b4a6364d5f9068d694f7d","Aluno","Montes Claros","Apartamento",0,3,0,0,2,2,2,0,0,1
+"536","26/03/2020 19:16:25","982372ad93715b0b925ed089261c6aec","Aluno","Montes Claros","Casa",0,3,2,0,1,3,3,1,0,1
+"537","26/03/2020 19:16:50","d535902df3a845530a984f9b60df6b45","Aluno","Montes Claros","Apartamento",0,2,0,0,1,2,2,0,0,0
+"539","26/03/2020 19:17:55","cc3882876a606c83d0097572206f184a","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,1,0,0
+"540","26/03/2020 19:18:23","25af13d51e5ce56ef827e94ef420e62d","Aluno","Montes Claros","Casa",0,3,2,0,0,3,2,0,0,2
+"541","26/03/2020 19:18:43","d78cd9adaaeb289bd8e94f74fefc71a6","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"542","26/03/2020 19:19:06","acb459f968735d61500c7bf7f7f25369","Aluno","Montes Claros","Casa",0,4,2,0,3,4,2,0,2,1
+"543","26/03/2020 19:19:17","df4f0851bc903f1722505ad0634db292","Professor","Diamantina","Apartamento",0,3,0,0,1,2,0,2,0,1
+"544","26/03/2020 19:19:18","18303d3cff2b1c24fbec760c21d323e4","Aluno","Montes Claros","Casa",0,3,2,0,1,5,3,0,0,1
+"546","26/03/2020 19:21:10","dab831bf6fa7b809fb307d98c5ec2ff7","Professor","Montes Claros","Apartamento",2,0,2,0,2,3,2,1,0,0
+"547","26/03/2020 19:22:10","e5073019bda21e86deadadb88676d92b","Professor","Diamantina","Casa",2,2,0,0,0,3,2,1,1,0
+"549","26/03/2020 19:22:55","ccc6d59d87ba8745194e76f83e814adf","Aluno","Januária","Casa",3,4,0,0,0,3,2,0,1,0
+"550","26/03/2020 19:23:57","2e67ddfacf0eb617930288e10fba38bd","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"551","26/03/2020 19:24:11","c87d48fc4ab63b7ecac21942c38af876","Aluno","Montes Claros","Casa",1,3,2,0,0,2,3,1,0,2
+"552","26/03/2020 19:24:16","9b1e0cb6163fb2f83d0f594d8e961876","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"553","26/03/2020 19:24:21","a68175320e9833da676ce6bc3e99bb2b","Aluno","Montes Claros","Apartamento",0,3,2,0,0,3,3,1,0,2
+"554","26/03/2020 19:24:46","ac42790991bbcd53f81bba68c4f68cc5","Aluno","Montes Claros","Casa",0,2,2,0,1,3,2,0,0,0
+"555","26/03/2020 19:25:48","b52df7b9d5d2075704f8bd565de778ee","Aluno","Montes Claros","Casa",0,3,2,0,1,4,2,0,0,1
+"557","26/03/2020 19:27:58","3c05965e975947376d5d6ad0f6a4d95d","Aluno","Montes Claros","Casa",0,2,2,0,1,3,2,0,2,1
+"559","26/03/2020 19:29:49","1ed7bbc7e17d2cf538cc4f219c34ac1b","Aluno","Montes Claros","Casa",0,1,0,2,0,2,1,0,0,1
+"560","26/03/2020 19:29:50","28c05a05d67a6d8ac0b659f17ea4e2c7","Aluno","Montes Claros","Casa",0,2,1,0,0,3,3,0,2,0
+"561","26/03/2020 19:29:58","25f0529ea909942a492c831025091652","Aluno","Montes Claros","Casa, Pensionato",0,2,0,0,0,3,1,0,1,0
+"562","26/03/2020 19:30:01","32a1b906779b6e4a031bc892d974ae9b","Aluno","Montes Claros","Casa",0,2,2,0,1,5,3,1,0,0
+"563","26/03/2020 19:30:22","64c7b8d81961e70df7f5aa69a8750293","Aluno","Montes Claros","Casa",1,2,1,0,1,3,2,0,0,1
+"565","26/03/2020 19:30:32","57151198ae37201e5eb7420ca560149f","Aluno","Montes Claros","Apartamento",0,3,0,0,0,2,2,0,0,1
+"566","26/03/2020 19:30:51","f235f8f1fcfcf59f66dd01f5e16115f2","Aluno","Montes Claros","Casa",0,1,2,0,0,2,1,0,1,0
+"567","26/03/2020 19:30:52","c4eba63d0b0c2700ce6313342305976a","Aluno","Montes Claros","Casa",0,2,0,0,0,2,2,0,0,0
+"568","26/03/2020 19:31:38","6df41835dbb4211c053ff60623db6325","Tecnico administrativo","Diamantina","Casa",0,0,0,0,0,3,1,0,0,0
+"570","26/03/2020 19:33:06","15079a2556930bf2c771a5e655a80bb7","Aluno","Montes Claros","Casa",0,3,2,0,0,4,1,0,0,3
+"571","26/03/2020 19:34:05","a20916b6d84f3d8bf6323928de8d8bcb","Aluno","Montes Claros","Casa",0,1,0,2,1,2,1,0,0,0
+"572","26/03/2020 19:34:12","bd65faf4dae98396eff013392be88413","Aluno","Montes Claros","Casa",0,3,1,0,1,4,2,0,0,3
+"573","26/03/2020 19:34:32","31845d10d1fd4b193c8acb0084c7d522","Aluno","Porteirinha","Casa",0,2,2,0,1,4,2,1,0,1
+"574","26/03/2020 19:34:51","ef79270389dff9897c7c25516349748b","Aluno","Montes Claros","Casa",0,2,1,0,1,2,2,0,0,1
+"575","26/03/2020 19:34:51","97c2bdcbd6a5037f3c72b22eebfa5fe4","Aluno","Montes Claros","Casa",0,1,2,0,0,3,1,1,1,1
+"577","26/03/2020 19:37:04","589e3e46e4c905d978697fa3ffceafc4","Professor","Montes Claros","Casa",0,2,2,0,1,4,2,1,0,1
+"578","26/03/2020 19:37:06","b04d81c3682e26801faef6a32d512a49","Aluno","Montes Claros","Casa",0,1,2,0,0,3,1,0,0,1
+"579","26/03/2020 19:37:47","89d92a2d93c9aec477dd89825746d031","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"580","26/03/2020 19:37:55","fe3e521dd737324aea8fc4ea3f721c6d","Aluno","Montes Claros","Casa",0,1,1,0,0,3,1,0,0,0
+"581","26/03/2020 19:38:48","cd05a4b43cb2bb90bfe7c87bdc5526c9","Aluno","Porteirinha","Casa",0,1,2,0,1,2,2,0,1,0
+"582","26/03/2020 19:40:30","84d7bdfc992e36a0de8f8c46e80af22b","Aluno","Montes Claros","Casa",0,2,2,0,2,2,2,0,2,0
+"583","26/03/2020 19:40:38","3df8e9d8d1af1ea6368f46dc63e29836","Aluno","Montes Claros","Apartamento",0,3,0,0,0,2,1,0,0,0
+"584","26/03/2020 19:40:51","d8b79a2d46bf41838583d1aa90219796","Aluno","Montes Claros","Casa",0,1,2,0,1,2,1,0,0,0
+"587","26/03/2020 19:41:47","858a36ea03cd925a433cfac0e16f9b72","Aluno","Montes Claros","Apartamento",0,4,0,0,0,2,4,0,0,1
+"588","26/03/2020 19:42:33","11189db50ad6917282a8e0120ae96858","Professor","Diamantina","República",0,5,0,0,0,5,5,1,0,0
+"589","26/03/2020 19:42:56","c084222a37df580d499c05f39bf49785","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,1,0
+"591","26/03/2020 19:43:05","e7af80d7bc9f9599825b6617af5e5366","Aluno","Montes Claros","Apartamento",0,3,0,0,2,3,3,0,0,0
+"592","26/03/2020 19:43:15","fe1db3f1809d34ca8a9d189f791e1b9e","Aluno","Montes Claros","Casa",0,2,0,0,1,3,1,1,0,0
+"594","26/03/2020 19:43:34","a19dc5b9137f3f747b89dc1e65d13afd","Aluno","Montes Claros","Casa",1,2,2,0,0,2,2,0,0,1
+"595","26/03/2020 19:44:11","a3088b10a879a7eb30423cf00efd7cf2","Aluno","Montes Claros","Casa",0,2,2,0,1,4,2,1,0,1
+"596","26/03/2020 19:44:40","e6918ef5ced35557468c121a1fd4979f","Aluno","Montes Claros","Casa",0,2,2,0,0,2,1,0,3,0
+"597","26/03/2020 19:44:44","260bf1892503f6ace6545a2949c70a3c","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"598","26/03/2020 19:45:05","69f5f42edf1b0658492d7c695a43b091","Aluno","Montes Claros","Casa",0,2,0,0,1,3,2,0,0,0
+"599","26/03/2020 19:46:59","649c174cb846e74eeed5741abad6580a","Aluno","Montes Claros","Casa",1,3,0,2,2,3,2,0,1,1
+"600","26/03/2020 19:47:07","ed329961f176685e2a0c066023adf3df","Aluno","Montes Claros","Casa",3,6,0,3,3,4,5,1,1,2
+"601","26/03/2020 19:47:15","a1cb3e9ec39e3516047adc25c073dc0d","Aluno","Montes Claros","Casa",0,1,2,0,1,2,1,0,1,0
+"602","26/03/2020 19:48:34","c38bc7ebf297212c44e9b6df17b990dc","Aluno","Montes Claros","Apartamento",0,0,0,0,1,2,2,0,0,0
+"603","26/03/2020 19:48:48","164362d95b641a28caedb1097b695da9","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"604","26/03/2020 19:49:16","01b268f43c3c40db2daa851526d99934","Aluno","Montes Claros","Casa",1,2,2,2,3,4,3,0,1,1
+"605","26/03/2020 19:49:23","c33f0d2acaf27d0476a119038481dfce","Aluno","Montes Claros","Casa",6,1,1,2,1,4,2,0,0,0
+"606","26/03/2020 19:49:41","2c797f87b24649af295e6dcf2a5aaf65","Aluno","Montes Claros","Casa",0,2,0,1,0,3,1,0,0,2
+"607","26/03/2020 19:49:46","26e43d1cc5e01ea98887c1af69d7c629","Aluno","Montes Claros","Apartamento",1,3,0,0,0,2,1,0,1,0
+"608","26/03/2020 19:50:26","39058e845b967a1d55e46a17fb71bb6e","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"609","26/03/2020 19:50:48","5b92232345c82aaa7d3d02aa5ccce2a2","Aluno","Montes Claros","Casa",0,3,2,0,1,3,3,0,0,1
+"610","26/03/2020 19:51:16","35abf98c2ee9faf0f65e5e7fe40cccb7","Aluno","Montes Claros","Casa",1,2,2,0,1,2,3,0,1,1
+"611","26/03/2020 19:51:44","23317e26fe2f28c6a2bee73d299bfbe5","Aluno","Montes Claros","Casa",0,1,1,0,0,3,1,0,1,0
+"613","26/03/2020 19:52:55","e8f9ea90c719e9d571ef52c51df15864","Aluno","Januária","Apartamento",0,3,0,0,0,2,3,0,0,0
+"614","26/03/2020 19:55:12","e54332168128bfa34a474b3452a607d1","Aluno","Porteirinha","Casa",0,0,0,1,1,3,1,0,0,0
+"615","26/03/2020 19:57:32","5b677db9d0a5a08147ca55a268d07eac","Aluno","Porteirinha","Casa",0,2,1,0,1,3,1,1,0,0
+"616","26/03/2020 19:57:51","f863fdaa9e1d0dba03af0a2159da8314","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,0,1,0
+"617","26/03/2020 19:57:53","567c64db71a1abca4909e6320fc1e726","Aluno","Montes Claros","Casa",0,3,2,0,0,4,3,2,0,0
+"619","26/03/2020 19:58:48","d667df90c997122962aa59f0182b8949","Aluno","Montes Claros","Casa",0,3,1,0,0,3,2,0,0,0
+"620","26/03/2020 19:59:31","759f928aebbc6ece56f58cc6c67309f9","Aluno","Montes Claros","Casa",1,1,2,0,1,3,3,1,0,0
+"621","26/03/2020 19:59:43","792b843d467bf3210695143f65ecf898","Aluno","Januária","Casa",0,4,0,0,3,2,1,0,1,0
+"625","26/03/2020 20:05:21","8be6680175bc7f2dee5da4be5500de89","Aluno","Montes Claros","Casa",0,2,2,0,1,3,2,0,1,1
+"626","26/03/2020 20:06:48","b1bd714f447e6be09b38ce2981b15d0d","Aluno","Montes Claros","Casa",0,1,1,0,0,3,1,0,0,1
+"627","26/03/2020 20:07:25","a26aa39e1149573f2174e75765dd3430","Aluno","Montes Claros","Casa",0,3,2,0,1,4,3,0,2,0
+"628","26/03/2020 20:07:44","4755327b0b8bdcb6b488f0fd591d8632","Aluno","Montes Claros","Casa",0,2,1,1,2,3,2,1,1,0
+"629","26/03/2020 20:08:45","9a1b20e0636727f84746ce662c43d222","Aluno","Montes Claros","Apartamento",0,1,0,0,0,2,1,0,0,0
+"630","26/03/2020 20:08:54","bfb079022c2af8ae4fcd5893e95f37eb","Aluno","Montes Claros","Apartamento",0,2,0,0,1,2,2,0,0,0
+"631","26/03/2020 20:09:58","04aa098809e7e6e3be4b4ad025c0da4e","Aluno","Montes Claros","Casa",0,1,2,0,0,2,1,0,0,0
+"632","26/03/2020 20:11:17","9016f5a23949ed9bf5eb7d2fa4068870","Tecnico administrativo","Diamantina","Casa",1,3,0,0,0,2,1,0,0,0
+"633","26/03/2020 20:13:46","bae2524b0af431004c8135b1c0b92fba","Aluno","Porteirinha","Casa",2,3,0,0,1,2,4,0,0,1
+"634","26/03/2020 20:14:42","4070514bc1dbd7c73cf6e7eb93d2e5c6","Aluno","Montes Claros","Casa",3,1,2,0,0,3,1,0,1,0
+"635","26/03/2020 20:15:38","57dd9275da73ca80a9078045e7633022","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,0,1,0
+"636","26/03/2020 20:17:42","153d3e6090000a2fcba1a7fb065666cf","Aluno","Porteirinha","Casa",1,2,0,0,0,2,2,0,0,0
+"637","26/03/2020 20:18:24","102b9164ad75fd8873b8b70040a258df","Aluno","Januária","Alojamento",0,8,0,0,0,1,8,0,0,0
+"638","26/03/2020 20:19:26","986a7d19c9a18f1cb67bd4084238e4f8","Professor","Diamantina","Casa",1,2,0,0,0,3,1,1,0,1
+"639","26/03/2020 20:20:00","18bf498fa35bef8dab940b31c5ab18c2","Aluno","Montes Claros","Casa",0,1,1,1,2,3,2,2,1,0
+"640","26/03/2020 20:21:00","6e189edb2205d7dbfa2196160acd43ee","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"641","26/03/2020 20:21:58","f9e936e8e852dd50160e82995d556f6f","Professor","Diamantina","Apartamento",0,0,0,0,0,2,0,1,0,0
+"642","26/03/2020 20:22:30","e2376a4fd6112aa22a76ca41cb75fd83","Aluno","Montes Claros","Apartamento",0,2,0,0,2,2,2,0,0,1
+"643","26/03/2020 20:23:36","9497783415239ca060ccbde543c36b4f","Aluno","Montes Claros","Casa",0,4,2,1,2,6,3,1,0,0
+"644","26/03/2020 20:26:01","172a9a7d3b1e62bca865caa12947dc7f","Aluno","Porteirinha","Casa",0,2,0,0,0,2,1,0,0,0
+"645","26/03/2020 20:26:54","82eb9d58126dc98d852a4170ae2dfd5a","Aluno","Januária","Alojamento",0,10,0,0,0,1,10,0,0,0
+"647","26/03/2020 20:28:44","38b2289ceb617b36cdd440539d6ad7f4","Aluno","Montes Claros","Casa",0,2,2,0,1,2,2,0,0,2
+"648","26/03/2020 20:34:02","b930284090763a88140df300522d196b","Aluno","Montes Claros","Casa",0,2,1,1,2,3,2,0,1,2
+"649","26/03/2020 20:41:27","affe1f5bdbc454baa14bc98193eda00a","Aluno","Montes Claros","Apartamento",0,2,4,0,6,3,2,3,0,1
+"650","26/03/2020 20:43:46","affe1f5bdbc454baa14bc98193eda00a","Aluno","Montes Claros","Apartamento",0,2,4,0,6,3,2,3,0,1
+"651","26/03/2020 20:45:02","c19fb308b39b61664ae0e3e6629f5f90","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"652","26/03/2020 20:46:12","1f24c73ed2b3b72aa3757ea04914e9cd","Aluno","Montes Claros","Apartamento",0,0,0,0,0,2,1,0,0,0
+"653","26/03/2020 20:47:52","e47e66ff8524672f596583ae25399362","Aluno","Januária","Casa",1,4,2,0,0,4,2,1,1,1
+"654","26/03/2020 20:48:18","1b77c5c2a54b0bc56141d7c6451f7f42","Aluno","Montes Claros","Apartamento",0,1,1,1,2,3,1,0,0,1
+"655","26/03/2020 20:49:50","19419b443bce2dea185e696a7f4acabd","Aluno","Montes Claros","Casa",0,2,2,0,2,4,1,0,0,2
+"656","26/03/2020 20:49:53","92db88b673275ba2b6bc09aa2f31d65d","Aluno","Montes Claros","Apartamento",0,2,2,0,0,3,2,1,0,1
+"657","26/03/2020 20:50:41","4725a7000aa7c1bdb10dd4fb11b3894a","Aluno","Montes Claros","Casa",1,2,0,0,0,8,1,2,0,0
+"658","26/03/2020 20:52:34","6b0164cad3e87b3caa8606731bf13de5","Aluno","Montes Claros","Casa",1,1,2,0,2,2,1,0,1,0
+"659","26/03/2020 20:52:44","5fa2aa2604048d09d702d434f0e52b4e","Aluno","Montes Claros","Casa",0,3,1,0,1,3,2,0,1,0
+"660","26/03/2020 20:53:42","ab5a423321e2c91af0b4df68d1195a7d","Aluno","Porteirinha","Casa",4,2,2,0,1,3,2,0,0,2
+"661","26/03/2020 20:54:04","8137cbe9e764dfa339dcee531a410f85","Aluno","Montes Claros","Casa",0,1,1,1,3,5,1,0,1,0
+"662","26/03/2020 20:57:33","be4e28f2519466440c34dc275a675820","Aluno","Montes Claros","Apartamento",0,2,0,0,1,2,2,0,0,1
+"664","26/03/2020 21:03:42","19a046315aed0cb00e1027c8dab2c48f","Aluno","Montes Claros","Casa",0,1,2,0,0,2,1,1,0,0
+"666","26/03/2020 21:06:52","32b27af6023c9aa97e55597c80bbe63e","Aluno","Porteirinha","Casa",0,2,2,0,1,3,1,0,0,2
+"668","26/03/2020 21:08:34","e23b6d67d3e27ce337a6c3ac19608446","Aluno","Januária","Casa",0,3,0,1,0,6,1,0,2,0
+"669","26/03/2020 21:08:52","073eb9f4776d3f778070a57f50159ed9","Aluno","Januária","Pensionato",0,16,2,0,0,14,16,0,8,0
+"670","26/03/2020 21:09:34","5d51dbb29d4509496469f0c1c0c7f3e7","Aluno","Montes Claros","Apartamento",2,0,1,1,1,4,2,0,1,1
+"671","26/03/2020 21:10:06","c219f15e8be7c67290ce490fef0d61cd","Professor","Diamantina","Apartamento",0,2,1,0,0,3,2,1,0,0
+"672","26/03/2020 21:11:29","b4499db743a124c1785bb72b07cb94ca","Aluno","Montes Claros","Casa",1,2,0,0,0,2,1,0,0,0
+"673","26/03/2020 21:13:48","ce88dbb6359ccd646480d596c46a7752","Aluno","Araçuaí","Casa",0,1,2,0,1,3,1,0,0,0
+"674","26/03/2020 21:14:04","591b390905443afb8d4446b1528ae5fb","Aluno","Araçuaí","Fazenda",0,2,2,1,0,3,2,0,2,0
+"675","26/03/2020 21:14:35","570441853fa1e9c914caa6a5333af119","Aluno","Araçuaí","Casa",0,2,1,0,2,4,2,0,0,1
+"676","26/03/2020 21:15:02","4da10dfc7a712a5aa1a1db1533f5bdec","Professor","Diamantina","Casa",2,2,0,0,2,4,2,1,1,0
+"677","26/03/2020 21:17:56","5a922e54f31d8c70c36dbef98552f4cb","Aluno","Araçuaí","Casa",0,2,2,0,0,3,1,0,0,1
+"678","26/03/2020 21:18:44","93954da44469fdad6f0be0aba5825bd1","Aluno","Montes Claros","Casa",0,2,1,0,0,2,3,0,1,1
+"680","26/03/2020 21:21:33","836ebd6f5283309595415d3c799958f2","Aluno","Araçuaí","Apartamento",0,3,0,0,1,2,3,0,2,1
+"681","26/03/2020 21:21:46","44facf6f844e7469479f00179ccb2e7f","Aluno","Araçuaí","Casa",0,2,1,1,3,3,2,0,0,1
+"682","26/03/2020 21:25:45","ed7f16234606a3c556700e67dd2c0164","Aluno","Januária","República",0,5,0,0,0,4,4,0,2,0
+"683","26/03/2020 21:25:49","5a69ed06c5be4ce862d2e7ac4a2572ac","Professor","Montes Claros","Casa",0,1,2,0,3,4,0,1,0,0
+"684","26/03/2020 21:28:15","e42063ab9867b06cc1b6b859469fc732","Aluno","Montes Claros","Casa",0,2,2,0,1,3,2,1,0,1
+"685","26/03/2020 21:35:35","fa6e9f61be56927dd3e8e17e4fc96ba2","Aluno","Montes Claros","Casa",0,4,0,0,0,2,3,0,2,0
+"686","26/03/2020 21:36:24","964748ea7564aa2e5d685659b4f31218","Aluno","Januária","Casa",1,4,3,1,1,2,3,0,1,1
+"690","26/03/2020 21:42:37","928d357af66c90f049a3cfb8fed56049","Aluno","Januária","Casa",0,5,2,2,3,4,5,1,0,1
+"691","26/03/2020 21:42:53","0fcaa7c68ec9b38e4f304f3b111acf87","Tecnico administrativo","Diamantina","Casa",1,2,0,0,1,3,1,0,0,0
+"693","26/03/2020 21:45:18","38a439bbb2a8a8b735d88d524b4c3516","Aluno","Montes Claros","Casa",0,3,0,0,0,2,3,0,1,0
+"694","26/03/2020 21:49:13","11176549f24f7d6c1a60f66e75532161","Aluno","Araçuaí","Casa",3,3,1,0,1,2,2,0,1,0
+"695","26/03/2020 21:51:47","9d84bea2c5c93893bc61ccbe4b69b116","Aluno","Montes Claros","Casa",3,3,1,2,3,4,4,0,0,3
+"696","26/03/2020 21:56:10","5eca3417d495be01dc570084603dbf5c","Aluno","Montes Claros","Casa",1,3,1,0,0,3,3,1,1,0
+"697","26/03/2020 21:57:30","b982f1ef302f73de5ebcf9dd0b3bf5f9","Aluno","Porteirinha","Casa",2,2,0,0,0,2,2,1,0,1
+"698","26/03/2020 21:59:26","6e974b5c16b0717b9830af32a0e3d4a9","Professor","Diamantina","Casa",0,0,1,0,0,3,1,1,0,0
+"699","26/03/2020 22:09:53","f3c3319c824ab632342d6dcf338d289d","Aluno","Porteirinha","Casa",0,2,2,0,3,2,1,0,0,0
+"700","26/03/2020 22:14:23","1600afa679ca882f9005d213269e1c82","Aluno","Montes Claros","Casa",1,2,0,0,2,3,1,0,2,0
+"702","26/03/2020 22:18:35","8b3c2e1fedebae0e6f0fb51623ecfa4a","Aluno","Montes Claros","Apartamento, Casa",0,1,1,1,2,2,1,0,0,2
+"703","26/03/2020 22:22:16","b120b62a170aee323bee8f62648712f8","Aluno","Januária","Casa",0,5,0,0,0,4,2,1,1,0
+"705","26/03/2020 22:29:20","48028e6d0e05feeecf96bddf9196cc42","Aluno","Porteirinha","Casa",0,2,2,0,1,4,1,0,0,1
+"706","26/03/2020 22:31:45","c653befffec7a73328613e246606c6b5","Aluno","Montes Claros","Casa",2,5,1,0,2,3,2,0,3,1
+"708","26/03/2020 22:35:44","daf9de5d2b3438974a127f0b9ceafe12","Aluno","Montes Claros","Casa",0,2,0,0,1,3,1,0,0,1
+"710","26/03/2020 22:36:25","5199edc6d488e4fad32db68376397a15","Professor","Diamantina","Casa",0,4,0,0,3,4,2,1,0,0
+"711","26/03/2020 22:37:02","2ac12c3f948201115cb7ac94ad372211","Professor","Diamantina","Casa",1,0,2,0,1,4,1,2,0,1
+"712","26/03/2020 22:43:51","7d95f3de79c31c9dcaf7924e97d77e27","Aluno","Montes Claros","Casa",1,4,2,1,1,4,3,0,2,2
+"713","26/03/2020 22:46:25","40c345cef4503a178230b4e978219531","Aluno","Januária","República",0,12,0,0,0,8,12,1,0,0
+"715","26/03/2020 22:57:22","963413c486f84e52e012281cce7637a8","Aluno","Montes Claros","Casa",1,2,2,0,1,4,3,0,0,3
+"716","26/03/2020 23:02:31","a10565636f5d2d0a0f9d0de65439e0dc","Aluno","Montes Claros","Casa",0,3,1,1,3,4,2,1,1,1
+"717","26/03/2020 23:34:44","17159b96212575a584883daa076dcf8a","Aluno","Januária","Casa",1,4,0,2,2,4,2,0,3,0
+"718","26/03/2020 23:46:46","68012f7f1dc6112ceab0c0f9b6458520","Aluno","Porteirinha","Casa",0,2,1,1,0,2,2,0,0,1
+"719","26/03/2020 23:56:04","ce4d9de042c2579e02500bdc644c88ee","Aluno","Montes Claros","Apartamento",0,3,1,0,1,3,2,0,2,0
+"720","27/03/2020 00:19:22","ea8d72846ed212e32da6d69014fed2d2","Aluno","Januária","Pensionato",0,15,1,2,0,20,15,0,0,0
+"721","27/03/2020 00:53:50","fd0ed331e13e2513bd3adef22174df2e","Aluno","Januária","República",3,3,0,0,0,2,2,0,0,0
+"722","27/03/2020 00:54:59","2b05f9ab0fa3b1627e6a9f709adf24a4","Aluno","Montes Claros","Casa",0,4,0,0,1,3,2,0,0,0
+"723","27/03/2020 01:25:16","6422fd21bcc915fe51c9402246a8af1d","Aluno","Januária","Casa",1,3,1,0,1,3,3,0,1,1
+"724","27/03/2020 01:33:01","96410534d4f77b72267a7b84a660e19a","Aluno","Januária","Casa",0,2,1,0,0,5,2,0,0,1
+"725","27/03/2020 01:33:52","e4aa5ef509348f18503065182c2f9ac3","Aluno","Januária","Casa",0,2,1,0,0,2,2,1,1,0
+"728","27/03/2020 02:35:27","abd24d6331a1557f75102f994236e51b","Aluno","Januária","Casa",0,3,2,0,0,4,1,1,0,0
+"729","27/03/2020 07:04:25","4d44ee5d700451ab67b8826b7bd18e73","Aluno","Januária","Casa",3,1,0,0,0,1,3,0,0,0
+"730","27/03/2020 07:15:16","b6d8c498d58a6d181b88527b88742f2f","Aluno","Januária","República",0,4,0,0,1,5,4,0,0,0
+"731","27/03/2020 07:45:05","274657dda23328b49966277cc412a9ec","Aluno","Januária","Apartamento",0,2,0,0,0,1,2,0,0,0
+"732","27/03/2020 07:46:16","34156a419829a893f706a94d98273362","Aluno","Januária","Apartamento",0,2,0,0,0,2,2,0,0,0
+"733","27/03/2020 07:46:28","c7b80fe8510a1be8cde52432e3360ce4","Aluno","Januária","Apartamento",0,1,0,0,0,1,1,0,0,0
+"734","27/03/2020 08:18:13","cfd678fc0e8591488ec91580904295df","Aluno","Montes Claros","Casa",0,3,1,1,0,4,3,0,0,1
+"735","27/03/2020 08:25:26","85699c3864e50588a33e9d0690aa982b","Aluno","Januária","Casa",0,3,2,0,2,2,1,0,0,1
+"736","27/03/2020 08:47:24","f4016fc3fbce64ecf0a3815a55e8ba24","Aluno","Montes Claros","República",0,4,0,0,2,4,3,0,0,1
+"737","27/03/2020 08:51:10","698200e9a6db54bfb4cc86ed2806ceb1","Aluno","Januária","Casa",4,4,1,1,1,4,6,0,0,3
+"738","27/03/2020 08:54:51","71d459cb27cf55fcf1a649c2cc52fd16","Professor","Januária","Casa",0,2,2,0,1,3,2,1,0,1
+"739","27/03/2020 09:08:39","a697fa396982a53fdc1230a09259154e","Tecnico administrativo","Diamantina","Apartamento",0,1,1,0,2,3,0,1,0,0
+"740","27/03/2020 09:14:41","05ce3eec9b4bad12d0c9c5ead3db5942","Aluno","Montes Claros","Apartamento",0,4,0,0,0,2,4,0,0,0
+"741","27/03/2020 09:15:23","a7190aba6a74455ee3a10b43356dbda4","Professor","Diamantina","Casa",1,0,2,0,0,3,1,1,0,1
+"742","27/03/2020 09:15:49","4290e0b246b08a25d735f9026c436f6f","Professor","Diamantina","Sítio",2,4,1,0,0,3,3,2,0,0
+"743","27/03/2020 09:24:02","50ab5e5e5cdfc8e519ce56f0fb34b2f8","Aluno","Januária","Pensionato",0,20,0,0,0,20,20,0,5,0
+"744","27/03/2020 09:25:57","48b6164c054425b3f5bc85500eb6dc6b","Professor","Diamantina","Casa",0,2,0,0,0,4,1,1,0,0
+"745","27/03/2020 09:29:39","ab185b30cd7422da8bf0140ef5d8d465","Tecnico administrativo","Diamantina","Apartamento",0,2,0,0,0,3,1,0,0,0
+"746","27/03/2020 09:35:53","8fbd2a846282713488090a09d752230f","Aluno","Porteirinha","Casa",1,1,2,0,0,3,2,3,1,1
+"747","27/03/2020 09:37:36","734930a8ddd15c6dee7c3ab509ffe52b","Professor","Januária","Casa",1,1,1,0,0,5,0,1,0,1
+"748","27/03/2020 09:45:00","622dd65ccf867ca87b89f0dd0b3f04c4","Aluno","Januária","Casa",0,0,0,0,0,2,2,0,0,0
+"749","27/03/2020 09:47:48","563418954a7c551692adfb4d57ef9ca1","Aluno","Porteirinha","Apartamento",1,1,2,0,0,3,2,0,0,1
+"750","27/03/2020 09:55:51","248b178591e2d7ec60eec5a8769a7861","Aluno","Porteirinha","Casa",1,2,1,2,2,4,4,0,1,0
+"751","27/03/2020 09:58:43","f0a881f0651b399f697108fc82ff27e1","Aluno","Porteirinha","Casa",1,2,1,2,2,4,4,0,1,0
+"752","27/03/2020 10:00:32","afea1eedde5426af593cf47d6fc423c0","Aluno","Montes Claros","Casa",0,3,1,1,2,3,2,1,1,0
+"753","27/03/2020 10:07:14","1dc93e563beaf1621f03a6ad2be9b695","Tecnico administrativo","Diamantina","Apartamento",0,1,1,0,0,2,1,0,0,0
+"754","27/03/2020 10:18:34","bd7504dfcd6d0a2b8540acec07d609a2","Aluno","Teófilo Otoni","Apartamento",0,3,0,0,0,4,1,0,2,0
+"755","27/03/2020 10:22:06","fc0250542726a99c117c93f35718c5b9","Aluno","Januária","Casa",0,1,1,0,0,2,1,0,0,0
+"756","27/03/2020 10:22:26","7ec34e763f3b001bea9bf275749428a1","Aluno","Januária","Casa",0,3,1,0,0,2,2,0,1,1
+"757","27/03/2020 10:24:42","3ddb277a5eb1da31a0cb18c3dcbbff22","Aluno","Januária","Apartamento",0,2,0,0,0,3,1,0,0,0
+"758","27/03/2020 10:41:58","ead57ae212e57d5574b3266f76a901ef","Aluno","Araçuaí","Casa",1,3,1,2,4,4,2,0,1,1
+"759","27/03/2020 10:49:15","b4c93b44ff49eb7f7fb9805935b5b067","Aluno","Araçuaí","Casa",1,1,2,0,0,2,1,0,0,1
+"760","27/03/2020 10:52:57","f753097c8424b0c824c8ddff70d14906","Aluno","Januária","Casa",1,4,1,0,0,2,4,0,1,0
+"761","27/03/2020 10:56:04","0e4fbb02f87edb7dab074ca261514660","Aluno","Porteirinha","Casa",0,0,1,0,1,2,1,0,0,1
+"762","27/03/2020 10:56:29","35166c3f3a51b52066f8688c87845c02","Aluno","Montes Claros","Apartamento",0,3,1,0,3,2,3,0,1,1
+"763","27/03/2020 10:57:47","611e6b1d06a7a5d84c1bf0ba0d6b2c03","Aluno","Januária","Apartamento",0,1,0,0,0,2,1,0,0,0
+"764","27/03/2020 10:58:58","6de6fabf9e10f675c7bed521e6948e21","Aluno","Januária","República",0,4,0,0,0,3,4,0,0,0
+"765","27/03/2020 11:08:50","08d55c43643fe064ec1e2d179a92f753","Aluno","Januária","Casa",8,4,1,0,0,2,4,0,1,0
+"766","27/03/2020 11:50:43","c6eb9163a0333acee3dea1c771f62c3c","Aluno","Januária","Casa",4,2,0,0,0,3,1,1,0,0
+"768","27/03/2020 12:08:18","0aa9447e36e4432c67e3c5469c2754f0","Aluno","Araçuaí","Casa",2,2,0,0,0,2,2,0,1,0
+"769","27/03/2020 12:31:13","ba530092ad4e6854a8b504c0505d1032","Aluno","Montes Claros","Casa",0,2,0,0,0,1,2,0,0,0
+"770","27/03/2020 12:09:57","e41a4df603e3ed9fe6a87a05f45beca7","Aluno","Januária","Casa",0,1,2,0,0,3,1,0,1,0
+"771","27/03/2020 12:37:08","a46fc5a5e9d7086ca40862b530359f4e","Aluno","Araçuaí","Casa",0,3,2,0,1,3,2,0,0,1
+"772","27/03/2020 12:36:26","7d614ab15086d8c9205d1a125c13c928","Aluno","Januária","Casa",1,3,0,0,0,4,2,2,0,0
+"774","27/03/2020 12:41:40","c8df518d6de2ffd0719f63fb724ac3bd","Aluno","Januária","Casa",0,1,0,1,1,2,1,0,0,1
+"775","27/03/2020 13:15:26","9a87258a45ecbd60a5f331e13d743905","Aluno","Januária","Casa",0,2,0,0,1,3,1,0,0,2
+"776","27/03/2020 13:26:42","428f2758e090fda1e0bdfdb4f7b45fdd","Aluno","Januária","Alojamento",0,1,0,0,0,1,1,0,1,1
+"777","27/03/2020 13:56:21","f74fcdae88f6f602cdf92a40bf5fce2b","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,0,0,1
+"778","27/03/2020 14:10:50","8fc6b101e85ee7f97a3306b505e79b0c","Aluno","Januária","Apartamento",0,1,1,2,1,4,2,1,1,1
+"779","27/03/2020 14:22:59","088706dd3d335bca53c1c152b1ae2f6c","Aluno","Januária","Casa",0,2,0,1,1,2,2,0,0,1
+"781","27/03/2020 14:53:48","a9292f301aed1cff59bc1a3e8ae4c549","Aluno","Januária","República",0,3,0,0,0,3,3,0,0,0
+"782","27/03/2020 14:56:05","a35f57bf7431ebaf6fba752cdd7cc211","Aluno","Januária","Casa",0,5,1,1,0,3,3,0,3,2
+"783","27/03/2020 15:00:22","aea98d2f3185458a270bb6aebe9a5770","Aluno","Montes Claros","Casa",0,3,2,0,2,3,3,2,0,0
+"784","27/03/2020 15:02:20","d624ea3af0d012f29353e338703c033a","Aluno","Januária","Casa",0,1,1,0,1,3,1,0,0,0
+"786","27/03/2020 18:31:11","deb7840c3267ac396ff9360cb9582f52","Aluno","Januária","Casa",0,2,0,0,0,4,2,0,0,1
+"787","27/03/2020 18:41:28","f9f01dc6bb32adb5458a9dac7de034d2","Aluno","Montes Claros","Casa",0,1,2,0,2,2,1,0,0,1
+"788","27/03/2020 19:43:29","9217922849c32e87042c0e4dfcbd57e8","Aluno","Montes Claros","Apartamento",0,1,1,0,1,2,1,1,0,0
+"789","27/03/2020 19:58:22","7a4ad3434de06bcae7777fbab1909cc0","Aluno","Montes Claros","Apartamento",0,3,0,0,0,3,3,0,0,0
+"790","27/03/2020 20:02:57","dc60737245b8d2ba398e26c29de7230d","Aluno","Montes Claros","Casa",0,2,0,2,1,4,1,0,1,0
+"791","27/03/2020 20:05:27","a88b3d3991e0199df634300cbc7aca8c","Aluno","Montes Claros","Casa",0,3,1,1,0,4,3,1,1,1
+"792","27/03/2020 20:40:24","05688918ef4fe577117f4433abe24758","Aluno","Salinas","Casa",0,3,0,0,0,2,2,0,0,1
+"793","27/03/2020 21:35:52","cf8f0f8c72bf2a2f20cf05151dec9d9f","Aluno","Teófilo Otoni","Casa",0,3,1,0,0,2,3,0,1,0
+"794","27/03/2020 21:36:37","e82f23438c456ea11a03db773d2b54bb","Aluno","Montes Claros","Casa",0,1,2,0,2,2,1,0,0,0
+"796","28/03/2020 03:16:03","fd8e4103a4e419917af10377645049e6","Professor","Januária","Casa",0,2,0,2,1,4,1,1,0,0
+"797","28/03/2020 10:11:55","5a1a8b5a56749039e28fb6e378a48b98","Aluno","Montes Claros","Pensionato",0,7,0,0,1,7,7,0,0,0
+"798","28/03/2020 12:11:56","95fc578c151e6649f69cc313d595c398","Aluno","Januária","Pensionato",0,18,2,3,3,25,19,0,3,1
+"799","28/03/2020 12:14:21","df4ee211a008fcb13d2fbbd2c06d17b2","Aluno","Januária","Casa",0,3,1,0,0,3,2,0,0,0
+"800","28/03/2020 14:03:16","257e6b12f8380e4893224c65318bde02","Aluno","Januária","Casa",0,3,2,0,0,4,3,1,1,0
+"803","28/03/2020 16:55:23","9505b33f7ef31814868cbbf3657ccc2f","Aluno","Montes Claros","Casa",0,1,1,0,1,2,2,0,0,1
+"804","28/03/2020 17:37:59","15733570f701dd4abaf6a9b486d5e6f9","Nenhum","Januária","Casa",0,2,2,0,3,3,1,0,1,2
+"805","28/03/2020 18:51:29","a86210f5425cf2aad9be782ba4555145","Aluno","Montes Claros","Casa",1,2,1,0,2,2,2,1,0,1
+"806","28/03/2020 19:38:40","0819d882580c38ce1064a5339c4f420b","Aluno","Januária","República",0,3,0,0,0,2,3,0,0,0
+"807","28/03/2020 19:39:14","a004d623941b57662345be3feb987572","Aluno","Montes Claros","Casa",0,0,2,0,1,3,2,1,1,0
+"808","28/03/2020 20:33:01","5e2dd137a7ba2164db8558066d11e812","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,0,0,2
+"809","28/03/2020 20:55:49","58d364dbdfe9751ae5622f80375e7340","Aluno","Januária","Casa",0,3,1,0,0,2,2,0,0,0
+"10","26/03/2020 07:03:32","","Professor","Januária","Casa",1,1,0,0,0,3,1,1,0,0
+"11","26/03/2020 07:12:57","","Professor","Araçuaí","Casa",2,2,0,0,0,3,2,2,0,0
+"15","26/03/2020 08:18:37","","Professor","Montes Claros","Casa",0,0,1,0,1,2,0,1,0,0
+"16","26/03/2020 08:25:04","","Professor","Januária","Casa",0,0,0,2,2,3,1,2,0,0
+"19","26/03/2020 08:58:04","","Professor","Almenara","Casa",0,1,2,0,1,3,1,1,0,0
+"20","26/03/2020 09:21:06","","Professor","Januária","Casa",1,1,2,0,1,2,2,1,1,0
+"25","26/03/2020 09:37:30","","Aluno","Januária","Casa",0,1,3,2,0,3,1,1,0,0
+"27","26/03/2020 09:37:52","","Aluno","Januária","Casa",1,4,1,1,0,4,5,1,0,0
+"28","26/03/2020 09:38:39","","Professor","Januária","Casa",2,2,0,0,0,3,1,1,0,1
+"29","26/03/2020 09:39:46","","Aluno","Januária","Casa",0,2,1,0,2,3,3,1,0,0
+"33","26/03/2020 09:43:40","","Aluno","Januária","República",0,5,1,0,0,5,4,0,2,0
+"38","26/03/2020 09:47:06","","Aluno","Januária","Casa",0,2,2,0,1,3,1,0,1,0
+"40","26/03/2020 09:48:09","","Aluno","Januária","Casa",0,2,2,0,0,3,1,0,0,2
+"41","26/03/2020 09:49:34","","Aluno","Januária","Casa",1,3,1,0,0,4,3,0,2,0
+"48","26/03/2020 09:55:01","","Aluno","Januária","Casa",1,3,0,0,1,3,2,0,2,0
+"49","26/03/2020 09:55:05","","Aluno","Januária","Casa",1,5,1,0,1,4,3,0,0,1
+"53","26/03/2020 09:57:40","","Aluno","Januária","Casa",0,2,2,0,1,2,2,0,0,1
+"67","26/03/2020 10:04:49","","Aluno","Januária","Apartamento",0,2,0,0,0,2,2,0,0,0
+"78","26/03/2020 10:11:16","","Professor","Januária","Casa",4,1,1,0,0,3,3,1,0,0
+"80","26/03/2020 10:12:44","","Tecnico administrativo","Januária","Casa",2,1,1,0,1,3,1,1,0,0
+"85","26/03/2020 10:19:08","","Aluno","Januária","Casa",0,1,1,0,0,2,1,0,1,1
+"88","26/03/2020 10:24:12","","Professor","Januária","Casa",0,3,2,0,0,4,4,1,1,0
+"93","26/03/2020 10:27:15","","Aluno","Januária","Casa",0,3,0,1,1,3,3,0,0,0
+"106","26/03/2020 10:35:54","","Aluno","Januária","Casa",0,3,2,0,0,4,3,1,0,1
+"124","26/03/2020 10:58:34","","Aluno","Januária","Casa",0,1,2,0,1,2,1,0,0,2
+"126","26/03/2020 11:01:26","","Aluno","Januária","Casa",1,4,0,0,2,3,3,0,0,0
+"159","26/03/2020 11:39:58","","Aluno","Januária","Fazenda",2,2,0,0,0,2,2,0,0,0
+"167","26/03/2020 11:47:19","","Aluno","Januária","Casa",1,2,0,0,1,3,2,0,0,2
+"175","26/03/2020 11:58:06","","Aluno","Januária","Casa",0,1,0,0,0,2,1,0,0,0
+"178","26/03/2020 12:01:18","","Aluno","Januária","Casa",0,2,2,1,1,4,2,0,0,2
+"186","26/03/2020 12:07:59","","Aluno","Januária","Casa",0,3,1,1,0,3,3,0,0,1
+"202","26/03/2020 12:24:50","","Aluno","Januária","Casa",0,1,1,0,0,2,1,0,0,0
+"217","26/03/2020 12:57:58","","Aluno","Januária","Casa",0,3,0,0,0,3,1,0,0,1
+"223","26/03/2020 13:20:18","","Aluno","Januária","Casa",1,1,2,0,0,2,2,1,0,1
+"228","26/03/2020 13:28:34","","Professor","Teófilo Otoni","Casa",0,1,2,0,0,3,1,1,0,1
+"234","26/03/2020 13:36:23","","Aluno","Januária","Casa",0,3,1,1,1,4,1,1,3,0
+"239","26/03/2020 13:44:15","","Tecnico administrativo","Januária","Casa",1,2,0,0,0,3,0,1,0,0
+"241","26/03/2020 13:55:09","","Aluno","Januária","Casa",0,4,1,0,2,3,3,0,0,1
+"242","26/03/2020 13:55:10","","Aluno","Januária","Casa",0,3,2,0,0,3,2,0,1,2
+"254","26/03/2020 14:16:29","","Aluno","Januária","Casa",0,5,1,0,0,2,5,0,1,1
+"259","26/03/2020 14:24:19","","Aluno","Januária","Casa",0,1,0,0,0,2,0,0,1,0
+"262","26/03/2020 14:26:09","","Aluno","Januária","Casa",0,1,2,0,3,3,1,1,1,1
+"265","26/03/2020 14:27:22","","Aluno","Januária","Casa",0,5,2,0,3,4,3,1,2,1
+"266","26/03/2020 14:28:00","","Aluno","Januária","Casa",0,2,0,1,1,2,1,0,0,1
+"267","26/03/2020 14:30:06","","Aluno","Januária","Casa",0,2,2,0,1,3,2,0,2,0
+"268","26/03/2020 14:31:18","","Aluno","Januária","Casa",0,2,0,0,0,2,1,0,2,0
+"274","26/03/2020 14:49:15","","Aluno","Januária","Casa",0,0,0,0,1,1,1,0,1,1
+"281","26/03/2020 14:56:45","","Aluno","Januária","Casa",0,1,2,3,2,6,1,0,0,3
+"288","26/03/2020 15:04:44","","Aluno","Januária","Casa",5,3,0,2,2,3,3,0,0,0
+"310","26/03/2020 15:34:16","","Aluno","Januária","Casa",0,5,1,1,0,4,3,0,4,0
+"314","26/03/2020 15:45:16","","Aluno","Teófilo Otoni","Casa",1,4,0,0,0,2,3,0,0,1
+"317","26/03/2020 15:49:39","","Aluno","Teófilo Otoni","Apartamento",0,2,1,0,1,4,2,0,1,0
+"318","26/03/2020 15:49:55","","Aluno","Januária","Casa",0,2,2,0,2,3,2,1,0,0
+"325","26/03/2020 16:06:26","","Aluno","Januária","República",0,3,0,0,1,3,3,0,0,0
+"329","26/03/2020 16:08:18","","Aluno","Januária","Apartamento",0,1,0,0,1,1,1,0,0,0
+"330","26/03/2020 16:08:27","","Aluno","Januária","República",0,2,0,0,0,1,2,0,0,0
+"331","26/03/2020 16:08:27","","Aluno","Januária","Casa, República",3,3,0,0,1,3,3,0,0,0
+"335","26/03/2020 16:20:30","","Aluno","Januária","Casa",0,3,2,0,2,3,3,1,1,0
+"350","26/03/2020 16:54:36","","Aluno","Januária","Casa",0,0,2,0,1,2,1,0,0,0
+"360","26/03/2020 17:03:45","","Aluno","Januária","Casa",1,3,2,1,2,3,4,1,1,0
+"362","26/03/2020 17:05:59","","Aluno","Januária","Casa",0,4,0,0,1,3,2,0,3,1
+"363","26/03/2020 17:05:55","","Aluno","Januária","Casa",0,2,2,0,0,3,2,1,1,0
+"366","26/03/2020 17:09:33","","Aluno","Januária","Casa",1,3,0,0,0,3,2,0,2,1
+"368","26/03/2020 17:11:45","","Aluno","Januária","Casa",0,2,0,0,0,3,2,0,1,1
+"371","26/03/2020 17:22:26","","Aluno","Januária","Casa",0,2,1,0,0,3,1,0,0,0
+"380","26/03/2020 18:00:04","","Aluno","Porteirinha","Casa",0,1,1,0,0,2,1,0,0,1
+"381","26/03/2020 18:00:06","","Aluno","Porteirinha","Casa",0,1,1,1,0,3,1,0,0,0
+"383","26/03/2020 18:01:43","","Aluno","Porteirinha","Casa",0,3,2,0,1,2,2,1,1,1
+"395","26/03/2020 18:07:13","","Aluno","Araçuaí","Casa",0,1,1,0,0,2,1,1,0,0
+"396","26/03/2020 18:07:15","","Aluno","Januária","Casa",0,1,1,1,1,4,1,1,0,0
+"397","26/03/2020 18:07:23","","Aluno","Porteirinha","Casa",0,1,2,0,1,3,1,0,0,2
+"401","26/03/2020 18:12:00","","Aluno","Araçuaí","Casa",0,1,1,1,0,3,1,0,0,1
+"414","26/03/2020 18:19:19","","Professor","Salinas","Apartamento",0,0,0,0,0,2,0,1,0,0
+"425","26/03/2020 18:25:10","","Aluno","Montes Claros","Casa",0,3,2,0,0,4,1,0,2,1
+"426","26/03/2020 18:27:17","","Aluno","Porteirinha","Casa",0,2,0,0,1,3,1,0,0,1
+"430","26/03/2020 18:30:16","","Aluno","Porteirinha","Casa",0,0,0,0,0,3,2,0,1,1
+"437","26/03/2020 18:33:11","","Professor","Montes Claros","Apartamento",0,2,0,2,2,3,1,1,0,0
+"438","26/03/2020 18:33:33","","Aluno","Montes Claros","Casa",0,3,2,0,2,3,4,0,0,3
+"442","26/03/2020 18:39:39","","Aluno","Januária","Casa",0,3,1,1,0,3,3,0,0,1
+"444","26/03/2020 18:40:59","","Aluno","Araçuaí","Casa",0,2,0,0,0,1,0,0,1,1
+"459","26/03/2020 18:53:10","","Tecnico administrativo","Diamantina","Apartamento",0,2,0,0,1,2,0,0,0,0
+"460","26/03/2020 18:55:32","","Aluno","Montes Claros","Casa",0,1,2,0,1,3,1,1,0,0
+"461","26/03/2020 18:55:47","","Aluno","Montes Claros","Casa",1,1,2,0,0,3,2,1,0,0
+"472","26/03/2020 18:57:06","","Aluno","Montes Claros","Casa",1,1,2,0,3,2,2,0,2,2
+"473","26/03/2020 18:57:46","","Aluno","Montes Claros","Casa",0,3,2,0,2,3,3,0,1,1
+"475","26/03/2020 18:58:18","","Aluno","Montes Claros","Casa",0,2,1,2,3,3,1,0,1,1
+"490","26/03/2020 19:00:25","","Aluno","Montes Claros","Casa",1,1,2,0,0,3,2,0,1,0
+"494","26/03/2020 19:01:45","","Aluno","Montes Claros","Casa",0,1,0,0,0,2,1,0,0,0
+"498","26/03/2020 19:03:00","","Aluno","Montes Claros","Casa",0,1,2,0,0,3,1,0,0,2
+"504","26/03/2020 19:04:34","","Aluno","Montes Claros","Apartamento",0,2,1,1,2,2,2,0,1,2
+"506","26/03/2020 19:05:01","","Aluno","Montes Claros","Casa",0,2,2,0,0,2,2,0,0,0
+"516","26/03/2020 19:07:45","","Aluno","Montes Claros","Casa",0,2,2,0,0,3,2,0,2,0
+"521","26/03/2020 19:09:02","","Aluno","Montes Claros","Casa",0,4,1,0,0,3,4,0,1,2
+"524","26/03/2020 19:10:13","","Aluno","Montes Claros","Apartamento",0,2,0,0,0,3,2,0,0,0
+"538","26/03/2020 19:17:02","","Aluno","Januária","Apartamento",0,2,0,0,0,2,1,0,1,0
+"545","26/03/2020 19:19:47","","Aluno","Montes Claros","Casa",0,3,2,1,3,5,3,0,0,1
+"548","26/03/2020 19:22:36","","Aluno","Januária","Apartamento",0,3,0,0,0,3,3,0,0,0
+"556","26/03/2020 19:27:45","","Tecnico administrativo","Diamantina","Casa",0,1,2,0,0,2,1,1,10,0
+"558","26/03/2020 19:29:22","","Aluno","Montes Claros","Apartamento",0,1,0,0,0,1,1,0,0,0
+"564","26/03/2020 19:30:24","","Aluno","Montes Claros","Casa",1,3,0,0,1,3,1,0,0,0
+"569","26/03/2020 19:31:49","","Aluno","Montes Claros","Casa",1,1,2,0,1,1,2,0,0,2
+"576","26/03/2020 19:35:08","","Aluno","Montes Claros","Casa",1,2,1,0,0,4,2,1,0,0
+"585","26/03/2020 19:41:23","","Tecnico administrativo","Diamantina","Apartamento",0,1,1,0,0,2,2,0,0,0
+"586","26/03/2020 19:41:28","","Aluno","Montes Claros","Casa",1,1,2,0,0,2,2,0,0,0
+"590","26/03/2020 19:43:02","","Aluno","Montes Claros","Casa",5,3,2,0,2,4,2,0,2,0
+"593","26/03/2020 19:43:24","","Aluno","Januária","Casa",0,2,0,0,0,3,2,0,0,1
+"612","26/03/2020 19:52:41","","Aluno","Montes Claros","Casa",2,3,1,0,0,3,4,0,0,1
+"618","26/03/2020 19:58:18","","Professor","Diamantina","Casa",0,0,0,1,1,2,0,1,0,0
+"622","26/03/2020 19:59:52","","Aluno","Porteirinha","Sítio",0,3,1,0,0,2,3,0,0,1
+"623","26/03/2020 20:01:22","","Tecnico administrativo","Diamantina","Apartamento",2,1,0,0,0,2,0,0,0,0
+"624","26/03/2020 20:03:56","","Professor","Diamantina","Casa",0,2,2,0,1,5,2,1,0,1
+"646","26/03/2020 20:27:44","","Aluno","Montes Claros","Casa",0,3,0,0,0,3,3,0,0,0
+"663","26/03/2020 21:01:47","","Tecnico administrativo","Montes Claros","Apartamento",0,0,1,0,1,1,0,0,1,0
+"665","26/03/2020 21:04:12","","Aluno","Montes Claros","Casa",0,2,1,1,3,3,2,2,1,1
+"667","26/03/2020 21:07:34","","Aluno","Montes Claros","Casa",0,1,1,0,1,4,1,0,0,1
+"679","26/03/2020 21:18:55","","Aluno","Januária","República",0,6,0,0,1,3,6,0,0,0
+"687","26/03/2020 21:40:19","","Aluno","Januária","Casa",1,3,1,0,0,8,3,2,0,1
+"688","26/03/2020 21:42:25","","Aluno","Porteirinha","Casa",0,2,1,0,1,3,1,0,0,1
+"689","26/03/2020 21:42:30","","Tecnico administrativo","Diamantina","Apartamento",0,2,0,0,0,2,0,0,0,0
+"692","26/03/2020 21:43:00","","Aluno","Montes Claros","Apartamento",0,2,0,0,0,2,2,0,0,0
+"701","26/03/2020 22:15:44","","Nenhum","Salinas","Casa",3,2,0,0,0,2,4,0,1,2
+"704","26/03/2020 22:28:21","","Aluno","Montes Claros","República",0,4,0,0,3,4,4,3,0,2
+"707","26/03/2020 22:31:49","","Aluno","Januária","Casa",0,2,2,0,2,2,2,0,0,2
+"709","26/03/2020 22:36:16","","Aluno","Porteirinha","Casa",0,1,0,1,0,3,1,0,0,0
+"714","26/03/2020 22:54:04","","Aluno","Januária","República",0,4,0,0,1,2,4,0,0,0
+"726","27/03/2020 01:37:15","","Aluno","Januária","Pensionato",0,11,0,0,0,9,11,1,0,0
+"727","27/03/2020 02:16:53","","Aluno","Montes Claros","Casa",0,3,1,0,0,3,2,1,0,1
+"767","27/03/2020 11:55:51","","Aluno","Januária","Casa",0,2,2,1,1,3,2,1,0,2
+"773","27/03/2020 12:54:10","","Aluno","Januária","Casa",0,2,0,0,1,2,1,0,0,0
+"780","27/03/2020 14:34:22","","Aluno","Januária","Casa",0,4,1,3,1,5,2,0,0,0
+"785","27/03/2020 16:13:34","","Professor","Januária","Casa",1,1,1,0,0,3,1,1,0,0
+"795","27/03/2020 23:29:28","","Aluno","Januária","Casa",0,1,0,0,1,2,2,0,0,1
+"801","28/03/2020 15:32:30","","Aluno","Januária","Casa",0,2,2,0,1,3,2,0,1,1
+"802","28/03/2020 16:10:41","","Aluno","Montes Claros","Apartamento",0,0,0,0,0,1,1,0,0,0
